@@ -1,0 +1,2091 @@
+{\rtf1\ansi\ansicpg936\deff0\deflang1033\deflangfe2052{\fonttbl{\f0\fnil\fprq2\fcharset134 \'cb\'ce\'cc\'e5;}}
+\viewkind4\uc1\pard\nowidctlpar\f0\fs18 abbreviation   n.\'bd\'da\'c2\'d4\'a3\'ac\'cb\'f5\'d0\'b4\'a3\'ac\'cb\'f5\'b6\'cc\par
+abide   vt.\'d7\'f1\'ca\'d8   vt.\'c8\'cc\'ca\'dc\par
+abolish   vt.\'b7\'cf\'b3\'fd\'a3\'ac\'c8\'a1\'cf\'fb\par
+absent   a.\'b2\'bb\'d4\'da\'d2\'e2\'b5\'c4\par
+absorption   n.\'ce\'fc\'ca\'d5\'a3\'bb\'d7\'a8\'d7\'a2\par
+abstract   a.\'c0\'ed\'c2\'db\'c9\'cf\'b5\'c4   n.\'b3\'e9\'cf\'f3\par
+absurd   a.\'b2\'bb\'ba\'cf\'c0\'ed\'b5\'c4\'a3\'ac\'bb\'c4\'cc\'c6\'b5\'c4\par
+abundance   n.\'b7\'e1\'b8\'bb\'a3\'ac\'b3\'e4\'d4\'a3\par
+accessory   n.\'cd\'ac\'c4\'b1   a.\'b8\'bd\'ca\'f4\'b5\'c4\par
+accord   n.\'b5\'f7\'ba\'cd\'a3\'ac\'b7\'fb\'ba\'cf\'a3\'bb\'d0\'ad\'d2\'e9\par
+acknowledge   vt.\'b3\'d0\'c8\'cf\'a3\'bb\'b8\'e6\'d6\'aa\'ca\'d5\'b5\'bd\par
+acquaint   vt.\'ca\'b9\'c8\'cf\'ca\'b6\'a3\'ac\'ca\'b9\'c1\'cb\'bd\'e2\par
+action   n.\'d7\'f7\'d3\'c3\'a3\'bb\'c7\'e9\'bd\'da\par
+adhere   vi.\'d5\'b3\'b8\'bd\'a3\'bb\'d7\'b7\'cb\'e6\'a3\'bb\'bc\'e1\'b3\'d6\par
+adjacent   a.\'c5\'fe\'c1\'ac\'b5\'c4\'a3\'bb\'bd\'f4\'bd\'d3\'d7\'c5\'b5\'c4\par
+adjoin   vt.\'cc\'f9\'bd\'fc\'a3\'ac\'c5\'fe\'c1\'ac\'a3\'bb\'bf\'bf\'bd\'fc\par
+adjustable   a.\'bf\'c9\'b5\'f7\'d5\'fb\'b5\'c4\'a3\'ac\'bf\'c9\'d0\'a3\'d7\'bc\'b5\'c4\par
+administration   n.\'be\'d6(\'bb\'f2\'ca\'f0\'a1\'a2\'b4\'a6\'b5\'c8)\par
+admiration   n.\'c7\'d5\'c5\'e5\'a3\'bb\'d4\'de\'c3\'c0\'a3\'ac\'cf\'db\'c4\'bd\par
+adoption   n.\'ca\'d5\'d1\'f8\'a3\'bb\'b2\'c9\'c4\'c9\'a3\'ac\'b2\'c9\'c8\'a1\par
+adore   vt.\'b3\'e7\'b0\'dd\'a3\'bb\'ba\'dc\'cf\'b2\'bb\'b6\par
+advantageous   a.\'d3\'d0\'c0\'fb\'b5\'c4\'a3\'ac\'d3\'d0\'d6\'fa\'b5\'c4\par
+advertise   vt.\'cd\'a8\'d6\'aa   vi.\'b5\'c7\'b9\'e3\'b8\'e6\par
+advocate   n.\'b1\'e7\'bb\'a4\'d5\'df   vt.\'d3\'b5\'bb\'a4\par
+aerial   a.\'bf\'d5\'c6\'f8\'b5\'c4\'a3\'bb\'ba\'bd\'bf\'d5\'b5\'c4\par
+aerospace   n.\'ba\'bd\'bf\'d5\'ba\'cd\'d3\'ee\'d6\'e6\'ba\'bd\'d0\'d0\'bf\'d5\'bc\'e4\par
+affirm   vt.\'b6\'cf\'d1\'d4\'a3\'ac\'c5\'fa\'d7\'bc\'a3\'bb\'d6\'a4\'ca\'b5\par
+agitation   n.\'b9\'c4\'b6\'af\'a3\'ac\'ec\'d4\'b6\'af\'a3\'bb\'bd\'c1\'b6\'af\par
+agreeable   a.\'e3\'ab\'d2\'e2\'b5\'c4\'a3\'bb\'cd\'ac\'d2\'e2\'b5\'c4\par
+alas   int.\'b0\'a6\'a3\'ac\'b0\'a5\'d1\'bd\par
+album   n.\'d5\'b3\'cc\'f9\'b2\'be\'a3\'bb\'cf\'e0\'b2\'e1\'a3\'bb\'ce\'c4\'d1\'a1\par
+alert   a.\'be\'af\'cc\'e8\'b5\'c4\'a3\'bb\'bb\'ee\'d4\'be\'b5\'c4\par
+algebra   n.\'b4\'fa\'ca\'fd\'d1\'a7\par
+alien   a.\'cd\'e2\'b9\'fa\'b5\'c4   n.\'cd\'e2\'b9\'fa\'c8\'cb\par
+alignment   n.\'b6\'d3\'c1\'d0\'a3\'bb\'bd\'e1\'c3\'cb\'a3\'ac\'c1\'aa\'ba\'cf\par
+allied   a.\'c1\'aa\'ba\'cf\'b5\'c4\'a3\'bb\'c1\'aa\'d2\'f6\'b5\'c4\par
+allowance   n\'bd\'f2\'cc\'f9\'a3\'ac\'b2\'b9\'d6\'fa\'b7\'d1\par
+alongside   prep.\'d4\'da\'a1\'ad\'c5\'d4\'b1\'df\par
+ally   n.\'c3\'cb\'b9\'fa\'a3\'ac\'cd\'ac\'c3\'cb\'d5\'df\'a3\'ac\'bb\'ef\'b0\'e9\par
+alteration   n.\'b1\'e4\'b8\'fc\'a3\'ac\'b8\'c4\'b1\'e4\'a3\'bb\'ca\'b4\'b1\'e4\par
+alternate   vt.\'ca\'b9\'bd\'bb\'cc\'e6   a.\'bd\'bb\'cc\'e6\'b5\'c4\par
+amateur   a.\'d2\'b5\'d3\'e0\'b5\'c4n.\'d2\'b5\'d3\'e0\'b0\'ae\'ba\'c3\'d5\'df\par
+ambassador   n.\'b4\'f3\'ca\'b9\'a3\'ac\'ca\'b9\'bd\'da\par
+ambient   a.\'d6\'dc\'ce\'a7\'b5\'c4\'a3\'ac\'b0\'fc\'ce\'a7\'d7\'c5\'b5\'c4\par
+ambiguous   a.\'c4\'a3\'c0\'e2\'c1\'bd\'bf\'c9\'b5\'c4\'a3\'bb\'b7\'d6\'c6\'e7\'b5\'c4\par
+ambitious   a.\'d3\'d0\'d0\'db\'d0\'c4\'b5\'c4\'a3\'bb\'c8\'c8\'cd\'fb\'b5\'c4\par
+ample   a.\'d7\'e3\'b9\'bb\'b5\'c4\'a3\'bb\'bf\'ed\'b3\'a8\'b5\'c4\par
+amplitude   n.\'b9\'e3\'b4\'f3\'a3\'bb\'b3\'e4\'d7\'e3\'a3\'bb\'d5\'f1\'b7\'f9\par
+amusement   n.\'d3\'e9\'c0\'d6\'a3\'ac\'cf\'fb\'c7\'b2\'a3\'ac\'c0\'d6\'c8\'a4\par
+analogue   n.\'c0\'e0\'cb\'c6\'ce\'ef\'a3\'bb\'cd\'ac\'d4\'b4\'d3\'ef\par
+analogy   n.\'cf\'e0\'cb\'c6\'a3\'ac\'c0\'e0\'cb\'c6\'a3\'bb\'b1\'c8\'c4\'e2\par
+analytic   a.\'b7\'d6\'ce\'f6\'b5\'c4\'a3\'bb\'b7\'d6\'bd\'e2\'b5\'c4\par
+anniversary   n.\'d6\'dc\'c4\'ea\'bc\'cd\'c4\'ee\'c8\'d5\par
+announce   vt.\'b1\'a8\'b8\'e6\'a1\'ad\'b5\'c4\'c0\'b4\'b5\'bd\par
+annually   ad.\'c4\'ea\'c4\'ea\'a3\'ac\'c3\'bf\'c4\'ea\par
+anode   n.\'d1\'f4\'bc\'ab\'a3\'ac\'d5\'fd\'bc\'ab\'a3\'ac\'b0\'e5\'bc\'ab\par
+answer   vi.\'b7\'fb\'ba\'cf\'a3\'ac\'ca\'ca\'ba\'cf\par
+antarctic   a.\'c4\'cf\'bc\'ab\'b5\'c4   n.\'c4\'cf\'bc\'ab\'c7\'f8\par
+antenna   n.\'b4\'a5\'bd\'c7\'a3\'bb\'cc\'ec\'cf\'df\par
+antique   a.\'b9\'c5\'b4\'fa\'b5\'c4   n.\'b9\'c5\'ce\'ef\par
+anybody   n.\'d6\'d8\'d2\'aa\'c8\'cb\'ce\'ef\par
+apparent   a.\'cf\'d4\'c8\'bb\'b5\'c4\par
+appendix   n.\'b8\'bd\'c2\'bc\'a3\'ac\'b8\'bd\'ca\'f4\'ce\'ef\'a3\'bb\'c0\'bb\'ce\'b2\par
+applaud   vt.\'ba\'c8\'b2\'ca\'a3\'bb\'bb\'b6\'ba\'f4vi.\'bb\'b6\'ba\'f4\par
+applause   n.\'ba\'c8\'b2\'ca\'a3\'bb\'bf\'e4\'bd\'b1\'a3\'ac\'b3\'c6\'d4\'de\par
+appreciable   a.\'bf\'c9\'b9\'c0\'bc\'db\'b5\'c4\'a3\'bb\'bf\'c9\'b2\'ec\'be\'f5\'b5\'c4\par
+appreciation   n.\'d0\'c0\'c9\'cd\'a3\'bb\'bc\'f8\'b1\'f0\'a3\'bb\'b8\'d0\'bc\'a4\par
+apt   a.\'c7\'a1\'b5\'b1\'b5\'c4\'a3\'bb\'b4\'cf\'c3\'f7\'b5\'c4\par
+arc   n.\'bb\'a1\'a3\'ac\'b9\'ad\'d0\'ce\'ce\'ef\'a3\'bb\'bb\'a1\'b9\'e2\par
+arch   n.\'b9\'b0\'c3\'c5   vt.\'d3\'c3\'b9\'b0\'c1\'ac\'bd\'d3\par
+architect   n.\'bd\'a8\'d6\'fe\'ca\'a6\'a3\'bb\'b4\'b4\'d4\'ec\'d5\'df\par
+arctic   a.\'b1\'b1\'bc\'ab\'b5\'c4   n.\'b1\'b1\'bc\'ab\par
+array   vt.\'d7\'b0\'b0\'e7   n.\'b6\'d3\'c1\'d0\'a3\'bb\'c5\'c5\'c1\'d0\par
+ascend   vi.\'c5\'ca\'b5\'c7\'a3\'ac\'b5\'c7\'b8\'df\'a3\'bb\'d7\'b7\'cb\'dd\par
+ascertain   vt.\'b2\'e9\'c3\'f7\'a3\'ac\'c8\'b7\'b6\'a8\'a3\'ac\'c5\'aa\'c7\'e5\par
+ascribe   vt.\'b0\'d1\'a1\'ad\'b9\'e9\'d3\'da\par
+ashore   ad.\'d4\'da\'b0\'b6\'c9\'cf\'a3\'ac\'c9\'cf\'b0\'b6\par
+ass   n.\'c2\'bf\'a3\'bb\'c9\'b5\'b9\'cf\'a3\'ac\'b4\'c0\'b1\'bf\'b5\'c4\'c8\'cb\par
+assassinate   vt.\'b0\'b5\'c9\'b1\'a3\'ac\'d0\'d0\'b4\'cc\'a3\'bb\'d6\'d0\'c9\'cb\par
+assault   vt.\'cf\'ae\'bb\'f7\'a3\'bb\'c5\'b9\'b4\'f2   n.\'b9\'a5\'bb\'f7\par
+assert   vt.\'b6\'cf\'d1\'d4\'a3\'ac\'d0\'fb\'b3\'c6\'a3\'bb\'ce\'ac\'bb\'a4\par
+assessment   n.\'b9\'c0\'b6\'a8\'a3\'bb\'b2\'e9\'b6\'a8\'a3\'bb\'b9\'c0\'bc\'c6\'ca\'fd\par
+assumption   n.\'b2\'c9\'c8\'a1\'a3\'bb\'bc\'d9\'b6\'a8\'a3\'bb\'b0\'c1\'c2\'fd\par
+assurance   n.\'b1\'a3\'d6\'a4\'a3\'bb\'b2\'c6\'b2\'fa\'d7\'aa\'c8\'c3\'ca\'e9\par
+astonishment   n.\'be\'aa\'c6\'e6\'a3\'ac\'be\'aa\'d1\'c8\par
+astronomy   n.\'cc\'ec\'ce\'c4\'d1\'a7\par
+atom   n.\'ce\'a2\'c1\'a3\'a3\'bb\'ce\'a2\'c1\'bf\par
+attachment   n.\'c1\'ac\'bd\'d3\'ce\'ef\'a3\'ac\'b8\'bd\'bc\'fe\'a3\'bb\'b0\'ae\'c4\'bd\par
+attendance   n.\'b5\'bd\'b3\'a1\'a3\'bb\'b3\'f6\'cf\'af\'c8\'cb\'ca\'fd\par
+attendant   n.\'ca\'cc\'d5\'df\'a3\'bb\'bb\'a4\'c0\'ed\'c8\'cb\'d4\'b1\par
+attorney   n.\'b4\'fa\'c0\'ed\'c8\'cb\'a3\'bb\'b1\'e7\'bb\'a4\'c2\'c9\'ca\'a6\par
+audience   n.\'d5\'fd\'ca\'bd\'bb\'e1\'bc\'fb\'a3\'bb\'b0\'dd\'bb\'e1\par
+author   n.\'b4\'b4\'d4\'ec\'d5\'df\'a3\'ac\'b4\'b4\'ca\'bc\'c8\'cb\par
+automate   vt.\'ca\'b9\'d7\'d4\'b6\'af\'bb\'af\par
+avail   vt.\'d3\'d0\'d2\'e6\'d3\'da   n.\'d0\'a7\'d3\'c3\par
+availability   n.\'d3\'d0\'d0\'a7(\'d0\'d4)\'a3\'bb\'bf\'c9\'b5\'c3\'d0\'d4\par
+aviation   n.\'b7\'c9\'d0\'d0\par
+awake   vi.\'c8\'cf\'ca\'b6\'b5\'bd\par
+awful   a.\'cd\'fe\'d1\'cf\'b5\'c4\'a3\'bb\'c1\'ee\'c8\'cb\'b3\'e7\'be\'b4\'b5\'c4\par
+awkward   a.\'b2\'bb\'d1\'c5\'b9\'db\'b5\'c4\par
+axial   a.\'d6\'e1\'b5\'c4\'a3\'bb\'d6\'e1\'cf\'f2\'b5\'c4\par
+axis   n.\'d6\'e1\'a3\'ac\'d6\'e1\'cf\'df\'a3\'bb\'b5\'da\'b6\'fe\'be\'b1\'d7\'b5\par
+axle   n.(\'c2\'d6)\'d6\'e1\'a3\'ac\'b3\'b5\'d6\'e1\'a3\'ac\'d0\'c4\'b0\'f4\par
+baby   n.\'d2\'bb\'bc\'d2\'d6\'d0\'c4\'ea\'c1\'e4\'d7\'ee\'d0\'a1\'b5\'c4\'c8\'cb\par
+bachelor   n.\'ce\'b4\'bb\'e9\'c4\'d0\'d7\'d3\'a3\'bb\'d1\'a7\'ca\'bf\par
+bacon   n.\'cf\'cc\'d6\'ed\'c8\'e2\'a3\'ac\'d1\'ac\'d6\'ed\'c8\'e2\par
+bacterium   n.\'cf\'b8\'be\'fa\'a3\'bb\'c8\'ad\'bb\'f7\'c3\'d4\par
+badge   n.\'bb\'d5\'d5\'c2\'a3\'ac\'cf\'f1\'d5\'c2\'a3\'bb\'b1\'ea\'d6\'be\par
+baffle   vt.\'ca\'b9\'b4\'ec\'d5\'db   n.\'c3\'d4\'bb\'f3\par
+bait   n.\'b6\'fc\'a3\'bb\'d2\'fd\'d3\'d5\'ce\'ef\par
+balcony   n.\'d1\'f4\'cc\'a8\'a3\'bb\'c2\'a5\'cc\'fc\'a3\'ac\'c2\'a5\'d7\'f9\par
+bald   a.\'cd\'ba\'cd\'b7\'b5\'c4\'a3\'bb\'ce\'de\'c3\'ab\'b5\'c4\par
+ballet   n.\'b0\'c5\'c0\'d9\'ce\'e8\'a3\'bb\'ce\'e8\'be\'e7\par
+bamboo   n.\'d6\'f1\'a3\'bb\'d6\'f1\'b8\'cb\'a3\'ac\'d6\'f1\'b9\'f7\par
+bandage   n.\'b1\'c1\'b4\'f8\'a3\'ac\'b0\'fc\'b4\'f8\par
+bandit   n.\'cd\'c1\'b7\'cb\'a3\'ac\'b5\'c1\'b7\'cb\'a3\'ac\'b4\'f5\'cd\'bd\par
+bank   vi.\'b0\'d1\'c7\'ae\'b4\'e6\'c8\'eb\'d2\'f8\'d0\'d0\par
+banker   n.\'d2\'f8\'d0\'d0\'bc\'d2\par
+bankrupt   a.\'c6\'c6\'b2\'fa\'b5\'c4   vt.\'ca\'b9\'c6\'c6\'b2\'fa\par
+banquet   n.\'d1\'e7\'bb\'e1\'a3\'ac\'ca\'a2\'bb\'e1\'a3\'ac\'be\'c6\'cf\'af\par
+barely   ad.\'bd\'f6\'bd\'f6\'a3\'ac\'c3\'e3\'c7\'bf\par
+barge   n.\'b2\'b5\'b4\'ac\'a3\'bb\'b4\'f3\'d0\'cd\'d3\'ce\'b4\'ac\par
+barley   n.\'b4\'f3\'c2\'f3\par
+barometer   n.\'c6\'f8\'d1\'b9\'bc\'c6\'a3\'ac\'be\'a6\'d3\'ea\'b1\'ed\par
+baron   n.\'c4\'d0\'be\'f4\'a3\'bb\'b9\'f3\'d7\'e5\'a3\'bb\'be\'de\'c9\'cc\par
+barren   a.\'c6\'b6\'f1\'a4\'b5\'c4\'a3\'bb\'b2\'bb\'c8\'d1\'b5\'c4\par
+baseball   n.\'b0\'f4\'c7\'f2\'a3\'bb\'b0\'f4\'c7\'f2\'d4\'cb\'b6\'af\par
+basement   n.\'b5\'d8\'cf\'c2\'ca\'d2\'a3\'bb\'b5\'d8\'bd\'d1\'a3\'bb\'b5\'d7\'b2\'e3\par
+basin   n.\'c4\'da\'ba\'a3\'a3\'bb\'c5\'e8\'b5\'d8\'a3\'ac\'c1\'f7\'d3\'f2\par
+battery   n.\'c5\'da\'b1\'f8\'c1\'ac\'a3\'bb\'b1\'f8\'c6\'f7\'c8\'ba\par
+battle   vi.\'d5\'bd\'b6\'b7   vt.\'d3\'eb\'a1\'ad\'d7\'f7\'d5\'bd\par
+bazaar   n.\'bc\'af\'ca\'d0\'a3\'ac\'c1\'ae\'bc\'db\'c9\'cc\'b5\'ea\par
+bead   n.\'d3\'d0\'bf\'d7\'d0\'a1\'d6\'e9\'a3\'bb\'c2\'b6\'d6\'e9\par
+beam   vi.\'b7\'a2\'b9\'e2\'a3\'ac\'b7\'a2\'c8\'c8\'a3\'bb\'ce\'a2\'d0\'a6\par
+bearing   n.\'d6\'a7\'b3\'d0\'a3\'bb\'c8\'cc\'ca\'dc\'a3\'bb\'b7\'bd\'ce\'bb\par
+bed   n.\'ba\'d3\'b4\'b2\'a3\'ac(\'ba\'fe)\'b5\'d7\'a3\'ac\'bf\'f3\'b4\'b2\par
+beetle   n.\'bc\'d7\'b3\'e6\'a3\'bb\'bd\'fc\'ca\'d3\'d1\'db\'b5\'c4\'c8\'cb\par
+beforehand   ad.\'d4\'a4\'cf\'c8\'a3\'bb\'cc\'e1\'c7\'b0\'b5\'d8\par
+bend   vt.\'ca\'b9\'c7\'fc\'b4\'d3   vi.\'c7\'fc\'b4\'d3\par
+bestow   vt.\'b0\'d1\'a1\'ad\'d4\'f9\'d3\'eb\par
+between   ad.\'b5\'b1\'d6\'d0\'a3\'ac\'d6\'d0\'bc\'e4\par
+beware   vt.&vi.\'bd\'f7\'b7\'c0\'a3\'ac\'b5\'b1\'d0\'c4\par
+bewilder   vt.\'c3\'d4\'bb\'f3\'a3\'ac\'b0\'d1\'a1\'ad\'c5\'aa\'ba\'fd\'cd\'bf\par
+bid   vt.\'c3\'fc\'c1\'ee   vi.\'b1\'a8\'bc\'db\par
+bishop   n.(\'bb\'f9\'b6\'bd\'bd\'cc\'b5\'c4)\'d6\'f7\'bd\'cc\par
+bitterness   n.\'bf\'e0\'ce\'b6\'a3\'ac\'d0\'c1\'cb\'e1\'a3\'ac\'bf\'e0\'c4\'d1\par
+blacksmith   n.\'cc\'fa\'bd\'b3\'a3\'ac\'b6\'cd\'b9\'a4\par
+blast   n.\'b9\'dc\'c0\'d6\'c6\'f7\'b5\'c4\'c9\'f9\'d2\'f4\par
+blaze   vt.\'ca\'b9\'c8\'bc\'c9\'d5   vi.\'c8\'bc\'c9\'d5\par
+bleach   vt.\'c6\'af\'b0\'d7   vi.\'b1\'e4\'b0\'d7\par
+blind   n.\'b0\'d9\'d2\'b6\'b4\'b0\'a3\'bb\'b4\'b0\'c1\'b1\'a3\'bb\'d5\'da\'c1\'b1\par
+block   n.\'d7\'e8\'c8\'fb\'a3\'bb\'d5\'cf\'b0\'ad\'ce\'ef\'a3\'bb\'c5\'da\'e3\'c5\par
+blond   n.\'b0\'d7\'b7\'f4\'bd\'f0\'b7\'a2\'b1\'cc\'d1\'db\'b5\'c4\'c8\'cb\par
+blouse   n.\'c5\'ae\'b3\'c4\'c9\'c0\'a3\'bb\'cd\'af\'c9\'c0\'a3\'bb\'d5\'d6\'c9\'c0\par
+blue   a.\'c9\'cb\'d0\'c4\'b5\'c4\'a3\'bb\'cf\'c2\'c1\'f7\'b5\'c4\par
+blunder   vi.\'b7\'b8\'b4\'f3\'b4\'ed   n.\'b4\'f3\'b4\'ed\par
+blush   vi.\'c1\'b3\'ba\'ec\'a3\'ac\'ba\'a6\'eb\'fd   n.\'c1\'b3\'ba\'ec\par
+board   vt.(\'ca\'d5\'b7\'d1)\'b9\'a9\'a1\'ad\'c9\'c5\'ca\'b3\par
+body   n.\'ce\'ef\'cc\'e5\'a3\'bb(\'d2\'ba)\'cc\'e5\'a3\'bb\'ca\'b5\'d6\'ca\par
+boiler   n.\'b9\'f8\'c2\'af\'a3\'bb\'c8\'c8\'cb\'ae\'d6\'fc\'b2\'db\par
+bore   n.\'cc\'d6\'d1\'e1\'b5\'c4\'c8\'cb\'a3\'bb\'c2\'e9\'b7\'b3\'ca\'c2\par
+bound   a.\'d3\'a6\'b5\'b1\'b5\'c4\'a3\'bb\'b1\'d8\'b6\'a8\'b5\'c4\par
+bourgeois   a.\'d7\'ca\'b2\'fa\'bd\'d7\'bc\'b6\'b5\'c4\'a3\'bb\'c6\'bd\'d3\'b9\'b5\'c4\par
+box   n.\'d7\'a8\'cf\'af\par
+boycott   vt.&n.\'c1\'aa\'ba\'cf\'b5\'d6\'d6\'c6\par
+brace   n.\'d6\'a7\'d6\'f9   vt.\'c0\'ad\'bd\'f4\'a3\'ac\'b3\'c5\'c0\'ce\par
+brand   vt.\'d4\'da\'a1\'ad\'c9\'cf\'b4\'f2\'c0\'d3\'d3\'a1\par
+breakdown   n.\'b1\'c0\'c0\'a3\'a3\'ac\'b5\'b9\'cb\'fa\'a3\'bb\'ca\'a7\'b0\'dc\par
+breakfast   vi.\'b3\'d4\'d4\'e7\'b2\'cd\par
+breed   n.(\'b6\'af\'ce\'ef)\'c6\'b7\'d6\'d6\par
+bribe   n.\'bb\'df\'c2\'b8   vt.\'cf\'f2\'a1\'ad\'d0\'d0\'bb\'df\par
+bridegroom   n.\'d0\'c2\'c0\'c9\par
+bridge   vt.\'bc\'dc\'c7\'c5\'d3\'da\'a3\'ac\'d3\'c3\'c7\'c5\'c1\'ac\'bd\'d3\par
+bridle   n.\'c1\'fd\'d7\'d3\'a3\'bb\'ca\'f8\'b8\'bf   vt.\'d2\'d6\'d6\'c6\par
+brightness   n.\'c3\'f7\'c1\'c1\'a3\'ac\'bb\'d4\'bb\'cd\'a3\'ac\'b4\'cf\'c3\'f7\par
+broaden   vt.&vi.\'b7\'c5\'bf\'ed\'a3\'ac\'b1\'e4\'c0\'ab\par
+bronze   n.\'c7\'e0\'cd\'ad\'c9\'ab\par
+brood   vt.\'b3\'c1\'cb\'bcvi.\'d3\'f4\'b1\'d5\'b5\'d8\'b3\'c1\'cb\'bc\par
+Buddhism   n.\'b7\'f0\'bd\'cc\'a3\'ac\'ca\'cd\'bd\'cc\par
+budget   n.\'d4\'a4\'cb\'e3\'a3\'ac\'d4\'a4\'cb\'e3\'b0\'b8\par
+buffalo   n.\'cb\'ae\'c5\'a3\'a3\'bb\'cb\'ae\'c2\'bd\'cc\'b9\'bf\'cb\par
+bug   n.\'b3\'e6\'d7\'d3\'a3\'bb\'b3\'f4\'b3\'e6\par
+bugle   n.\'be\'fc\'ba\'c5\'a3\'ac\'c0\'ae\'b0\'c8\par
+bull   n.\'c2\'f2\'bf\'d5\'b5\'c4\'d6\'a4\'c8\'af\'cd\'b6\'bb\'fa\'c9\'cc\par
+bulletin   \'b8\'e6\'ca\'be\'a3\'ac\'b9\'ab\'b8\'e6\'a3\'ac\'b9\'ab\'b1\'a8\par
+bump   vt.\'d7\'b2\'bb\'f7   vi.\'d7\'b2   n.\'d6\'d7\'bf\'e9\par
+bureaucracy   n.\'b9\'d9\'c1\'c5\'d6\'f7\'d2\'e5\'a3\'bb\'b9\'d9\'c1\'c5\'bb\'fa\'b9\'b9\par
+burglar   n.\'d2\'b9\'b5\'c1\'a3\'ac\'c7\'d4\'d4\'f4\par
+burial   n.\'b0\'b2\'d4\'e1\'a3\'ac\'c2\'f1\'d4\'e1\'a3\'ac\'c2\'f1\'b2\'d8\par
+burner   n.\'b5\'c6\'cd\'b7\'a3\'ac\'c3\'ba\'c6\'f8\'cd\'b7\par
+bushel   n.\'c6\'d1\'ca\'bd\'b6\'fa(\'c8\'dd\'c1\'bf\'b5\'a5\'ce\'bb)\par
+butt   n.\'b4\'f3\'be\'c6\'cd\'b0\'a3\'ac\'cd\'b0\par
+buzz   vi.(\'b7\'e4\'b5\'c8)\'ce\'cb\'ce\'cb\'bd\'d0\par
+bypass   n.\'c5\'d4\'cd\'a8\'b9\'dc   vt.\'c8\'c6\'b9\'fd\par
+by-product   n.\'b8\'b1\'b2\'fa\'c6\'b7\par
+cable   n.\'ba\'a3\'b5\'d7\'b5\'e7\'b1\'a8\par
+calculus   n.\'ce\'a2\'bb\'fd\'b7\'d6\'a3\'bb\'bd\'e1\'ca\'af\par
+calibration   n.\'d0\'a3\'d7\'bc\'a3\'bb\'b1\'ea\'b6\'a8\'a3\'ac\'bf\'cc\'b6\'c8\par
+can   vt.\'d7\'b0\'b9\'de\'cd\'b7\par
+cane   n.(\'cc\'d9\'b5\'c8)\'be\'a5\'a3\'bb\'ca\'d6\'d5\'c8\par
+cancel   vt.\'c9\'be\'c8\'a5\'a3\'ac\'b9\'b4\'cf\'fa\'a3\'ac\'c8\'a1\'cf\'fb\par
+capability   n.\'c4\'dc\'c1\'a6\'a3\'ac\'b2\'c5\'c4\'dc\'a3\'bb\'d0\'d4\'c4\'dc\par
+capacitance   n.\'b5\'e7\'c8\'dd\'a3\'ac\'b5\'e7\'c8\'dd\'c1\'bf\par
+capacitor   n.\'b5\'e7\'c8\'dd\'c6\'f7\par
+cape   n.\'c5\'fb\'bc\'e7\'a3\'ac\'b6\'b7\'c5\'f1\'a3\'bb\'ba\'a3\'bd\'c7\par
+captive   a.\'b1\'bb\'b7\'fd\'c2\'b2\'b5\'c4\'a3\'bb\'b1\'bb\'c3\'d4\'d7\'a1\'b5\'c4\par
+carry   vt.\'bf\'af\'b5\'c7\par
+cartoon   n.\'c2\'fe\'bb\'ad\'a3\'ac\'b6\'af\'bb\'ad\'c6\'ac\par
+cartridge   n.\'b5\'af\'d2\'a9\'cd\'b2\'a3\'ac\'d7\'d3\'b5\'af\'a3\'bb\'c8\'ed\'c6\'ac\par
+catalogue   vt.\'ce\'aa\'a1\'ad\'b1\'e0\'c4\'bf\'c2\'bc\par
+catalyst   n.\'b4\'df\'bb\'af\'bc\'c1\'a3\'bb\'b4\'cc\'bc\'a4\'d2\'f2\'cb\'d8\par
+category   n.\'d6\'d6\'c0\'e0\'a3\'ac\'c0\'e0\'c4\'bf\'a3\'bb\'b7\'b6\'b3\'eb\par
+cater   vi.\'d3\'ad\'ba\'cf\'a3\'ac\'cd\'b6\'ba\'cf\par
+Catholic   a.\'cc\'ec\'d6\'f7\'bd\'cc\'b5\'c4n.\'cc\'ec\'d6\'f7\'bd\'cc\'cd\'bd\par
+caution   n.\'d0\'a1\'d0\'c4\'a3\'bb\'b8\'e6\'bd\'eb   vt.\'be\'af\'b8\'e6\par
+cautious   a.\'d0\'a1\'d0\'c4\'b5\'c4\'a3\'ac\'bd\'f7\'c9\'f7\'b5\'c4\par
+cavity   n.\'b6\'b4\'a3\'ac\'d1\'a8\'a3\'ac\'bf\'d5\'c7\'bb\par
+cement   vt.\'d5\'b3\'bd\'e1   vi.\'d5\'b3\'bd\'f4\par
+censor   vt.\'c9\'f3\'b2\'e9\'a3\'ac\'bc\'ec\'b2\'e9\par
+cereal   n.\'b9\'c8\'c0\'e0\'a3\'ac\'ce\'e5\'b9\'c8\'a3\'ac\'ba\'cc\'b9\'c8\par
+certainty   n.\'c8\'b7\'ca\'b5\'d0\'d4\'a3\'ac\'c8\'b7\'d0\'c5\'a3\'ac\'c8\'b7\'ca\'b5\par
+challenge   n.\'bc\'e8\'be\'de\'c8\'ce\'ce\'f1\'a3\'bb\'d2\'aa\'c7\'f3\'bb\'d8\'b1\'dc\par
+champion   n.\'b6\'b7\'ca\'bf\'a3\'bb\'cc\'e1\'b3\'ab\'d5\'df\par
+characterize   vt.\'b1\'ed\'ca\'be\'a1\'ad\'b5\'c4\'cc\'d8\'d0\'d4\par
+charcoal   n.\'cc\'bf\'a3\'ac\'c4\'be\'cc\'bf\'a3\'bb\'c9\'fa\'ce\'ef\'cc\'bf\par
+charge   n.\'b8\'ba\'ba\'c9\'a3\'bb\'b3\'e4\'b5\'e7   vt.\'d7\'b0\'c2\'fa\par
+charm   n.\'f7\'c8\'c1\'a6\'a3\'bb\'e5\'fc\'c3\'c4   vi.\'c3\'d4\'c8\'cb\par
+charter   vt.\'d7\'e2   n.\'cf\'dc\'d5\'c2\'a3\'bb\'c6\'f5\'be\'dd\par
+chatter   vi.&n.\'e0\'a9\'e0\'a9\'b2\'bb\'d0\'dd\par
+cheat   n.\'c6\'db\'d5\'a9\'a3\'bb\'c6\'ad\'c8\'a1\par
+check   n.\'d6\'a7\'c6\'b1\'a3\'ac\'d5\'ca\'b5\'a5\par
+cherish   vt.\'d5\'e4\'b0\'ae\'a3\'bb\'bb\'b3\'d3\'d0(\'b8\'d0\'c7\'e9)\par
+chestnut   n.\'c0\'f5\'d7\'d3\'a3\'bb\'c0\'f5\'ca\'f7\'a3\'bb\'c0\'f5\'c9\'ab\par
+chill   vi.\'b8\'d0\'b5\'bd\'ba\'ae\'c0\'e4\'a3\'bb\'c0\'e4\'b4\'e3\par
+chip   n.\'b1\'a1\'c6\'ac\'a3\'ac\'cb\'e9\'c6\'ac\par
+choice   n.\'c8\'eb\'d1\'a1\'d5\'df   a.\'d3\'c5\'b5\'c8\'b5\'c4\par
+chop   n.\'d2\'bb\'bf\'e9\'c5\'c5\'b9\'c7\'a3\'ac\'c8\'e2\'bf\'e9\par
+chord   n.(\'c0\'d6\'c6\'f7\'b5\'c4)\'cf\'d2   vi.\'d0\'ad\'b5\'f7\par
+chorus   vt.&vi.\'ba\'cf\'b3\'aa\par
+Christ   n.\'be\'c8\'ca\'c0\'d6\'f7(\'d2\'ae\'f6\'d5\'bb\'f9\'b6\'bd)\par
+Christian   a.\'bb\'f9\'b6\'bd\'bd\'cc\'b5\'c4\par
+cigar   n.\'d1\'a9\'c7\'d1\'d1\'cc\'a3\'ac\'d2\'b6\'be\'ed\'d1\'cc\par
+circular   n.\'b4\'ab\'b5\'a5\'a3\'ac\'cd\'a8\'b1\'a8\'a3\'ac\'cd\'a8\'ba\'af\par
+circulation   n.\'d1\'ad\'bb\'b7\'a3\'bb(\'bb\'f5\'b1\'d2\'b5\'c8)\'c1\'f7\'cd\'a8\par
+circus   n.\'c2\'ed\'cf\'b7\'a3\'bb\'c2\'ed\'cf\'b7\'cd\'c5\par
+cite   vt.\'d2\'fd\'d3\'c3\'a3\'ac\'d2\'fd\'d6\'a4\'a3\'bb\'be\'d9\'c0\'fd\par
+civilian   n.\'c6\'bd\'c3\'f1   a.\'c6\'bd\'c3\'f1\'b5\'c4\par
+claim   n.\'c8\'a8\'c0\'fb\'a3\'ac\'cb\'f9\'d3\'d0\'c8\'a8\par
+clamp   n.\'bc\'d0\'d7\'d3   vt.\'bc\'d0\'d7\'a1\'a3\'ac\'bc\'d0\'bd\'f4\par
+clap   n.\'c5\'c4\'ca\'d6\'ba\'c8\'b2\'c9\'c9\'f9\'a3\'bb\'c5\'f9\'f6\'a8\'c9\'f9\par
+clash   n.\'c5\'f6\'d7\'b2\'c9\'f9\'a3\'bb\'b5\'d6\'b4\'a5\'a3\'ac\'b3\'e5\'cd\'bb\par
+clasp   vt.\'bf\'db\'d7\'a1\'a3\'ac\'bf\'db\'bd\'f4\'a3\'ac\'b9\'b3\'d7\'a1\par
+classic   n.\'c3\'fb\'d6\'f8   a.\'b2\'bb\'d0\'e0\'b5\'c4\par
+clatter   n.\'b5\'c3\'b5\'c3\'c9\'f9\'a3\'ac\'bf\'a8\'e0\'aa\'c9\'f9\par
+cleanliness   n.\'c7\'e5\'bd\'e0\par
+clearing   n.(\'c9\'ad\'c1\'d6\'d6\'d0\'b5\'c4)\'bf\'d5\'bf\'f5\'b5\'d8\par
+client   n.\'b9\'cb\'bf\'cd\'a3\'bb\'cb\'df\'cb\'cf\'ce\'af\'cd\'d0\'c8\'cb\par
+climax   n.(\'d0\'cb\'c8\'a4\'b5\'c4)\'b6\'a5\'b5\'e3\par
+cling   vi.\'d5\'b3\'d7\'a1\'a3\'bb\'d2\'c0\'b8\'bd\'a3\'bb\'bc\'e1\'b3\'d6\par
+clinic   n.\'d5\'ef\'cb\'f9\'a3\'ac\'d2\'bd\'ce\'f1\'ca\'d2\'a3\'bb\'bb\'e1\'d5\'ef\par
+clip   vt.\'bc\'d0\'d7\'a1   n.\'bc\'d0\'d7\'d3\'a3\'ac\'c7\'af\'d7\'d3\par
+clip   vt.\'bc\'f4\'a3\'bb\'bc\'f4\'bc\'ad\'b1\'a8\'bf\'af\par
+cloak   vt.\'d1\'da\'b8\'c7\'a3\'ac\'b8\'b2\'b8\'c7\'a3\'ac\'d1\'da\'ca\'ce\par
+clockwise   a.&ad.\'cb\'b3\'ca\'b1\'d5\'eb\'b7\'bd\'cf\'f2\'d7\'aa\'b5\'c4\par
+closet   n.\'d0\'a1\'b7\'bf\'bc\'e4\'a3\'bb\'b1\'da\'cd\'eb\'b3\'f7\par
+cloudy   a.\'bb\'ec\'d7\'c7\'b5\'c4\'a3\'bb\'c4\'a3\'ba\'fd\'b2\'bb\'c7\'e5\'b5\'c4\par
+clown   n.(\'c2\'ed\'cf\'b7\'b5\'c4)\'d0\'a1\'b3\'f3\'a3\'ac\'b3\'f3\'bd\'c7\par
+cluster   n.\'d2\'bb\'b4\'ae   vt.\'ca\'b9\'b3\'c9\'c8\'ba\par
+clutch   vt.\'d7\'a5\'d7\'a1   vi.\'d5\'c6\'ce\'d5\'a3\'ac\'be\'f0\par
+coach   vt.\'b8\'a8\'b5\'bc\'a3\'ac\'d6\'b8\'b5\'bc\'a3\'ac\'d1\'b5\'c1\'b7\par
+cock   n.\'d0\'fd\'c8\'fb\'a3\'ac\'bf\'aa\'b9\'d8\'a3\'ac\'c1\'fa\'cd\'b7\par
+coefficient   n.\'d0\'ad\'cd\'ac\'d2\'f2\'cb\'d8\'a3\'bb\'cf\'b5\'ca\'fd\'a3\'ac\'c2\'ca\par
+coffin   n.\'b9\'d7\'b2\'c4\'a3\'ac\'e8\'d1\par
+coherent   a.\'d5\'b3\'d7\'c5\'b5\'c4\'a3\'bb\'bd\'f4\'b4\'d5\'b5\'c4\par
+coin   vt.\'d6\'fd\'d4\'ec(\'d3\'b2\'b1\'d2)\par
+coincide   vi.\'cf\'e0\'b7\'fb\'ba\'cf\'a3\'bb\'cf\'e0\'c7\'c9\'ba\'cf\par
+coke   n.\'bd\'b9\'cc\'bf   vt.&vi.\'c1\'b6\'bd\'b9\par
+collaborate   vi.\'d0\'ad\'d7\'f7\'a3\'ac\'ba\'cf\'d7\'f7\'a3\'bb\'d0\'ad\'b5\'f7\par
+collide   vi.\'c5\'f6\'d7\'b2\'a3\'bb\'b3\'e5\'cd\'bb\'a3\'ac\'b5\'d6\'b4\'a5\par
+colonial   a.\'d6\'b3\'c3\'f1\'b5\'d8\'b5\'c4\'a3\'ac\'d6\'b3\'c3\'f1\'b5\'c4\par
+colonist   n.\'d2\'c6\'c3\'f1\'a3\'bb\'d6\'b3\'c3\'f1\'b5\'d8\'be\'d3\'c3\'f1\par
+combat   vt.\'b8\'fa\'a1\'ad\'d5\'bd\'b6\'b7   vi.\'b8\'f1\'b6\'b7\par
+combustion   n.\'c8\'bc\'c9\'d5\'a3\'bb\'d1\'f5\'bb\'af\'a3\'bb\'c9\'a7\'b6\'af\par
+comedy   n.\'cf\'b2\'be\'e7\'a3\'bb\'cf\'b2\'be\'e7\'b3\'a1\'c3\'e6\par
+commence   vt.\'bf\'aa\'ca\'bc   vi.\'bb\'f1\'b5\'c3\'d1\'a7\'ce\'bb\par
+commend   vt.\'b3\'c6\'d4\'de\'a3\'ac\'b1\'ed\'d1\'ef\'a3\'bb\'cd\'c6\'bc\'f6\par
+commission   n.\'ce\'af\'cd\'d0\'a3\'ac\'ce\'af\'c8\'ce\'a3\'bb\'ce\'af\'cd\'d0\'d7\'b4\par
+commodity   n.\'c8\'d5\'d3\'c3\'c6\'b7\'a3\'ac\'c9\'cc\'c6\'b7\'a3\'ac\'ce\'ef\'c6\'b7\par
+commonplace   a.\'c6\'bd\'b7\'b2\'b5\'c4   n.\'c6\'bd\'b3\'a3\'bb\'b0\par
+commonsense   a.\'d3\'d0\'b3\'a3\'ca\'b6\'b5\'c4\par
+commonwealth   n.\'b9\'b2\'ba\'cd\'b9\'fa\'a3\'bb\'c1\'aa\'b0\'ee\par
+compact   a.\'bd\'f4\'c3\'dc\'b5\'c4   vt.\'ca\'b9\'bd\'f4\'b4\'d5\par
+comparable   a.\'bf\'c9\'b1\'c8\'bd\'cf\'b5\'c4\'a3\'bb\'c0\'e0\'cb\'c6\'b5\'c4\par
+compatible   a.\'d2\'bb\'d6\'c2\'b5\'c4\'a3\'bb\'bc\'e6\'c8\'dd\'d6\'c6\'b5\'c4\par
+compensate   vt.&vi.\'b2\'b9\'b3\'a5\'a3\'ac\'c5\'e2\'b3\'a5\par
+compensation   n.\'b2\'b9\'b3\'a5\'a3\'ac\'c5\'e2\'b3\'a5\'a3\'ac\'c5\'e2\'b3\'a5\'b7\'d1\par
+competitive   a.\'be\'ba\'d5\'f9\'b5\'c4\'a3\'ac\'b1\'c8\'c8\'fc\'b5\'c4\par
+competitor   n.\'be\'ba\'d5\'f9\'d5\'df\'a3\'ac\'b5\'d0\'ca\'d6\par
+complaint   n.\'bc\'b2\'b2\'a1\'a3\'ac\'b2\'a1\'cd\'b4\'a3\'bb\'d6\'f7\'cb\'df\par
+complement   vt.\'b2\'b9\'b3\'e4   n.\'b2\'b9\'d7\'e3(\'ce\'ef)\par
+completion   n.\'cd\'ea\'b3\'c9\'a3\'ac\'bd\'e1\'ca\'f8\'a3\'ac\'cd\'ea\'c2\'fa\par
+complexity   n.\'b8\'b4\'d4\'d3(\'d0\'d4)\par
+complication   n.\'b8\'b4\'d4\'d3\'a3\'ac\'bb\'ec\'c2\'d2\'a3\'bb\'b2\'a2\'b7\'a2\'d6\'a2\par
+compliment   n.\'ce\'ca\'ba\'f2   vt.\'d4\'de\'c3\'c0\'a3\'ac\'d7\'a3\'ba\'d8\par
+comply   vi.\'d3\'a6\'d4\'ca\'a3\'ac\'d7\'f1\'d5\'d5\'a3\'ac\'d5\'d5\'d7\'f6\par
+composer   n.\'d7\'f7\'c7\'fa\'bc\'d2\'a3\'bb\'b5\'f7\'cd\'a3\'c8\'cb\par
+composite   a.\'ba\'cf\'b3\'c9\'b5\'c4   n.\'ba\'cf\'b3\'c9\'ce\'ef\par
+composition   n.\'d7\'e9\'b3\'c9\'a3\'ac\'b9\'b9\'b3\'c9\'a3\'ac\'bd\'e1\'b9\'b9\par
+comprehend   vt.\'c1\'cb\'bd\'e2\'a3\'ac\'c0\'ed\'bd\'e2\'a3\'ac\'c1\'ec\'bb\'e1\par
+compression   n.\'d1\'b9\'cb\'f5\'a3\'ac\'d1\'b9\'bd\'f4\'a3\'ac\'c5\'a8\'cb\'f5\par
+compulsory   a.\'c7\'bf\'c6\'c8\'b5\'c4\'a3\'ac\'d2\'e5\'ce\'f1\'b5\'c4\par
+conceit   n.\'d7\'d4\'b8\'ba\'a3\'ac\'d7\'d4\'b8\'df\'d7\'d4\'b4\'f3\par
+conceive   vt.\'c9\'e8\'cf\'eb\'a3\'ac\'d2\'d4\'ce\'aa\'a3\'bb\'bb\'b3\'d4\'d0\par
+concentrate   vt.&vi.\'c5\'a8\'cb\'f5\'a3\'ac\'cc\'e1\'c5\'a8\par
+conception   n.\'b8\'c5\'c4\'ee\'a3\'ac\'b9\'db\'c4\'ee\'a3\'ac\'cf\'eb\'b7\'a8\par
+concern   n.\'cb\'f9\'b9\'d8\'c7\'d0\'b5\'c4\'ca\'c2\'a3\'bb\'c9\'cc\'d0\'d0\par
+concert   n.\'d2\'bb\'c6\'eb\'a3\'ac\'d2\'bb\'d6\'c2\'a3\'ac\'d0\'ad\'d7\'f7\par
+concession   n.\'c8\'c3\'b2\'bd\'a3\'ac\'c7\'a8\'be\'cd\par
+confidence   n.\'cb\'bd\'b7\'bf\'bb\'b0\'a3\'ac\'c3\'d8\'c3\'dc\'a3\'ac\'bb\'fa\'c3\'dc\par
+confidential   a.\'c3\'d8\'c3\'dc\'b5\'c4\'a3\'bb\'c7\'d7\'d0\'c5\'b5\'c4\par
+confirmation   n.\'d6\'a4\'ca\'b5\'a3\'ac\'c8\'b7\'b6\'a8\'a3\'bb\'c8\'b7\'c8\'cf\par
+conform   vt.\'ca\'b9\'d7\'f1\'ca\'d8   vi.\'d2\'bb\'d6\'c2\par
+confront   vt.\'ca\'b9\'c3\'e6\'b6\'d4\'a3\'bb\'ca\'b9\'b6\'d4\'d6\'a4\par
+conqueror   n.\'d5\'f7\'b7\'fe\'d5\'df\'a3\'ac\'ca\'a4\'c0\'fb\'d5\'df\par
+consciousness   n.\'d2\'e2\'ca\'b6\'a3\'ac\'d6\'aa\'be\'f5\'a3\'ac\'be\'f5\'ce\'f2\par
+consequence   n.\'d6\'d8\'d2\'aa(\'d0\'d4)\'a3\'ac\'d6\'d8\'b4\'f3\'d2\'e2\'d2\'e5\par
+consequent   a.\'d7\'f7\'ce\'aa\'bd\'e1\'b9\'fb\'b5\'c4\'a3\'bb\'b1\'d8\'c8\'bb\'b5\'c4\par
+conservative   a.\'d3\'d0\'b1\'a3\'b4\'e6\'c1\'a6\'b5\'c4\'a3\'ac\'b7\'c0\'b8\'af\'b5\'c4\par
+consistent   a.\'c7\'b0\'ba\'f3\'d2\'bb\'d6\'c2\'b5\'c4\'a3\'ac\'c1\'ac\'b9\'e1\'b5\'c4\par
+console   n.\'d0\'fc\'b1\'db\'a3\'ac\'d6\'e2\'cd\'d0\'a3\'bb\'bf\'d8\'d6\'c6\'cc\'a8\par
+consolidate   vt.\'b9\'ae\'b9\'cc   vi.\'ba\'cf\'b2\'a2\par
+constituent   a.\'d0\'ce\'b3\'c9\'b5\'c4   n.\'d1\'a1\'c3\'f1\par
+constitute   vt.\'b9\'b9\'b3\'c9\'a3\'ac\'d7\'e9\'b3\'c9\par
+constitution   n.(\'c8\'cb\'b5\'c4)\'cc\'e5\'b8\'f1\'a3\'ac\'cb\'d8\'d6\'ca\par
+constraint   n.\'c7\'bf\'c6\'c8\'a3\'ac\'bd\'e1\'ca\'f8\'a3\'bb\'c7\'bf\'d6\'c6\'c1\'a6\par
+construction   n.\'bd\'e1\'b9\'b9\'a3\'bb\'d7\'f7\'cd\'bc(\'b7\'a8)\par
+consul   n.\'c1\'ec\'ca\'c2\par
+consumer   n.\'cf\'fb\'b7\'d1\'d5\'df\'a3\'ac\'d3\'c3\'bb\'a7\par
+consumption   n.\'cf\'fb\'b7\'d1(\'c1\'bf)\'a3\'ac\'c3\'f0\'be\'f8\par
+contend   vi.\'be\'ba\'d5\'f9   vt.\'bc\'e1\'be\'f6\'d6\'f7\'d5\'c5\par
+context   n.\'c9\'cf\'cf\'c2\'ce\'c4\'a3\'bb\'c0\'b4\'c1\'fa\'c8\'a5\'c2\'f6\par
+continental   a.\'b4\'f3\'c2\'bd\'b5\'c4\'a3\'ac\'b4\'f3\'c2\'bd\'d0\'d4\'b5\'c4\par
+contradict   vt.\'b7\'b4\'b2\'b5\'a3\'ac\'b7\'f1\'c8\'cf\par
+contrary   n.\'b7\'b4\'b6\'d4\'c3\'fc\'cc\'e2\par
+contrast   vt.\'ca\'b9\'b6\'d4\'b1\'c8vi.\'d0\'ce\'b3\'c9\'b6\'d4\'b1\'c8\par
+controversy   n.\'d5\'f9\'c2\'db\'a3\'ac\'b1\'e7\'c2\'db\'a3\'ac\'d5\'f9\'b3\'b3\par
+convention   n.\'b9\'ab\'d4\'bc\'a3\'ac(\'bb\'bb\'b7\'fd\'b5\'c8)\'d0\'ad\'b6\'a8\par
+convert   vt.\'d7\'aa\'b1\'e4\'a3\'ac\'b8\'c4\'b1\'e4\'a3\'ac\'b1\'e4\'bb\'bb\par
+convey   vt.\'b4\'ab\'b4\'ef\'a3\'bb\'b4\'ab\'b2\'a5\'a3\'bb\'d7\'aa\'c8\'c3\par
+conviction   n.\'c8\'b7\'d0\'c5\'a3\'ac\'d0\'c5\'b7\'fe\'a3\'ac\'c9\'ee\'d0\'c5\par
+cooperative   a.\'ba\'cf\'d7\'f7\'b5\'c4   n.\'ba\'cf\'d7\'f7\'c9\'e7\par
+coordinate   a.\'cd\'ac\'b5\'c8\'b5\'c4   n.\'cd\'ac\'b5\'c8\'b5\'c4\'c8\'cb\par
+correctly   ad.\'d5\'fd\'c8\'b7\'b5\'d8\'a3\'ac\'c7\'a1\'b5\'b1\'b5\'d8\par
+correlate   n.\'bb\'a5\'cf\'e0\'b9\'d8\'c1\'aa\'b5\'c4\'ca\'c2\'ce\'ef\par
+correlation   n.\'cf\'e0\'bb\'a5\'b9\'d8\'cf\'b5\'a3\'bb\'b6\'d4\'c9\'e4\par
+correspondence   n.\'cd\'a8\'d0\'c5\'a3\'bb\'b7\'fb\'ba\'cf\'a3\'bb\'b6\'d4\'d3\'a6\par
+corrosion   n.\'b8\'af\'ca\'b4\'a3\'ac\'c7\'d6\'ca\'b4\'a3\'bb\'d0\'e2\par
+corrupt   vt.\'bb\'df\'c2\'b8   a.\'b8\'af\'b0\'dc\'b5\'c4\par
+cosmic   a.\'d3\'ee\'d6\'e6\'b5\'c4\'a3\'bb\'b9\'e3\'b4\'f3\'ce\'de\'b1\'df\'b5\'c4\par
+cosmos   n.\'d3\'ee\'d6\'e6\'a3\'bb\'d6\'c8\'d0\'f2\'a3\'ac\'ba\'cd\'d0\'b3\par
+couch   n.\'cb\'af\'d2\'ce\'a3\'ac\'b3\'a4\'c9\'b3\'b7\'a2\'d2\'ce\par
+counsel   n.\'c9\'cc\'d2\'e9\'a3\'bb\'d6\'d2\'b8\'e6\'a3\'bb\'c2\'c9\'ca\'a6\par
+count   n.\'c6\'f0\'b2\'f0\'c0\'ed\'d3\'c9\'a3\'ac\'d7\'ef\'d7\'b4\par
+counter   a.&ad.\'cf\'e0\'b7\'b4\'b5\'c4(\'b5\'d8)\par
+courageous   a.\'d3\'c2\'b8\'d2\'b5\'c4\'a3\'ac\'ce\'de\'ce\'b7\'b5\'c4\par
+courteous   a.\'d3\'d0\'c0\'f1\'c3\'b2\'b5\'c4\'a3\'ac\'c7\'ab\'b9\'a7\'b5\'c4\par
+courtesy   n.\'c0\'f1\'c3\'b2\'a3\'ac\'c7\'ab\'b9\'a7\'a3\'ac\'c7\'eb\'b0\'b2\par
+coward   a.\'c5\'b3\'c7\'d3\'b5\'c4\'a3\'ac\'b5\'a8\'d0\'a1\'b5\'c4\par
+crab   n.\'d0\'b7\'a3\'ac\'d0\'b7\'c8\'e2   vi.\'b2\'b6\'d0\'b7\par
+crack   vi.&vt.\'b7\'a2\'b3\'f6\'b1\'ac\'c1\'d1\'c9\'f9\par
+cradle   n.\'d2\'a1\'c0\'ba\'a3\'ac\'b7\'a2\'d4\'b4\'b5\'d8\par
+craft   n.\'bc\'bc\'c7\'c9\par
+crank   n.\'c7\'fa\'b1\'fa   vi.\'d7\'aa\'b6\'af\'c7\'fa\'b1\'fa\par
+crash   vi.\'d7\'b2\'bb\'b5\'a3\'ac\'cb\'a4\'bb\'b5\'a3\'ac\'d4\'d2\'cb\'e9\par
+credit   vt.&n.\'cf\'e0\'d0\'c5\'a3\'ac\'d0\'c5\'c8\'ce\par
+crisis   n.\'ce\'a3\'bb\'fa\'a3\'bb\'d7\'aa\'d5\'db\'b5\'e3\par
+crisp   a.\'b4\'e0\'b5\'c4\'a3\'bb\'be\'ed\'c7\'fa\'b5\'c4\par
+criterion   n.\'b1\'ea\'d7\'bc\'a3\'ac\'d7\'bc\'d4\'f2\'a3\'ac\'b3\'df\'b6\'c8\par
+crooked   a.\'cd\'e4\'b5\'c4\'a3\'ac\'cd\'e1\'b5\'c4\'a3\'bb\'bb\'fb\'d0\'ce\'b5\'c4\par
+cross   a.\'d2\'d7\'c5\'ad\'b5\'c4\'a3\'bb\'d4\'d3\'bd\'bb\'b5\'c4\par
+cruelty   n.\'b2\'d0\'bf\'e1\'a3\'bb\'b2\'d0\'bf\'e1\'d0\'d0\'ce\'aa\par
+cruise   vi.\'d1\'b2\'ba\'bd   vt.\'d1\'b2\'ba\'bd\'d3\'da\'a1\'ad\par
+cubic   a.\'c1\'a2\'b7\'bd\'cc\'e5\'b5\'c4\'a3\'bb\'c1\'a2\'b7\'bd\'b5\'c4\par
+cuckoo   n.\'b6\'c5\'be\'e9\'a3\'ac\'b2\'bc\'b9\'c8\'c4\'f1\par
+curly   a.\'be\'ed\'c7\'fa\'b5\'c4\'a3\'bb\'d3\'d0\'be\'ed\'c3\'ab\'b5\'c4\par
+currency   n.\'cd\'a8\'bb\'f5\'a3\'bb\'cd\'a8\'d3\'c3\'a3\'bb\'ca\'d0\'bc\'db\par
+currently   ad.\'c6\'d5\'b1\'e9\'b5\'d8\'a3\'bb\'b5\'b1\'c7\'b0\par
+custom   n.\'ba\'a3\'b9\'d8\'a3\'ac\'b9\'d8\'cb\'b0\par
+customary   a.\'cd\'a8\'b3\'a3\'b5\'c4\'a3\'bb\'d5\'d5\'b9\'df\'c0\'fd\'b5\'c4\par
+cutter   n.\'d3\'c3\'d3\'da\'c7\'d0\'b8\'ee\'b5\'c4\'c6\'f7\'d0\'b5\par
+cylinder   n.\'d4\'b2\'cd\'b2\'a3\'bb\'d6\'f9(\'c3\'e6)\'a3\'bb\'c6\'fb\'b8\'d7\par
+damn   vt.\'d7\'e7\'d6\'e4   n.\'d7\'e7\'d6\'e4\'a3\'bb\'cb\'bf\'ba\'c1\par
+datum   n.\'d7\'ca\'c1\'cf\'a3\'bb\'ca\'fd\'be\'dd\'a3\'bb\'d2\'d1\'d6\'aa\'ca\'fd\par
+dazzle   vt.&vi.\'ec\'c5\'d2\'ab\'a3\'bb\'c3\'d4\'bb\'f3\par
+deafen   vt.\'ca\'b9\'c1\'fb\'a3\'bb\'ca\'b9\'b8\'f4\'d2\'f4\par
+deal   vi.\'d7\'f6\'c2\'f2\'c2\'f4\'a3\'bb\'b6\'d4\'b8\'b6\par
+dealer   n.\'c9\'cc\'c8\'cb\'a3\'ac\'b7\'b7\'d7\'d3\'a3\'bb\'b7\'a2\'c5\'c6\'d5\'df\par
+dean   n.(\'b4\'f3\'d1\'a7)\'d4\'ba\'b3\'a4\'a3\'ac\'cf\'b5\'d6\'f7\'c8\'ce\par
+decay   vt.\'ca\'b9\'b8\'af\'d0\'e0\'a3\'ac\'ca\'b9\'b8\'af\'c0\'c3\par
+decidedly   ad.\'c3\'f7\'c8\'b7\'b5\'d8\'a3\'ac\'bc\'e1\'be\'f6\'b5\'d8\par
+decimal   a.\'d0\'a1\'ca\'fd\'b5\'c4\'a3\'ac\'ca\'ae\'bd\'f8\'d6\'c6\'b5\'c4\par
+decisive   a.\'be\'f6\'b6\'a8\'d0\'d4\'b5\'c4\'a3\'bb\'b9\'fb\'b6\'cf\'b5\'c4\par
+declaration   n.\'d0\'fb\'b2\'bc\'a3\'ac\'d0\'fb\'d1\'d4\'a3\'bb\'c9\'ea\'cb\'df\par
+decline   vt.\'cf\'c2\'c7\'e3\'a3\'bb\'c6\'ab\'d0\'b1\'a3\'bb\'cb\'a5\'cd\'cb\par
+decompose   vt.&vi.\'b8\'af\'b0\'dc\'a3\'bb\'b7\'d6\'bd\'e2\par
+decorative   a.\'d7\'b0\'ca\'ce\'b5\'c4\'a3\'bb\'bf\'c9\'d7\'f7\'d7\'b0\'ca\'ce\'b5\'c4\par
+decree   n.\'b7\'a8\'c1\'ee\'a3\'ac\'d5\'fe\'c1\'ee\'a3\'bb\'bd\'cc\'c1\'ee\par
+dedicate   vt.\'b7\'ee\'cf\'d7\'a3\'bb\'cf\'d7\'c9\'ed\par
+deem   vt.\'c8\'cf\'ce\'aa\'a3\'ac\'cf\'e0\'d0\'c5   vi.\'cf\'eb\par
+deepen   vt.\'bc\'d3\'c5\'a8\par
+default   n.&vi.\'b2\'bb\'c2\'c4\'d0\'d0\'a3\'bb\'c8\'b1\'cf\'af\par
+deficiency   n.\'c8\'b1\'b7\'a6\'a3\'bb\'b2\'bb\'d7\'e3\'d6\'ae\'ca\'fd\par
+deficient   a.\'c8\'b1\'b7\'a6\'b5\'c4\'a3\'bb\'c7\'b7\'c8\'b1\'b5\'c4\par
+define   vt.\'b9\'e6\'b6\'a8\'a3\'bb\'c1\'a2(\'bd\'e7\'cf\'de)\par
+deflect   vt.&vi.(\'ca\'b9)\'c6\'ab\'d0\'b1\par
+deflection   n.\'c6\'ab\'d0\'b1\'a3\'ac\'cd\'e1\'d0\'b1\'a3\'bb\'c6\'ab\'b2\'ee\par
+deform   vt.\'cb\'f0\'bb\'b5\'a1\'ad\'b5\'c4\'d0\'ce\'d7\'b4\par
+deformation   n.\'cb\'f0\'bb\'b5\'a3\'bb\'b1\'e4\'d0\'ce\'a3\'bb\'bb\'fb\'d0\'ce\par
+defy   vt.\'cf\'f2\'a1\'ad\'cc\'f4\'d5\'bd\'a3\'bb\'c3\'ef\'ca\'d3\par
+degradation   n.\'bd\'b5\'bc\'b6\'a3\'bb\'cd\'cb\'bb\'af\'a3\'bb\'cb\'a5\'b1\'e4\par
+degrade   vt.\'ca\'b9\'bd\'b5\'b8\'f8\'a3\'bb\'ca\'b9\'b6\'e9\'c2\'e4\par
+delegate   n.\'b4\'fa\'b1\'ed\'a3\'ac\'ce\'af\'d4\'b1\'a3\'ac\'cc\'d8\'c5\'c9\'d4\'b1\par
+deliberate   a.\'c9\'ee\'cb\'bc\'ca\'ec\'c2\'c7\'b5\'c4\'a3\'bb\'c9\'f3\'c9\'f7\'b5\'c4\par
+deliberately   ad.\'c9\'f3\'c9\'f7\'b5\'d8\'a3\'ac\'b9\'ca\'d2\'e2\'b5\'d8\par
+denial   n.\'b7\'f1\'b6\'a8\'a3\'bb\'be\'dc\'be\'f8\'cf\'e0\'d0\'c5\par
+denote   vt.\'d6\'b8\'ca\'be\'a3\'ac\'d2\'e2\'ce\'b6\'d7\'c5\par
+denounce   vt.\'c7\'b4\'d4\'f0\'a3\'ac\'c9\'f9\'cc\'d6\'a3\'bb\'b8\'e6\'b7\'a2\par
+dentist   n.\'d1\'c0\'bf\'c6\'d2\'bd\'c9\'fa\par
+dependant   n.\'ca\'dc\'c9\'c4\'d1\'f8\'d5\'df\'a3\'bb\'ca\'cc\'b4\'d3\par
+deposit   n.\'d1\'ba\'bd\'f0\'a3\'bb\'bc\'c4\'b4\'e6\'ce\'ef\par
+deposition   n.\'c3\'e2\'d6\'b0\'a3\'ac\'b0\'d5\'c3\'e2\'a3\'bb\'bf\'da\'b9\'a9\par
+depression   n.\'cf\'fb\'b3\'c1\'a3\'bb\'b2\'bb\'be\'b0\'c6\'f8\'cf\'f4\'cc\'f5\'c6\'da\par
+deprive   vt.\'b6\'e1\'c8\'a5\'a3\'bb\'ca\'b9(\'c8\'cb)\'ca\'a7\'c8\'a5\par
+deputy   n.\'b4\'fa\'c0\'ed\'c8\'cb   a.\'b8\'b1\'b5\'c4\par
+derivation   n.\'d2\'fd\'b3\'f6\'a3\'bb\'c6\'f0\'d4\'b4\'a3\'bb\'d1\'dc\'c9\'fa\par
+descendant   n.\'d7\'d3\'cb\'ef\'a3\'ac\'ba\'f3\'d2\'e1\'a3\'bb\'b5\'dc\'d7\'d3\par
+descent   n.\'cf\'c2\'bd\'b5\'a3\'bb\'b3\'f6\'c9\'ed\'a3\'bb\'d0\'b1\'c6\'c2\par
+desert   vt.\'d2\'c5\'c6\'fa\'a3\'bb\'c9\'c3\'c0\'eb(\'d6\'b0\'ca\'d8)\par
+designate   vt.\'d6\'b8\'b3\'f6\'a3\'ac\'d6\'b8\'ca\'be\'a3\'bb\'d6\'b8\'b6\'a8\par
+desolate   a.\'bb\'c4\'ce\'df\'b5\'c4\'a3\'bb\'b9\'c2\'b6\'c0\'b5\'c4\par
+dessert   n.\'cc\'f0\'b5\'e3\'d0\'c4\par
+destine   vt.\'c3\'fc\'b6\'a8\'a3\'ac\'d7\'a2\'b6\'a8\'a3\'bb\'d4\'a4\'b6\'a8\par
+destiny   n.\'c3\'fc\'d4\'cb\'a3\'ac\'cc\'ec\'ca\'fd\par
+destructive   a.\'c6\'c6\'bb\'b5(\'d0\'d4)\'b5\'c4\'a3\'ac\'ce\'a3\'ba\'a6\'b5\'c4\par
+detach   vt.\'b7\'d6\'bf\'aa\'a3\'bb\'c5\'c9\'c7\'b2(\'be\'fc\'b6\'d3)\par
+detail   n.\'cb\'f6\'cb\'e9\'a3\'ac\'d0\'a1\'ca\'c2\par
+detain   vt.\'b5\'a2\'b8\'e9\'a3\'bb\'bf\'db\'d1\'ba\'a3\'ac\'be\'d0\'c1\'f4\par
+detective   n.\'d5\'ec\'cc\'bd\'a3\'ac\'c3\'dc\'cc\'bd\par
+detector   n.\'b7\'a2\'be\'f5\'d5\'df\'a3\'ac\'cc\'bd\'b2\'e2\'c6\'f7\par
+develop   vt.\'ca\'b9(\'d1\'d5\'c9\'ab\'b5\'c8)\'cf\'d4\'cf\'d6\par
+deviate   vt.(\'ca\'b9)\'b1\'b3\'c0\'eb\'a3\'ac\'c6\'ab\'c0\'eb\par
+deviation   n.\'b1\'b3\'c0\'eb\'a3\'ac\'c6\'ab\'c0\'eb\'a3\'bb\'c6\'ab\'b2\'ee\'ca\'fd\par
+devotion   n.\'cf\'d7\'c9\'ed\'a3\'ac\'c8\'c8\'b3\'cf\'a3\'ac\'d7\'a8\'d0\'c4\par
+devour   vt.\'cd\'cc\'ca\'b3\'a3\'bb\'cd\'cc\'c3\'f0\'a3\'ac\'bb\'d9\'c3\'f0\par
+diagnose   vt.\'d5\'ef\'b6\'cf(\'bc\'b2\'b2\'a1)\par
+dictator   n.\'b6\'c0\'b2\'c3\'d5\'df\'a3\'ac\'d7\'a8\'d5\'fe\'d5\'df\par
+diesel   n.\'b2\'f1\'d3\'cd\'b7\'a2\'b6\'af\'bb\'fa\'a3\'ac\'c4\'da\'c8\'bc\'bb\'fa\par
+diet   n.\'d2\'fb\'ca\'b3\'a3\'ac\'ca\'b3\'ce\'ef\par
+difficult   a.\'c4\'d1\'d2\'d4\'c2\'fa\'d7\'e3\'b5\'c4\par
+dignity   a.\'d7\'f0\'b9\'f3\'a3\'bb(\'be\'d9\'d6\'b9)\'d7\'af\'d1\'cf\par
+diminish   vt.\'bc\'f5\'c9\'d9\'a3\'ac\'bc\'f5\'d0\'a1\'a3\'ac\'b5\'dd\'bc\'f5\par
+dine   vi.\'b3\'d4\'b7\'b9   vt.\'d1\'e7\'c7\'eb\par
+dioxide   n.\'b6\'fe\'d1\'f5\'bb\'af\'ce\'ef\par
+diploma   n.\'b1\'cf\'d2\'b5\'ce\'c4\'c6\'be\'a3\'ac\'d1\'a7\'ce\'bb\'d6\'a4\'ca\'e9\par
+diplomatic   a.\'cd\'e2\'bd\'bb\'b5\'c4\'a3\'bb\'d3\'d0\'b2\'df\'c2\'d4\'b5\'c4\par
+directory   n.\'d0\'d5\'c3\'fb\'b5\'d8\'d6\'b7\'c2\'bc\'a3\'bb\'b6\'ad\'ca\'c2\'bb\'e1\par
+disagreement   n.\'b2\'bb\'d2\'bb\'d6\'c2\'a3\'bb\'d5\'f9\'c2\'db\par
+disappearance   n.\'cf\'fb\'ca\'a7\'a3\'ac\'cf\'fb\'c9\'a2\'a3\'bb\'ca\'a7\'d7\'d9\par
+disastrous   a.\'d4\'d6\'c4\'d1\'d0\'d4\'b5\'c4\'a3\'bb\'b1\'af\'b2\'d2\'b5\'c4\par
+discern   vt.\'bf\'b4\'b3\'f6\'a3\'ac\'b1\'e6\'b3\'f6\'a3\'bb\'b1\'e6\'b1\'f0\par
+discount   n.\'d5\'db\'bf\'db\'a3\'bb\'b4\'f2\'d5\'db\'bf\'db\'c2\'f4\par
+discourse   n.\'bd\'b2\'bb\'b0\'a3\'ac\'d1\'dd\'cb\'b5\'a3\'ac\'bd\'b2\'b5\'c0\par
+discrimination   n.\'b1\'e6\'b1\'f0\'a3\'bb\'ca\'b6\'b1\'f0\'c1\'a6\'a3\'bb\'c6\'e7\'ca\'d3\par
+disgrace   n.\'ca\'a7\'b3\'e8\'a3\'ac\'b3\'dc\'c8\'e8\'a3\'ac\'b6\'aa\'c1\'b3\par
+disillusion   n.\'be\'f5\'d0\'d1   vt.\'ca\'b9\'be\'f5\'d0\'d1\par
+dismay   n.\'be\'aa\'bb\'c5\'a3\'ac\'be\'da\'c9\'a5\'a3\'ac\'bb\'d2\'d0\'c4\par
+dismiss   vt.\'cd\'fc\'b5\'f4\par
+disorder   n.\'bc\'b2\'b2\'a1\'a3\'ac\'d0\'a1\'b2\'a1\par
+dispatch   vt.\'c5\'c9\'c7\'b2\'a3\'bb\'b5\'f7\'b6\'c8   n.\'bc\'b1\'bc\'fe\par
+disperse   vt.(\'ca\'b9)\'b7\'d6\'c9\'a2\'a3\'bb\'c7\'fd\'c9\'a2\par
+displace   vt.\'d2\'c6\'d6\'c3\'a3\'bb\'c8\'a1\'b4\'fa\'a3\'bb\'d6\'c3\'bb\'bb\par
+displacement   n.\'d2\'c6\'d6\'c3\'a3\'bb\'c3\'e2\'d6\'b0\'a3\'bb\'d6\'c3\'bb\'bb\par
+disregard   vt.\'b2\'bb\'b9\'dc\'a3\'ac\'b2\'bb\'b9\'cb   n.\'b2\'bb\'b9\'dc\par
+dissatisfaction   n.\'b2\'bb\'c2\'fa\'a3\'ac\'b2\'bb\'c6\'bd\par
+dissipate   vt.\'c7\'fd\'c9\'a2\'a3\'bb\'c0\'cb\'b7\'d1vi.\'cf\'fb\'c9\'a2\par
+dissolve   vt.\'bd\'e2\'b3\'fd(\'bb\'e9\'d4\'bc\'b5\'c8)\par
+distinct   a.\'b6\'c0\'cc\'d8\'b5\'c4\par
+distinctly   ad.\'cf\'d4\'c8\'bb\'a3\'ac\'c7\'e5\'b3\'fe\'b5\'d8\par
+distinguish   v.\'ca\'b9\'cf\'d4\'b3\'f6\'cc\'d8\'c9\'ab\'a3\'ac\'ca\'b9\'bd\'dc\'b3\'f6\par
+distort   vt.\'cd\'e1\'c7\'fa\'a3\'ac\'c7\'fa\'bd\'e2\'a3\'ac\'c5\'a4\'c7\'fa\par
+distortion   n.\'c5\'aa\'cd\'e1\'a3\'ac\'cd\'e1\'c7\'fa\'a3\'bb\'bb\'fb\'b1\'e4\par
+distract   vt.\'b7\'d6\'c9\'a2(\'d0\'c4\'cb\'bc)\'a3\'bb\'b4\'f2\'c8\'c5\par
+disturbance   n.\'b6\'af\'c2\'d2\'a3\'bb\'b8\'c9\'c8\'c5\'a3\'bb\'c7\'d6\'b7\'b8\par
+diverge   vi.\'b7\'d6\'b2\'ed\'a3\'bb\'b7\'d6\'c6\'e7\par
+diversion   n.\'d7\'aa\'d2\'c6\'a3\'bb\'b8\'c4\'b5\'c0\'a3\'bb\'d3\'e9\'c0\'d6\par
+divert   vt.\'ca\'b9\'d7\'aa\'cf\'f2   vi.\'d7\'aa\'d2\'c6\par
+divine   a.\'c9\'f1\'b5\'c4\'a3\'bb\'be\'b4\'c9\'f1\'b5\'c4\par
+dizzy   a.\'cd\'b7\'d4\'ce\'d1\'db\'bb\'a8\'b5\'c4\'a3\'ac\'d1\'a3\'d4\'ce\'b5\'c4\par
+dock   vt.\'b0\'d1\'a1\'ad\'d2\'fd\'c8\'eb\'b4\'ac\'ce\'eb\par
+doctrine   n.\'bd\'cc\'d2\'e5\'a3\'ac\'d6\'f7\'d2\'e5\'a3\'bb\'d1\'a7\'cb\'b5\par
+documentary   a.\'bc\'cd\'c2\'bc\'b5\'c4\'a3\'ac\'ce\'c4\'cf\'d7\'b5\'c4\par
+dome   n.\'d4\'b2\'ce\'dd\'b6\'a5\'a3\'ac\'b9\'b0\'b6\'a5\par
+domestic   a.\'d1\'f8\'d4\'da\'bc\'d2\'c0\'ef\'b5\'c4\par
+dominant   a.\'cd\'b3\'d6\'ce\'b5\'c4   n.\'d6\'f7\'d2\'f2\par
+dominate   vt.\'cd\'b3\'d6\'ce\'a3\'ac\'d6\'a7\'c5\'e4\'a3\'ac\'bf\'d8\'d6\'c6\par
+doom   n.\'c3\'fc\'d4\'cb\'a3\'ac\'bb\'d9\'c3\'f0   vt.\'d7\'a2\'b6\'a8\par
+doubtless   ad.\'ce\'de\'d2\'c9\'b5\'d8\'a3\'bb\'ba\'dc\'bf\'c9\'c4\'dc\par
+dove   n.\'b8\'eb\'d7\'d3\'a3\'ac\'b0\'df\'f0\'af\par
+drain   vi.(\'cb\'ae\'b5\'c8)\'c1\'f7\'b5\'f4\par
+drainage   n.\'c5\'c5\'cb\'ae\'a3\'bb\'cf\'c2\'cb\'ae\'b5\'c0\par
+drama   n.\'cf\'b7\'be\'e7\'d0\'d4\'ca\'c2\'bc\'fe\'a3\'bb\'cf\'b7\'be\'e7\'d0\'d4\par
+drastic   a.\'bc\'a4\'c1\'d2\'b5\'c4\'a3\'bb\'d1\'cf\'c0\'f7\'b5\'c4\par
+drawback   n.\'cd\'cb\'bf\'ee\'a3\'bb\'b7\'c1\'b0\'ad\'a3\'bb\'b1\'d7\'b6\'cb\par
+dreadful   a.\'bf\'c9\'c5\'c2\'b5\'c4\'a3\'bb\'c1\'ee\'c8\'cb\'be\'b4\'ce\'b7\'b5\'c4\par
+dry   a.\'b8\'c9\'b0\'cd\'b0\'cd\'b5\'c4\'a3\'ac\'bf\'dd\'d4\'ef\'b5\'c4\par
+duke   n.\'b9\'ab\'be\'f4\'a3\'ac\'be\'fd\'d6\'f7\'a3\'bb\'ca\'d6\par
+duplicate   n.\'b8\'b4\'d6\'c6\'c6\'b7   vt.\'b8\'b4\'d6\'c6\par
+dust   n.\'c0\'ac\'bb\'f8\'a3\'ac\'b7\'cf\'c6\'b7\'a3\'ac\'bb\'d2\'bd\'fd\par
+dwarf   n.\'b0\'ab\'d7\'d3\'a3\'ac\'d9\'aa\'c8\'e5\par
+dwell   n.\'be\'d3\'d7\'a1   vi.\'c4\'fd\'cb\'bc\'a3\'ac\'cf\'b8\'cf\'eb\par
+dynamic   a.\'bb\'fa\'c4\'dc\'c9\'cf\'b5\'c4\par
+dynamo   n.\'b7\'a2\'b5\'e7\'bb\'fa\par
+ear   n.(\'b5\'be\'c2\'f3\'b5\'c8\'b5\'c4)\'cb\'eb\par
+earnings   n.\'b9\'a4\'d7\'ca\'a3\'ac\'ca\'d5\'c8\'eb\'a3\'bb\'ca\'d5\'d2\'e6\par
+earthenware   n.\'cc\'d5\'c6\'f7\par
+eastward   a.&ad.\'cf\'f2\'b6\'ab\'b5\'c4\'a3\'ac\'cf\'f2\'b6\'ab\par
+echo   vt.\'b7\'b4\'c9\'e4(\'c9\'f9\'d2\'f4\'b5\'c8)\par
+eclipse   n.(\'c8\'d5\'a3\'ac\'d4\'c2)\'ca\'b3\par
+ecology   n.\'c9\'fa\'cc\'ac\'d1\'a7\'a3\'bb\'b8\'f6\'cc\'e5\'c9\'fa\'cc\'ac\'d1\'a7\par
+economically   ad.\'bd\'da\'d4\'bc\'b5\'d8\'a3\'ac\'d4\'da\'be\'ad\'bc\'c3\'c9\'cf\par
+economics   n.\'be\'ad\'bc\'c3\'d1\'a7\'a3\'bb\'be\'ad\'bc\'c3\par
+edit   vt.\'b1\'e0\'bc\'ad\'a3\'ac\'b1\'e0\'d7\'eb\'a3\'bb\'d0\'a3\'b6\'a9\par
+editorial   n.\'c9\'e7\'c2\'db\'a3\'ac\'c6\'da\'bf\'af\'b5\'c4\'c9\'e7\'c2\'db\par
+Egyptian   a.\'b0\'a3\'bc\'b0\'b5\'c4   n.\'b0\'a3\'bc\'b0\'c8\'cb\par
+eject   vt.\'d6\'f0\'b3\'f6\'a3\'ac\'c5\'c5\'b3\'e2\'a3\'bb\'c5\'e7\'c9\'e4\par
+elapse   vi.(\'ca\'b1\'bc\'e4)\'b9\'fd\'c8\'a5\'a3\'ac\'cf\'fb\'ca\'c5\par
+elbow   vt.\'d3\'c3\'d6\'e2\'bc\'b7\'a3\'ac\'bc\'b7\'bd\'f8\par
+electrician   n.\'b5\'e7\'b9\'a4\'a3\'ac\'b5\'e7\'c6\'f8\'bc\'bc\'ca\'a6\par
+electrode   n.\'b5\'e7\'bc\'ab\'a3\'bb\'b5\'e7\'ba\'b8\'cc\'f5\par
+electronics   n.\'b5\'e7\'d7\'d3\'d1\'a7\par
+elegant   a.(\'be\'d9\'d6\'b9\'a1\'a2\'b7\'fe\'ca\'ce)\'d1\'c5\'d6\'c2\'b5\'c4\par
+elemental   a.\'bb\'f9\'b1\'be\'b5\'c4\'a3\'bb\'d7\'d4\'c8\'bb\'c1\'a6\'b5\'c4\par
+elevate   vt.\'cc\'e1\'b8\'df(\'cb\'bc\'cf\'eb)\'a3\'bb\'cc\'a7\'b8\'df\par
+elevation   n.\'b8\'df\'b6\'c8\'a3\'bb\'b1\'ea\'b8\'df\'a3\'bb\'c2\'a1\'d6\'d7\par
+elliptical   a.\'cd\'d6\'d4\'b2\'b5\'c4\'a3\'bb\'ca\'a1\'c2\'d4\'b5\'c4\par
+eloquence   n.\'d0\'db\'b1\'e7\'a3\'bb\'bf\'da\'b2\'c5\'a3\'ac\'d0\'de\'b4\'c7\par
+embarrass   vt.\'ca\'b9\'b8\'ba\'d5\'ae\'a3\'bb\'ca\'b9\'b8\'b4\'d4\'d3\'bb\'af\par
+embassy   n.\'b4\'f3\'ca\'b9\'b9\'dd\'a3\'bb\'b4\'f3\'ca\'b9\'b5\'c4\'d6\'b0\'ce\'f1\par
+embody   vt.\'cc\'e5\'cf\'d6\'a3\'bb\'b0\'fc\'ba\'ac\'a3\'ac\'ca\'d5\'c2\'bc\par
+embrace   vt.\'b0\'fc\'c0\'a8\'a3\'ac\'b0\'fc\'ba\'ac\'a3\'bb\'b0\'fc\'ce\'a7\par
+embroidery   n.\'d0\'e5\'bb\'a8\'a3\'ac\'b4\'cc\'d0\'e5\'a3\'bb\'d0\'e5\'d6\'c6\'c6\'b7\par
+emerge   vi.\'b8\'a1\'cf\'d6\'a3\'ac\'b3\'f6\'cf\'d6\'a3\'bb\'cf\'d4\'c2\'b6\par
+emigrate   vi.\'d3\'c0\'be\'c3\'d2\'c6\'be\'d3\'b9\'fa\'cd\'e2\par
+emission   n.\'c9\'a2\'b7\'a2\'a3\'bb\'b4\'ab\'b2\'a5\'a3\'bb\'b7\'a2\'b3\'f6\'ce\'ef\par
+empirical   a.\'be\'ad\'d1\'e9\'d6\'f7\'d2\'e5\'b5\'c4\par
+enchant   vt.\'c3\'d4\'d7\'a1\'a3\'bb\'d3\'c3\'c4\'a7\'b7\'a8\'c3\'d4\'bb\'f3\par
+enclosure   n.\'ce\'a7\'c8\'c6\'a3\'bb\'ce\'a7\'b3\'a1\'a3\'ac\'ce\'a7\'c0\'b8\par
+end   n.\'c4\'bf\'b1\'ea\'a3\'ac\'c4\'bf\'b5\'c4\par
+endanger   vt.\'ce\'a3\'bc\'b0\'a3\'ac\'ce\'a3\'ba\'a6\par
+endeavor   vi.&n.\'c5\'ac\'c1\'a6\'a3\'ac\'be\'a1\'c1\'a6\par
+endow   vt.\'d7\'ca\'d6\'fa\'a3\'bb\'b8\'b3\'d3\'e8\'a3\'ac\'ca\'da\'d3\'e8\par
+endurance   n.\'c4\'cd\'be\'c3\'c1\'a6\'a3\'ac\'b3\'d6\'be\'c3\'c1\'a6\par
+energetic   a.\'bb\'fd\'bc\'ab\'b5\'c4\'a3\'bb\'be\'ab\'c1\'a6\'cd\'fa\'ca\'a2\'b5\'c4\par
+energize   vt.\'b8\'f8\'d3\'eb\'a1\'ad\'c4\'dc\'c1\'bf\'a3\'bb\'b5\'e7\'d1\'b9\par
+engage   vt.\'ca\'b9(\'b3\'dd\'c2\'d6\'b5\'c8)\'c4\'f6\'ba\'cf\par
+engagement   n.\'bb\'e9\'d4\'bc\'a3\'bb\'d4\'bc\'bb\'e1\'a3\'ac\'d5\'ae\'ce\'f1\par
+enhance   vt.\'cc\'e1\'b8\'df\'a3\'ac\'d4\'f6\'bc\'d3\'a3\'bb\'bf\'e4\'d5\'c5\par
+enlighten   vt.\'c6\'f4\'b7\'a2\'a3\'ac\'bf\'aa\'b5\'bc\'a3\'bb\'c6\'f4\'c3\'c9\par
+enrich   vt.\'ca\'b9\'b8\'bb\'d4\'a3\'a3\'bb\'ca\'b9\'b7\'e1\'b8\'bb\par
+enroll   vt.\'b5\'c7\'bc\'c7\'a3\'ac\'d5\'d0\'ca\'d5vi.\'b2\'ce\'be\'fc\par
+enterprise   n.\'bc\'e8\'be\'de\'b5\'c4\'ca\'c2\'d2\'b5\'a3\'bb\'ca\'c2\'d2\'b5\'d0\'c4\par
+entertainment   n.\'d5\'d0\'b4\'fd\'a3\'ac\'d5\'d0\'b4\'fd\'bb\'e1\par
+entitle   vt.\'b0\'d1\'a1\'ad\'b3\'c6\'d7\'f7\par
+entreat   vt.&vi.\'bf\'d2\'c7\'f3\par
+entry   n.\'cd\'a8\'b5\'c0\'a3\'bb\'cc\'f5\'c4\'bf\par
+environmental   a.\'bb\'b7\'be\'b3\'b5\'c4\'a3\'ac\'bb\'b7\'be\'b3\'b2\'fa\'c9\'fa\'b5\'c4\par
+episode   n.\'d2\'bb\'b6\'ce\'c7\'e9\'bd\'da\'a3\'bb\'b2\'e5\'c7\'fa\par
+epoch   n.(\'d0\'c2)\'ca\'b1\'b4\'fa\'a3\'bb\'c0\'fa\'d4\'aa\par
+equation   n.\'c6\'bd\'ba\'e2\'a3\'bb\'c6\'bd\'be\'f9\'a3\'bb\'b7\'b4\'d3\'a6\'ca\'bd\par
+equator   n.\'b3\'e0\'b5\'c0\'a3\'ac\'cc\'ec\'c7\'f2\'b3\'e0\'b5\'c0\par
+equilibrium   n.\'c6\'bd\'ba\'e2\'a3\'ac\'be\'f9\'ba\'e2\'a3\'bb\'be\'f9\'ba\'e2\'c2\'db\par
+equivalent   a.\'b5\'c8\'c3\'e6(\'cc\'e5)\'bb\'fd\'b5\'c4\par
+erect   a.\'ca\'fa\'c6\'f0\'b5\'c4\par
+erosion   n.\'b8\'af\'ca\'b4\'a3\'ac\'c7\'d6\'ca\'b4\'a3\'bb\'c3\'d3\'c0\'c3\par
+errand   n.\'b2\'ee\'ca\'b9\'a3\'ac\'b2\'ee\'ca\'c2\par
+escort   n.&vt.\'bb\'a4\'ce\'c0\'a3\'ac\'bb\'a4\'cb\'cd\par
+essence   n.\'b1\'be\'d6\'ca\'a3\'ac\'b1\'be\'cc\'e5\'a3\'bb\'be\'ab\'bb\'aa\par
+essential   a.\'cc\'d8\'b7\'a2\'b5\'c4\'a3\'bb\'d7\'d4\'b7\'a2\'b5\'c4\par
+establish   vt.\'ca\'b9\'a1\'ad\'b1\'bb\'d3\'c0\'be\'c3\'b5\'d8\'bd\'d3\'ca\'dc\par
+estate   n.\'b7\'bf\'b5\'d8\'b2\'fa\'a3\'bb\'b2\'c6\'b2\'fa\'a3\'ac\'b2\'fa\'d2\'b5\par
+eternal   n.\'d3\'c0\'be\'c3\'b5\'c4\'a3\'bb\'b2\'bb\'d0\'e0\'b5\'c4\par
+evaporate   vt.\'ca\'b9\'cd\'d1\'cb\'aevi.\'b7\'a2\'c9\'a2\'d5\'f4\'c6\'f8\par
+even   a.\'cd\'ac\'d2\'bb\'c8\'d5\'c6\'da\'b5\'c4\par
+evenly   ad.\'d2\'bb\'d6\'c2\'b5\'d8\'a3\'ac\'c6\'bd\'be\'b2\'b5\'d8\par
+everlasting   a.\'d3\'c0\'be\'c3\'b5\'c4\'a3\'bb\'b3\'d6\'be\'c3\'b5\'c4\par
+evil   n.\'d0\'b0\'b6\'f1\'a3\'ac\'d7\'ef\'b6\'f1\'a3\'bb\'bb\'f6\'ba\'a6\par
+evolution   n.\'bf\'aa\'b7\'bd\'a3\'bb(\'cc\'ec\'cc\'e5\'b5\'c4)\'d0\'ce\'b3\'c9\par
+excel   vt.\'ca\'a4\'b9\'fd   vi.\'bd\'dc\'b3\'f6\par
+except   vt.\'b0\'d1\'a1\'ad\'b3\'fd\'cd\'e2\'a3\'ac\'b3\'fd\'c8\'a5\par
+exceptional   a.\'c0\'fd\'cd\'e2\'b5\'c4\'a3\'bb\'d3\'c5\'d4\'bd\'b5\'c4\par
+excess   n.\'b9\'fd\'b6\'c8\'d0\'d0\'ce\'aa\'a3\'ac\'b1\'a9\'d0\'d0\par
+excessively   ad.\'b9\'fd\'b7\'d6\'a3\'ac\'bc\'ab\'b6\'cb\'b5\'d8\par
+exclamation   n.\'ba\'f4\'ba\'b0\'a3\'ac\'be\'aa\'bd\'d0\'a3\'bb\'b8\'d0\'cc\'be\par
+exclusive   a.\'b3\'fd\'cd\'e2\'b5\'c4\'a3\'bb\'b9\'c2\'b0\'c1\'b5\'c4\par
+excursion   n.\'c0\'eb\'cc\'e2\par
+excuse   vt.\'d3\'eb\'a1\'ad\'b1\'e7\'bd\'e2\'a3\'bb\'ca\'b9\'c3\'e2\'b3\'fd\par
+execution   n.\'ca\'b5\'d0\'d0\'a3\'ac\'d6\'b4\'d0\'d0\'a3\'bb\'b4\'a6\'cb\'c0\'d0\'cc\par
+executive   n.\'d7\'dc\'be\'ad\'c0\'ed\'a3\'ac\'b6\'ad\'ca\'c2\par
+exemplify   vt.\'be\'d9\'c0\'fd\'d6\'a4\'c3\'f7(\'bd\'e2\'ca\'cd)\par
+exert   vt.\'b7\'a2\'bb\'d3(\'cd\'fe\'c1\'a6)\'a3\'ac\'ca\'a9\'bc\'d3\par
+exile   vt.\'c1\'f7\'b7\'c5   n.\'b1\'bb\'c1\'f7\'b7\'c5\'d5\'df\par
+expect   vt.\'c1\'cf\'cf\'eb\'a3\'ac\'c8\'cf\'ce\'aa\par
+expedition   n.\'cc\'bd\'cf\'d5\'a3\'bb\'cc\'bd\'cf\'d5\'b6\'d3\par
+expenditure   n.(\'ca\'b1\'bc\'e4\'b5\'c8)\'d6\'a7\'b3\'f6\'a3\'ac\'cf\'fb\'b7\'d1\par
+expel   vt.\'c7\'fd\'d6\'f0\'a3\'ac\'bf\'aa\'b3\'fd\'a3\'bb\'c5\'c5\'b3\'f6\par
+experimentally   ad.\'ca\'b5\'d1\'e9\'c9\'cf\'a3\'ac\'ca\'b5\'d1\'e9\'d0\'d4\'b5\'d8\par
+experimentation   n.\'ca\'b5\'d1\'e9\'a3\'ac\'ca\'d4\'d1\'e9\'a3\'bb\'ca\'b5\'d1\'e9\'b7\'a8\par
+expire   vi.\'c2\'fa\'c6\'da\'a3\'ac\'b5\'bd\'c6\'da\'a3\'bb\'b6\'cf\'c6\'f8\par
+explicit   a.\'c3\'f7\'ce\'fa\'b5\'c4\'a3\'bb\'d6\'b1\'c2\'ca\'b5\'c4\par
+exploration   n.\'bf\'bc\'b2\'ec\'a3\'bb\'bf\'b1\'cc\'bd\'a3\'bb\'cc\'bd\'b2\'e9\par
+exposition   n.\'cb\'b5\'c3\'f7\'a3\'ac\'bd\'e2\'ca\'cd\'a3\'bb\'b3\'c2\'c1\'d0\par
+extinct   a.\'be\'f8\'d6\'d6\'b5\'c4\'a3\'bb\'cf\'a8\'c3\'f0\'c1\'cb\'b5\'c4\par
+extinguish   vt.\'cf\'a8\'c3\'f0\'a3\'ac\'c6\'cb\'c3\'f0\'a3\'bb\'cf\'fb\'c3\'f0\par
+extra   n.\'b8\'bd\'bc\'d3\'ce\'ef\'a3\'bb\'b6\'ee\'cd\'e2\'b5\'c4\'c8\'cb\'ca\'d6\par
+extract   vt.\'c8\'a1\'b3\'f6\'a3\'bb\'d5\'a5\'c8\'a1   n.\'d5\'aa\'c2\'bc\par
+extraction   n.\'b3\'e9\'b3\'f6\'a3\'bb\'cc\'e1\'c8\'a1\'b7\'a8\'a3\'bb\'d5\'aa\'d2\'aa\par
+extraordinarily   ad.\'b7\'c7\'b3\'a3\'b5\'d8\'a3\'ac\'cc\'d8\'b1\'f0\'b5\'d8\par
+extravagant   a.\'c9\'dd\'b3\'de\'b5\'c4\'a3\'bb\'b9\'fd\'b6\'c8\'b5\'c4\par
+extreme   n.\'bc\'ab\'b6\'cb\'b2\'bb\'cd\'ac\'b5\'c4\'d0\'d4\'d6\'ca\par
+fabricate   vt.\'d6\'c6\'d7\'f7\'a3\'ac\'d7\'e9\'ba\'cf\'a3\'bb\'c4\'f3\'d4\'ec\par
+fabrication   n.\'d6\'c6\'d7\'f7\'a3\'ac\'b9\'b9\'b3\'c9\'a3\'bb\'c4\'f3\'d4\'ec\par
+facilitate   vt.\'ca\'b9\'c8\'dd\'d2\'d7\'a3\'bb\'d6\'fa\'b3\'a4\par
+faction   n.\'c5\'c9\'b1\'f0\'a3\'ac\'d7\'da\'c5\'c9\'a3\'ac\'d0\'a1\'bc\'af\'cd\'c5\par
+fair   a.\'c3\'c0\'c0\'f6\'b5\'c4\par
+fake   n.\'bc\'d9\'bb\'f5\'a3\'ac\'e2\'df\'c6\'b7   a.\'bc\'d9\'b5\'c4\par
+fall   vi.\'b1\'e4\'b3\'c9\'a3\'ac\'b3\'c9\'ce\'aa\'a3\'bb\'cf\'dd\'d3\'da\par
+fantastic   a.\'bf\'d5\'cf\'eb\'b5\'c4\'a3\'bb\'c6\'e6\'d2\'ec\'b5\'c4\par
+fascinate   vt.\'c3\'d4\'d7\'a1   vi.\'c3\'d4\'c8\'cb\par
+fastener   n.\'bf\'db\'bc\'fe\'a3\'ac\'c5\'a5\'bf\'db\'a3\'ac\'de\'ec\'c5\'a5\par
+faultless   a.\'ce\'de\'b9\'fd\'ca\'a7\'b5\'c4\'a3\'bb\'ce\'de\'c8\'b1\'b5\'e3\'b5\'c4\par
+fearless   a.\'ce\'de\'ce\'b7\'b5\'c4\'a3\'ac\'b4\'f3\'b5\'a8\'b5\'c4\par
+feel   vi.\'c3\'fe\'c6\'f0\'c0\'b4\par
+fell   vt.\'bf\'b3\'b5\'b9(\'ca\'f7\'b5\'c8)\'a3\'bb\'bf\'b3\'b7\'a5\par
+fellowship   n.\'bb\'ef\'b0\'e9\'b9\'d8\'cf\'b5\'a3\'bb\'c1\'aa\'d2\'ea\'bb\'e1\par
+feminine   a.\'c5\'ae\'d0\'d4\'b5\'c4\'a3\'bb\'c5\'ae\'d7\'d3\'c6\'f8\'b5\'c4\par
+fence   n.\'bb\'f7\'bd\'a3(\'ca\'f5)   vi.\'bb\'f7\'bd\'a3\par
+ferrous   a.\'cc\'fa\'b5\'c4\'a3\'bb\'d1\'c7\'cc\'fa\'b5\'c4\par
+ferry   n.\'b6\'c9\'b4\'ac\'a3\'bb\'b6\'c9\'bf\'da   vt.\'d4\'cb\'cb\'cd\par
+fertile   a.(\'b4\'b4\'d4\'ec\'c1\'a6)\'b7\'e1\'b8\'bb\'b5\'c4\par
+fighter   n.\'b6\'b7\'d5\'f9\'d5\'df\'a3\'bb\'d5\'bd\'b6\'b7\'bb\'fa\par
+filament   n.\'cf\'b8\'cb\'bf\'a3\'bb\'b3\'a4\'cb\'bf\'a3\'bb\'b5\'c6\'cb\'bf\par
+fill   vt.\'b5\'a3\'c8\'ce(\'d6\'b0\'ce\'f1)\'a3\'bb\'cc\'ee\'b2\'b9\par
+filter   vi.\'c2\'cb\'b9\'fd\par
+filth   n.\'ce\'db\'bb\'e0\'a3\'ac\'ce\'db\'ce\'ef\'a3\'bb\'d2\'f9\'e2\'ab\par
+finance   vt.\'cc\'e1\'b9\'a9\'d7\'ca\'bd\'f0\par
+finely   ad.\'be\'ab\'cf\'b8\'b5\'d8\'a3\'ac\'c3\'c0\'ba\'c3\'b5\'d8\par
+finite   a.\'d3\'d0\'cf\'de\'b5\'c4\'a3\'bb\'d3\'d0\'be\'a1\'b5\'c4\par
+fireplace   n.\'b1\'da\'c2\'af\par
+firework   n.\'b1\'ac\'d6\'f1\'a3\'ac\'bb\'a8\'c5\'da\'a3\'ac\'d1\'cc\'bb\'f0\par
+firmness   n.\'bc\'e1\'b9\'cc\'a3\'ac\'bc\'e1\'b6\'a8\'a3\'ac\'ce\'c8\'b9\'cc\par
+first-rate   a.\'b5\'da\'d2\'bb\'c1\'f7\'b5\'c4\'a3\'ac\'d3\'c5\'d0\'e3\'b5\'c4\par
+fission   n.\'c1\'d1\'bf\'aa\'a3\'bb\'b7\'d6\'c1\'d1\'c9\'fa\'d6\'b3\par
+fitness   n.\'ca\'ca\'b5\'b1\'a3\'ac\'c7\'a1\'b5\'b1\'a3\'bb\'bd\'a1\'bf\'b5\par
+fitting   a.\'ca\'ca\'b5\'b1\'b5\'c4   n.\'c5\'e4\'ba\'cf\par
+fixture   n.\'b9\'cc\'b6\'a8\'a3\'bb\'b6\'a8\'c6\'da\'b4\'e6\'bf\'ee\par
+flake   n.\'c6\'ac\'a3\'ac\'b1\'a1\'c6\'ac\'a3\'bb\'bc\'a1\'eb\'f5\par
+flame   vi.\'b7\'a2\'bb\'f0\'d1\'e6   vt.\'b5\'e3\'c8\'bc\par
+flank   n.\'c0\'df\'a3\'ac\'c0\'df\'b8\'b9\'a3\'bb\'b2\'e0\'c3\'e6\par
+flannel   n.\'b7\'a8\'c0\'bc\'c8\'de\'a3\'bb\'b7\'a8\'c0\'bc\'c8\'de\'d2\'c2\'b7\'fe\par
+flap   vt.&n.\'c5\'c4\'b4\'f2   vi.\'c5\'c4\'b6\'af\par
+flask   n.\'c6\'bf\'a3\'bb\'bb\'f0\'d2\'a9\'cd\'b2\'a3\'bb\'c9\'b0\'cf\'e4\par
+flatten   vt.\'b0\'d1\'a1\'ad\'c5\'aa\'c6\'bd\'a3\'bb\'bb\'f7\'b5\'b9\par
+flatter   vt.\'b7\'ee\'b3\'d0\'a3\'ac\'b0\'a2\'da\'c4\'a3\'ac\'da\'c6\'c3\'c4\par
+flavour   vt.\'b8\'f8\'a1\'ad\'b5\'f7\'ce\'b6\par
+flaw   n.\'c8\'b1\'b5\'e3\'a3\'ac\'e8\'a6\'b4\'c3\'a3\'bb\'c1\'d1\'cf\'b6\par
+flee   vi.\'cc\'d3\'d7\'df   vt.\'cc\'d3\'b1\'dc\par
+flexible   a.\'c1\'e9\'bb\'ee\'b5\'c4\'a3\'ac\'bf\'c9\'b1\'e4\'cd\'a8\'b5\'c4\par
+flight   n.\'c0\'a3\'cd\'cb\'a3\'ac\'cc\'d3\'c5\'dc\'a3\'bb\'cd\'e2\'c1\'f7\par
+fling   vi.&vt.(\'d3\'c3\'c1\'a6)\'c8\'d3\'a3\'ac\'c5\'d7\par
+float   n.\'c6\'af\'b8\'a1\'ce\'ef\'a3\'bb\'b8\'a1\'b1\'ea\'a3\'ac\'c4\'be\'b7\'a4\par
+flock   vi.\'c8\'ba\'bc\'af\'a3\'ac\'be\'db\'bc\'af\par
+fluctuate   vi.\'b2\'a8\'b6\'af   vt.\'ca\'b9\'b2\'a8\'b6\'af\par
+fluctuation   n.\'b2\'a8\'b6\'af\'a3\'bb\'c2\'f6\'b6\'af\'a3\'bb\'b3\'ec\'b3\'f9\par
+flush   n.\'d0\'cb\'b7\'dc\'a3\'ac\'c1\'b3\'ba\'ec\'a3\'bb\'b7\'a2\'c9\'d5\par
+flutter   vi.(\'c4\'f1)\'d5\'f1\'d2\'ed\'a3\'bb\'c6\'ae\'b6\'af\par
+flux   n.\'c1\'f7\'a3\'bb\'d5\'c7\'b3\'b1\'a3\'bb\'c1\'f7\'c1\'bf\par
+fly   v.\'b7\'c9\'c5\'dc\'a3\'ac\'cc\'d3\'c5\'dc\'a3\'ac\'cf\'fb\'ca\'a7\par
+foam   n.\'c5\'dd\'c4\'ad\'a3\'bb\'c5\'dd\'c4\'ad\'cb\'dc\'c1\'cf\par
+follow   vt.\'b4\'d3\'ca\'c2(\'d6\'b0\'d2\'b5)\'a3\'ac\'be\'ad\'d3\'aa\par
+follower   n.\'c6\'f5\'be\'dd\'b5\'c4\'b8\'bd\'c3\'e6\'a3\'bb\'b4\'d3\'b6\'af\'bc\'fe\par
+footpath   n.\'d0\'a1\'c2\'b7\'a3\'ac\'c8\'cb\'d0\'d0\'b5\'c0\par
+fore   ad.\'d4\'da\'c7\'b0\'c3\'e6   a.\'cf\'c8\'c7\'b0\'b5\'c4\par
+foreign   a.\'ce\'de\'b9\'d8\'b5\'c4\par
+foresee   vt.\'d4\'a4\'bc\'fb\'a3\'ac\'d4\'a4\'d6\'aa\'a3\'ac\'bf\'b4\'b4\'a9\par
+forge   vt.\'b4\'f2(\'cc\'fa\'b5\'c8)\'a3\'ac\'b6\'cd\'d4\'ec\par
+formal   a.\'d0\'ce\'cc\'ac\'b5\'c4\'a3\'bb\'b9\'e6\'b7\'b6\'b5\'c4\par
+formerly   ad.\'d2\'d4\'c7\'b0\'a3\'ac\'b4\'d3\'c7\'b0\par
+formidable   a.\'bf\'c9\'c5\'c2\'b5\'c4\'a3\'bb\'c4\'d1\'b6\'d4\'b8\'b6\'b5\'c4\par
+formulate   vt.\'d3\'c3\'b9\'ab\'ca\'bd\'b1\'ed\'ca\'be\par
+formulation   n.\'c3\'f7\'c8\'b7\'b5\'c4\'b1\'ed\'b4\'ef\par
+forsake   vt.\'d2\'c5\'c6\'fa\'a3\'ac\'c5\'d7\'c6\'fa\'a3\'ac\'de\'f0\'be\'f8\par
+fort   n.\'d2\'aa\'c8\'fb\'a3\'ac\'b1\'a4\'c0\'dd\par
+forthcoming   a.\'bc\'b4\'bd\'ab\'b5\'bd\'c0\'b4\'b5\'c4\'a3\'bb\'cf\'d6\'d3\'d0\'b5\'c4\par
+fortress   n.\'b1\'a4\'c0\'dd\'a3\'ac\'d2\'aa\'c8\'fb\par
+forum   n.\'c2\'db\'cc\'b3\'a3\'ac\'cc\'d6\'c2\'db\'bb\'e1\par
+forward   ad.\'cf\'f2\'c7\'b0\'a3\'ac\'bd\'ab\'c0\'b4vt.\'d7\'aa\'b5\'dd\par
+fossil   n.\'bb\'af\'ca\'af   a.\'bb\'af\'ca\'af\'b5\'c4\par
+foster   vt.\'d1\'f8\'d3\'fd\'a3\'ac\'b8\'a7\'d1\'f8\'a3\'bb\'c5\'e0\'d1\'f8\par
+foul   a.\'b0\'b9\'d4\'e0\'b5\'c4\'a3\'bb\'b3\'f3\'b6\'f1\'b5\'c4\par
+fowl   n.\'bc\'d2\'c7\'dd\'a3\'bb\'c7\'dd\'c8\'e2\par
+fraction   n.\'b7\'d6\'ca\'fd\'a3\'bb\'b7\'d6\'c1\'f3\'b5\'c4\'b2\'bf\'b7\'d6\par
+fracture   n.\'c6\'c6\'c1\'d1\'a3\'bb\'c1\'d1\'ba\'db   vi.\'c6\'c6\'c1\'d1\par
+fragile   a.\'b4\'e0\'b5\'c4\'a3\'bb\'cc\'e5\'d6\'ca\'c8\'f5\'b5\'c4\par
+fragrant   a.\'cf\'e3\'b5\'c4\'a3\'ac\'b7\'d2\'b7\'bc\'b5\'c4\par
+frail   a.\'b4\'e0\'c8\'f5\'b5\'c4\'a3\'bb\'d2\'e2\'d6\'be\'b1\'a1\'c8\'f5\'b5\'c4\par
+framework   n.\'bb\'fa\'b9\'b9\'a3\'ac\'d7\'e9\'d6\'af\'a3\'ac\'cc\'e5\'d6\'c6\par
+freight   n.\'d4\'cb\'b7\'d1\'a3\'bb\'bb\'f5\'d4\'cb\'a3\'bb\'b8\'ba\'b5\'a3\par
+frequency   n.\'c6\'b5\'b7\'b1\'a3\'ac\'c2\'c5\'b4\'ce\'a3\'bb\'c6\'b5\'c2\'ca\par
+frequent   a.\'b3\'a3\'bc\'fb\'b5\'c4\'a3\'bb\'c6\'b5\'b7\'b1\'b5\'c4\par
+freshen   vt.\'ca\'b9\'cf\'d4\'b5\'c3\'d0\'c2\'cf\'ca\par
+fret   vt.&vi.(\'ca\'b9)\'b7\'b3\'c4\'d5\par
+friction   n.\'b2\'c1\'c8\'c8\'c6\'a4\'b7\'f4\par
+fright   n.\'be\'aa\'cf\'c5\'a3\'ac\'bf\'d6\'b2\'c0\par
+frightful   a.\'bf\'c9\'c5\'c2\'b5\'c4\'a3\'bb\'cc\'d6\'d1\'e1\'b5\'c4\par
+fringe   n.\'cb\'eb\'a3\'ac\'c3\'ab\'b1\'df\'a3\'bb\'b1\'df\'d4\'b5\par
+fro   ad.\'cd\'f9\'a3\'ac\'c8\'a5\'a3\'ac\'bb\'d8\'a3\'ac\'cf\'f2\'ba\'f3\par
+frock   n.(\'c5\'ae)\'c9\'cf\'d2\'c2\'a3\'ac\'d5\'d6\'c9\'c0\par
+frustrate   vt.\'b4\'ec\'b0\'dc\'a3\'bb\'ca\'b9\'ce\'de\'d0\'a7\par
+furious   a.\'bf\'f1\'b1\'a9\'b5\'c4\'a3\'bb\'c7\'bf\'c1\'d2\'b5\'c4\par
+further   vt.\'d4\'f6\'bd\'f8\par
+fury   n.\'bf\'f1\'c5\'ad\'a3\'ac\'b1\'a9\'c5\'ad\'a3\'bb\'c3\'cd\'c1\'d2\par
+fuse   n.\'b1\'a3\'cf\'d5\'cb\'bf\'a3\'ac\'b5\'bc\'bb\'f0\'cf\'df\par
+fuss   n.\'c3\'a6\'c2\'d2\'a3\'bb\'b4\'b5\'c5\'f5   vi.\'c3\'a6\'c2\'d2\par
+gamble   n.\'b6\'c4\'b2\'a9   vt.\'c3\'b0\'a1\'ad\'b5\'c4\'cf\'d5\par
+gangster   n.\'b7\'cb\'cd\'bd\'a3\'ac\'b4\'f5\'cd\'bd\'a3\'ac\'b1\'a9\'cd\'bd\par
+gap   n.\'c9\'bd\'bf\'da\'a3\'ac\'c9\'bd\'cf\'bf\'a3\'bb\'b2\'ee\'be\'e0\par
+garage   n.\'c6\'fb\'b3\'b5\'d0\'de\'c0\'ed\'d5\'be\'a3\'bb\'b7\'c9\'bb\'fa\'bf\'e2\par
+garlic   n.\'cb\'e2\'a3\'ac\'b4\'f3\'cb\'e2\par
+garment   n.\'d2\'c2\'b7\'fe\'a3\'bb\'b7\'fe\'d7\'b0\'a3\'ac\'d2\'c2\'d7\'c5\par
+gather   vt.\'cd\'c6\'b2\'e2\'a3\'ac\'cd\'c6\'b6\'cf\par
+gathering   n.\'bc\'af\'bb\'e1\'a3\'ac\'be\'db\'bb\'e1\'a3\'ac\'be\'db\'bc\'af\par
+gear   n.\'b3\'dd\'c2\'d6\'a3\'ac\'b4\'ab\'b6\'af\'d7\'b0\'d6\'c3\par
+generalization   n.\'d2\'bb\'b0\'e3\'bb\'af\'a3\'bb\'b8\'c5\'c0\'a8\'a3\'ac\'d7\'db\'ba\'cf\par
+generalize   vt.\'b8\'c5\'c0\'a8\'b3\'f6vi.\'d0\'ce\'b3\'c9\'b8\'c5\'c4\'ee\par
+generate   vt.\'b7\'a2\'c9\'fa\'a3\'ac\'b2\'fa\'c9\'fa\'a3\'bb\'c9\'fa\'b3\'c9\par
+generosity   n.\'bf\'b6\'bf\'ae\'a3\'ac\'bf\'ed\'ba\'ea\'b4\'f3\'c1\'bf\par
+geographical   a.\'b5\'d8\'c0\'ed\'b5\'c4\'a3\'bb\'b5\'d8\'c7\'f8(\'d0\'d4)\'b5\'c4\par
+geology   n.\'b5\'d8\'d6\'ca\'d1\'a7\'a3\'bb(\'c4\'b3\'b5\'d8)\'b5\'d8\'d6\'ca\par
+geometrical   a.\'bc\'b8\'ba\'ce\'d1\'a7\'b5\'c4\par
+germ   n.\'cf\'b8\'be\'fa\'a3\'ac\'b2\'a1\'d4\'ad\'be\'fa\'a3\'bb\'d3\'d7\'d1\'bf\par
+gesture   vi.(\'bd\'b2\'bb\'b0\'ca\'b1\'b5\'c8)\'d7\'f6\'ca\'d6\'ca\'c6\par
+gigantic   a.\'be\'de\'b4\'f3\'b5\'c4\'a3\'bb\'be\'de\'c8\'cb\'cb\'c6\'b5\'c4\par
+ginger   n.\'bd\'aa\'a3\'ac\'c9\'fa\'bd\'aa\par
+gleam   n.\'ce\'a2\'b9\'e2   vi.\'b7\'a2\'ce\'a2\'b9\'e2\par
+glider   n.\'bb\'ac\'cf\'e8\'bb\'fa\'a3\'bb\'bb\'ac\'cf\'e8\'b5\'bc\'b5\'af\par
+global   a.\'c7\'f2\'c3\'e6\'b5\'c4\'a3\'bb\'c8\'ab\'c7\'f2\'b5\'c4\par
+glorify   vt.\'d4\'de\'c3\'c0(\'c9\'cf\'b5\'db)\'a3\'bb\'cb\'cc\'d1\'ef\par
+glossary   n.\'b4\'ca\'bb\'e3\'b1\'ed\'a3\'bb\'ca\'f5\'d3\'ef\'bb\'e3\'b1\'e0\par
+glue   vt.\'d5\'b3\'c0\'ce\par
+gnaw   vt.\'bf\'d0\'a3\'ac\'d2\'a7\'b6\'cf   vi.\'c4\'f6\par
+goddess   n.\'c5\'ae\'c9\'f1\'a3\'bb\'be\'f8\'ca\'c0\'c3\'c0\'c5\'ae\par
+goodness   n.\'c9\'c6\'c1\'bc\'a3\'ac\'c9\'c6\'d0\'d0\'a3\'ac\'c3\'c0\'b5\'c2\par
+gorilla   n.\'b4\'f3\'d0\'c9\'d0\'c9\'a3\'bb\'b1\'a9\'cd\'bd\'a3\'ac\'b4\'f2\'ca\'d6\par
+gorgeous   a.\'d1\'a4\'c0\'f6\'b5\'c4\'a3\'bb\'bc\'ab\'ba\'c3\'b5\'c4\par
+gossip   n.\'cf\'d0\'cc\'b8\'a3\'bb\'cb\'e9\'d7\'ec\'d7\'d3\'a3\'bb\'c2\'fe\'b1\'ca\par
+govern   vt.\'be\'f6\'b6\'a8\'a3\'ac\'d6\'a7\'c5\'e4\'a3\'bb\'bf\'d8\'d6\'c6\par
+grab   vt.&vi.\'be\'f0\'c8\'a1\'a3\'ac\'d7\'a5\'c8\'a1\par
+gracious   a.\'c7\'ab\'ba\'cd\'b5\'c4\par
+gradient   n.\'d0\'b1\'c6\'c2   a.\'c7\'e3\'d0\'b1\'b5\'c4\par
+gramophone   n.\'c1\'f4\'c9\'f9\'bb\'fa\par
+granite   a.\'bb\'a8\'b8\'da\'d1\'d2\'a3\'ac\'bb\'a8\'b8\'da\'ca\'af\par
+grant   n.\'ca\'da\'d3\'e8\'ce\'ef\'a3\'ac\'b2\'a6\'bf\'ee\par
+graphite   n.\'ca\'af\'c4\'ab\'a3\'ac\'ca\'af\'c4\'ab\'b5\'e7\'bc\'ab\par
+grasshopper   n.\'f2\'c6\'f2\'ec\'a3\'ac\'bb\'c8\'b3\'e6\'a3\'ac\'c2\'ec\'f2\'c6\par
+grassy   a.\'b2\'dd\'b6\'e0\'b5\'c4\'a3\'bb\'b2\'dd\'cb\'c6\'b5\'c4\par
+grateful   a.\'bf\'c9\'cf\'b2\'b5\'c4\'a3\'ac\'c1\'ee\'c8\'cb\'d3\'e4\'bf\'ec\'b5\'c4\par
+gravel   n.\'c9\'b0\'f5\'c8\'a3\'bb\'c9\'b0\'c0\'f9\'b2\'e3\'a3\'bb\'bd\'e1\'ca\'af\par
+graze   vi.\'ce\'b9\'b2\'dd\'a3\'bb\'b7\'c5\'c4\'c1(\'c9\'fc\'d0\'f3)\par
+grease   n.\'b6\'af\'ce\'ef\'d6\'ac\'a3\'ac\'d6\'ac\'b7\'be\par
+greed   n.\'cc\'b0\'d0\'c4\'a3\'ac\'cc\'b0\'c0\'b7\par
+grief   n.\'b1\'af\'b0\'a7\'a3\'ac\'b1\'af\'cd\'b4\'a3\'ac\'b1\'af\'c9\'cb\par
+grim   a.\'c0\'e4\'bf\'e1\'ce\'de\'c7\'e9\'b5\'c4\'a3\'ac\'d1\'cf\'c0\'f7\'b5\'c4\par
+grin   vi.\'df\'d6\'d7\'c5\'d7\'ec\'d0\'a6\par
+grind   vt.\'d5\'db\'c4\'a5\'a3\'ac\'d1\'b9\'d5\'a5\par
+groove   n.\'b2\'db   vt.\'bf\'aa\'b2\'db\'d3\'da\par
+grope   vi.(\'b0\'b5\'d6\'d0)\'c3\'fe\'cb\'f7\'a3\'ac\'cc\'bd\'cb\'f7\par
+gross   a.(\'d3\'ef\'d1\'d4\'a1\'a2\'be\'d9\'d6\'b9)\'b4\'d6\'cb\'d7\'b5\'c4\par
+grove   n.\'c1\'d6\'d7\'d3\'a3\'ac\'d0\'a1\'ca\'f7\'c1\'d6\'a3\'ac\'d4\'b0\'c1\'d6\par
+growl   vi.(\'b9\'b7\'b5\'c8)\'e0\'c6\'bd\'d0\'a3\'bb\'c5\'d8\'cf\'f8\par
+grumble   vi.\'b1\'a7\'d4\'b9\'a3\'ac\'b7\'a2\'c0\'ce\'c9\'a7\par
+grunt   vi.\'d7\'f7\'ba\'f4\'e0\'e0\'c9\'f9\'a3\'bb\'b9\'be\'df\'e6\par
+guilt   n.\'d3\'d0\'d7\'ef\'a3\'ac\'b7\'b8\'d7\'ef\'a3\'bb\'c4\'da\'be\'ce\par
+guitar   n.\'bc\'aa\'cb\'fb\'a3\'ac\'c1\'f9\'cf\'d2\'c7\'d9\par
+gust   n.\'d5\'f3\'b7\'e7\'a3\'ac\'d2\'bb\'d5\'f3\'bf\'f1\'b7\'e7\par
+gutter   n.\'b9\'b5\'a3\'ac\'b1\'df\'b9\'b5\'a3\'bb\'e9\'dc\'b2\'db\par
+hail   vt.\'cf\'f2\'a1\'ad\'bb\'b6\'ba\'f4   vi.\'d5\'d0\'ba\'f4\par
+halve   vt.\'b6\'d4\'b7\'d6\'a3\'bb\'c6\'bd\'cc\'af\par
+ham   n.\'bb\'f0\'cd\'c8\'a3\'bb(\'ca\'de\'c0\'e0\'b5\'c4)\'ba\'f3\'f5\'d7\par
+hamper   vt.\'b7\'c1\'b0\'ad\'a3\'ac\'d7\'e8\'b0\'ad\'a3\'ac\'c7\'a3\'d6\'c6\par
+handbook   n.\'ca\'d6\'b2\'e1\'a3\'ac\'b1\'e3\'c0\'c0\'a3\'ac\'d6\'b8\'c4\'cf\par
+handicap   vt.\'b7\'c1\'b0\'ad\'a3\'ac\'ca\'b9\'b2\'bb\'c0\'fb\par
+handout   n.\'ca\'a9\'c9\'e1\'ce\'ef\'a3\'ac\'be\'c8\'bc\'c3\'c6\'b7\par
+handy   a.\'b7\'bd\'b1\'e3\'b5\'c4\'a3\'bb\'b1\'e3\'d3\'da\'ca\'b9\'d3\'c3\'b5\'c4\par
+harbour   vt.\'d2\'fe\'c4\'e4\'a3\'ac\'ce\'d1\'b2\'d8\'a3\'bb\'bb\'b3\'d7\'c5\par
+hard   a.(\'be\'c6)\'c1\'d2\'d0\'d4\'b5\'c4\par
+hardy   a.\'c7\'bf\'d7\'b3\'b5\'c4\'a3\'ac\'c4\'cd\'c0\'cd\'b5\'c4\par
+harmonious   a.\'ba\'cd\'d0\'b3\'b5\'c4\'a3\'ac\'d0\'ad\'b5\'f7\'b5\'c4\par
+harp   n.\'ca\'fa\'c7\'d9\'a3\'bb\'cc\'ec\'c7\'d9\'d7\'f9\par
+harsh   a.\'b4\'d6\'b2\'da\'b5\'c4\'a3\'bb\'d1\'cf\'c0\'f7\'b5\'c4\par
+hatch   vt.\'b2\'d5\'b8\'c7\'a3\'ac\'b2\'d5\'bf\'da\'a3\'bb\'b6\'cc\'c3\'c5\par
+haughty   a.\'b0\'c1\'c2\'fd\'b5\'c4\'a3\'ac\'c7\'e1\'c3\'ef\'b5\'c4\par
+haul   vt.\'cd\'cf\'d2\'b7\'a3\'bb\'cd\'cf\'d4\'cb\par
+haunt   vt.\'b3\'a3\'c8\'a5   vi.\'be\'ad\'b3\'a3\'b3\'f6\'c3\'bb\par
+hazard   vt.\'ca\'b9\'d4\'e2\'ce\'a3\'cf\'d5   n.\'ce\'a3\'cf\'d5\par
+head   vt.\'d3\'c3\'cd\'b7\'b6\'a5(\'c7\'f2)vi.\'b3\'f6\'b7\'a2\par
+heading   n.\'b1\'ea\'cc\'e2\'a3\'ac\'cc\'e2\'b4\'ca\'a3\'ac\'cc\'e2\'c3\'fb\par
+headlong   a.&ad.\'cd\'b7\'cf\'f2\'c7\'b0\'b5\'c4(\'b5\'d8)\par
+headquarters   n.\'d7\'dc\'be\'d6\'a3\'ac\'d7\'dc\'b5\'ea\par
+hearth   n.\'b1\'da\'c2\'af\'b5\'d8\'c3\'e6\'a3\'bb\'c2\'af\'b1\'df\par
+heater   n.\'bc\'d3\'c8\'c8\'b5\'c4\'c8\'cb\'a3\'ac\'bc\'d3\'c8\'c8\'c6\'f7\par
+hearty   a.\'d6\'d4\'d0\'c4\'b5\'c4\'a3\'bb\'b7\'e1\'ca\'a2\'b5\'c4\par
+heave   vt.(\'d3\'c3\'c1\'a6\'b5\'d8)\'be\'d9\'c6\'f0\'a3\'bb\'c5\'d7\par
+Heaven   n.\'c9\'cf\'b5\'db\'a3\'ac\'c9\'f1\par
+heighten   vt.\'bc\'d3\'b8\'df\'a3\'ac\'cc\'e1\'b8\'df\'a3\'bb\'d4\'f6\'bc\'d3\par
+hemisphere   n.\'b0\'eb\'c7\'f2\'a3\'bb\'b0\'eb\'c7\'f2\'b5\'d8\'cd\'bc\par
+henceforth   ad.\'bd\'f1\'ba\'f3\'a3\'ac\'b4\'d3\'bd\'f1\'d2\'d4\'ba\'f3\par
+herald   ad.\'b4\'ab\'c1\'ee\'b9\'d9\'a3\'bb\'cd\'a8\'b1\'a8\'d5\'df\par
+herb   n.\'b2\'dd\'b1\'be\'d6\'b2\'ce\'ef\'a3\'bb\'cf\'e3\'b2\'dd\par
+herd   vt.\'b7\'c5\'c4\'c1   vi.\'b3\'c9\'c8\'ba\par
+hesitate   vi.\'ba\'ac\'ba\'fd\'a3\'ac\'d6\'a7\'ce\'e1\'a3\'bb\'bf\'da\'b3\'d4\par
+hide   n.\'c9\'fa\'c6\'a4\'a3\'ac\'ca\'de\'c6\'a4\'a3\'ac\'c6\'a4\'b8\'ef\par
+hike   vi.\'d7\'f7\'b3\'a4\'cd\'be\'cd\'bd\'b2\'bd\'c2\'c3\'d0\'d0\par
+hindrance   n.\'d5\'cf\'b0\'ad\'a3\'ac\'b7\'c1\'b0\'ad\par
+hinge   n.\'ba\'cf\'d2\'b3\'a3\'ac\'d5\'db\'d2\'b6\'a3\'ac\'bd\'c2\'c1\'b4\par
+hip   n.\'cd\'ce\'b2\'bf\'a3\'ac\'f7\'c5\'a3\'bb\'ce\'dd\'bc\'b9\par
+hiss   n.\'cb\'bb\'cb\'bb\'c9\'f9   vi.\'cb\'bb\'cb\'bb\'d7\'f7\'c9\'f9\par
+historian   n.\'c0\'fa\'ca\'b7\'d1\'a7\'bc\'d2\'a3\'bb\'b1\'e0\'ca\'b7\'bc\'d2\par
+historic   a.\'c0\'fa\'ca\'b7\'b5\'c4\'a3\'bb\'c0\'fa\'ca\'b7\'d0\'d4\'b5\'c4\par
+hit   n.\'ba\'e4\'b6\'af\'d2\'bb\'ca\'b1\'b5\'c4\'c8\'cb(\'bb\'f2\'ca\'c2)\par
+hitherto   ad.\'c6\'f9\'bd\'f1\'a3\'ac\'b5\'bd\'c4\'bf\'c7\'b0\'ce\'aa\'d6\'b9\par
+hoarse   a.(\'c9\'f9\'d2\'f4)\'cb\'bb\'d1\'c6\'b5\'c4\par
+hoe   vt.&vi.\'b3\'fa\'b5\'d8\par
+hoist   vt.\'c9\'fd\'c6\'f0   vi.\'b3\'b6\'c6\'f0\'c0\'b4\par
+hollow   vt.\'d4\'e4\'bf\'d5   vi.\'b1\'e4\'bf\'d5\par
+homely   a.\'bc\'d2\'cd\'a5\'b5\'c4\'a3\'bb\'bc\'d2\'b3\'a3\'b5\'c4\par
+homogeneous   a.\'cd\'ac\'c0\'e0\'b5\'c4\'a3\'bb\'be\'f9\'d4\'c8\'b5\'c4\par
+hook   vt.\'d3\'c3\'b9\'b3\'c1\'ac\'bd\'d3\'a3\'ac\'d3\'c3\'b9\'b3\'b9\'d2\par
+hop   vi.\'cc\'f8\'ce\'e8\'a3\'bb(\'c8\'cb)\'b5\'a5\'d7\'e3\'cc\'f8\par
+horizon   n.\'b2\'e3\'ce\'bb\par
+horn   n.\'bd\'c7\'d7\'b4\'ce\'ef\'a3\'ac\'bd\'c7\'d6\'c6\'c6\'b7\par
+hose   n.\'b3\'a4\'cd\'b2\'cd\'e0\'a3\'bb\'c8\'ed\'b9\'dc\par
+hospitality   n.\'ba\'c3\'bf\'cd\'a3\'ac\'d2\'f3\'c7\'da\'a3\'bb\'d2\'cb\'c8\'cb\par
+hostage   n.\'c8\'cb\'d6\'ca\'a3\'ac\'b5\'d6\'d1\'ba\'c6\'b7\par
+hostess   n.\'c5\'ae\'d6\'f7\'c8\'cb\'a3\'bb\'c2\'c3\'b9\'dd\'c5\'ae\'c0\'cf\'b0\'e5\par
+hostile   a.\'b5\'d0\'b6\'d4\'b5\'c4\'a3\'bb\'b2\'bb\'d3\'d1\'ba\'c3\'b5\'c4\par
+hound   n.\'b9\'b7\'a3\'bb\'bd\'c7\'f6\'e8\'a3\'bb\'b1\'b0\'b1\'c9\'b5\'c4\'c8\'cb\par
+house   n.\'d2\'e9\'d4\'ba\'a3\'ac\'bb\'e1\'d2\'e9\'cc\'fc\par
+hover   vi.\'c5\'c7\'bb\'b2\'a3\'bb\'b0\'f8\'e1\'e5\'a3\'bb\'b0\'bf\'cf\'e8\par
+howl   n.\'ba\'bf\'bd\'d0\'a3\'bb\'b0\'a7\'ba\'c5   vi.\'b7\'cd\par
+hug   vt.\'c2\'a7   n.\'bd\'f4\'bd\'f4\'d3\'b5\'b1\'a7\par
+hull   n.\'cd\'e2\'bf\'c7\'a3\'ac\'b6\'b9\'bc\'d4\'a3\'bb\'b1\'a1\'c4\'a4\par
+hum   n.\'ce\'cb\'ce\'cb\'c9\'f9   vt.\'ba\'df\'c7\'fa\'d7\'d3\par
+humanitarian   a.\'b2\'a9\'b0\'ae\'b5\'c4   n.\'b4\'c8\'c9\'c6\'bc\'d2\par
+humanity   n.\'c8\'cb\'c0\'e0\'a3\'bb\'c8\'cb\'d0\'d4\'a3\'ac\'c8\'cb\'c7\'e9\par
+humidity   n.\'ca\'aa\'c6\'f8\'a3\'bb\'ca\'aa\'b6\'c8\par
+hurl   vt.\'c3\'cd\'cd\'b6   vi.\'c3\'cd\'b3\'e5\par
+hurrah   int.\'ba\'c3\'cd\'db\'a3\'ac\'cd\'f2\'cb\'ea\'a3\'ac\'ce\'da\'c0\'ad\par
+hurricane   n.\'ec\'ab\'b7\'e7\'a3\'ac\'ca\'ae\'b6\'fe\'bc\'b6\'b7\'e7\par
+hurt   n.\'cb\'f0\'c9\'cb\'a3\'ac\'c9\'cb\'ba\'a6\'a3\'ac\'b4\'b4\'c9\'cb\par
+hush   n.\'b3\'c1\'c4\'ac   int.\'d0\'ea\'a3\'a1\par
+hydraulic   a.\'cb\'ae\'c1\'a6\'b5\'c4\'a3\'bb\'cb\'ae\'c1\'a6\'d1\'a7\'b5\'c4\par
+hydrocarbon   n.\'cc\'fe\'a3\'ac\'cc\'bc\'c7\'e2\'bb\'af\'ba\'cf\'ce\'ef\par
+hymn   n.\'d4\'de\'c3\'c0\'ca\'ab\'a3\'ac\'ca\'a5\'b8\'e8\'a3\'bb\'d4\'de\'b8\'e8\par
+hypothesis   n.\'bc\'d9\'c9\'e8\'a3\'bb\'c7\'b0\'cc\'e1\par
+ice   vt.\'ca\'b9\'b3\'c9\'b1\'f9   vi.\'bd\'e1\'b1\'f9\par
+icy   a.\'b1\'f9\'c0\'e4\'b5\'c4\'a3\'bb\'c0\'e4\'b1\'f9\'b1\'f9\'b5\'c4\par
+idealism   n.\'ce\'a8\'d0\'c4\'d6\'f7\'d2\'e5\'a3\'bb\'c0\'ed\'cf\'eb\'d6\'f7\'d2\'e5\par
+ideally   ad.\'c0\'ed\'cf\'eb\'b5\'d8\'a3\'bb\'c0\'ed\'c2\'db\'c9\'cf\par
+identical   a.\'cd\'ac\'d2\'bb\'b5\'c4\'a3\'bb\'ba\'e3\'b5\'c8\'b5\'c4\par
+identification   n.\'c8\'cf\'b3\'f6\'a3\'ac\'bc\'f8\'b6\'a8\'a3\'bb\'c9\'ed\'b7\'dd\'d6\'a4\par
+idiot   n.\'b0\'d7\'b3\'d5\'a3\'bb\'c9\'b5\'d7\'d3\par
+idleness   n.\'c0\'c1\'b6\'e8\'a3\'bb\'b8\'b3\'cf\'d0\'ce\'de\'ca\'c2\par
+ignite   vt.\'d2\'fd\'c8\'bc   vi.\'d7\'c5\'bb\'f0\par
+ignorance   n.\'ce\'de\'d6\'aa\'a3\'ac\'ce\'de\'d1\'a7\'a3\'ac\'d3\'de\'c3\'c1\par
+illiterate   a.\'ce\'c4\'c3\'a4\'b5\'c4   n.\'ce\'c4\'c3\'a4\par
+illuminate   vt.\'d5\'d5\'c3\'f7\'a3\'ac\'d5\'d5\'c1\'c1\'a3\'bb\'b2\'fb\'c3\'f7\par
+illusion   n.\'bb\'c3\'cf\'eb\'a3\'bb\'b4\'ed\'be\'f5\'a3\'bb\'bc\'d9\'cf\'f3\par
+imitation   n.\'b7\'c2\'d6\'c6\'c6\'b7\'a3\'ac\'ce\'b1\'d6\'c6\'ce\'ef\par
+immerse   vt.\'b3\'c1\'bd\'fe\'a3\'bb\'b8\'f8\'a1\'ad\'ca\'a9\'cf\'b4\'c0\'f1\par
+immigrate   vt.(\'ca\'b9)\'d2\'c6\'be\'d3\'c8\'eb\'be\'b3\par
+immortal   a.\'b2\'bb\'d0\'e0\'b5\'c4\'a3\'bb\'d3\'c0\'c9\'fa\'b5\'c4\par
+impart   vt.\'b8\'f8\'d3\'e8\'a3\'ac\'b4\'ab\'b5\'dd\'a3\'bb\'b8\'e6\'cb\'df\par
+impartial   a.\'b9\'ab\'d5\'fd\'b5\'c4\'a3\'ac\'ce\'de\'c6\'ab\'bc\'fb\'b5\'c4\par
+implement   n.\'b9\'a4\'be\'df\'a3\'ac\'b7\'fe\'d7\'b0   vt.\'b9\'e1\'b3\'b9\par
+implore   vt.\'c6\'f2\'c7\'f3\'a3\'ac\'bf\'d2\'c7\'f3\'a3\'ac\'b0\'a7\'c7\'f3\par
+impose   vi.\'c0\'fb\'d3\'c3\'a3\'bb\'c6\'db\'c6\'ad\par
+impress   vt.\'b8\'c7\'d3\'a1\'a3\'ac\'d4\'da\'a1\'ad\'b4\'f2\'bc\'c7\'ba\'c5\par
+improper   a.\'b2\'bb\'ca\'ca\'b5\'b1\'b5\'c4\'a3\'bb\'b2\'bb\'ba\'cf\'c0\'ed\'b5\'c4\par
+impulse   n.\'cd\'c6\'b6\'af\'a3\'ac\'b3\'e5\'c1\'a6\'a3\'bb\'b3\'e5\'b6\'af\par
+impurity   n.\'b2\'bb\'b4\'bf\'a3\'bb\'d4\'d3\'d6\'ca\'a3\'bb\'b2\'bb\'b5\'c0\'b5\'c2\par
+inaccessible   a.\'b4\'ef\'b2\'bb\'b5\'bd\'b5\'c4\'a3\'ac\'c4\'d1\'bd\'d3\'bd\'fc\'b5\'c4\par
+inaccurate   a.\'b2\'bb\'be\'ab\'c3\'dc\'b5\'c4\'a3\'ac\'b2\'bb\'d7\'bc\'c8\'b7\'b5\'c4\par
+inadequate   a.\'b2\'bb\'b3\'e4\'d7\'e3\'b5\'c4\'a3\'ac\'b2\'bb\'ca\'ca\'b5\'b1\'b5\'c4\par
+inasmuch   ad.\'d2\'f2\'ce\'aa\'a3\'ac\'d3\'c9\'d3\'da\par
+inaugurate   vt.\'bf\'aa\'ca\'bc\'a3\'bb\'ca\'b9\'be\'cd\'d6\'b0\par
+incapable   a.\'ce\'de\'c4\'dc\'c1\'a6\'b5\'c4\'a3\'bb\'ce\'de\'d7\'ca\'b8\'f1\'b5\'c4\par
+incense   n.\'cf\'e3\'a3\'ac\'d1\'ac\'cf\'e3\'a3\'bb\'cf\'e3\'c6\'f8\par
+incidence   n.\'b7\'a2\'c9\'fa\'a3\'ac\'d3\'b0\'cf\'ec\'a3\'bb\'c8\'eb\'c9\'e4\par
+incidentally   ad.\'b8\'bd\'b4\'f8\'b5\'d8\'a3\'bb\'cb\'b3\'b1\'e3\'cc\'e1\'bc\'b0\par
+inclination   n.\'c7\'e3\'d0\'b1\'a3\'ac\'b5\'e3\'cd\'b7\'a3\'bb\'d0\'b1\'c6\'c2\par
+incline   n.\'c6\'c2\'b6\'c8\par
+inclusive   a.\'b0\'fc\'ce\'a7\'d7\'a1\'b5\'c4\'a3\'bb\'b0\'fc\'c0\'a8\'b5\'c4\par
+incompatible   a.\'b2\'bb\'cf\'e0\'c8\'dd\'b5\'c4\par
+incomplete   a.\'b2\'bb\'cd\'ea\'c8\'ab\'b5\'c4\'a3\'ac\'ce\'b4\'cd\'ea\'b3\'c9\'b5\'c4\par
+incorporate   vt.\'bd\'e1\'ba\'cf\'a3\'ac\'ba\'cf\'b2\'a2\'a3\'ac\'ca\'d5\'b1\'e0\par
+incredible   a.\'c4\'d1\'d2\'d4\'d6\'c3\'d0\'c5\'b5\'c4\'a3\'ac\'be\'aa\'c8\'cb\'b5\'c4\par
+indefinite   a.\'ce\'de\'cf\'de\'c6\'da\'b5\'c4\par
+indicative   a.\'d6\'b8\'ca\'be\'b5\'c4\'a3\'bb\'b3\'c2\'ca\'f6\'b5\'c4\par
+indignation   n.\'b7\'df\'c5\'ad\'a3\'ac\'b7\'df\'bf\'ae\'a3\'ac\'d2\'e5\'b7\'df\par
+indispensable   a.\'b1\'d8\'b2\'bb\'bf\'c9\'c9\'d9\'b5\'c4\'a3\'ac\'b1\'d8\'d0\'e8\'b5\'c4\par
+individual   a.\'cc\'d8\'ca\'e2\'b5\'c4\par
+indoor   a.\'ca\'d2\'c4\'da\'b5\'c4\'a3\'bb\'ca\'d2\'c4\'da\'bd\'f8\'d0\'d0\'b5\'c4\par
+induce   vt.\'c8\'b0\'d3\'d5\'a3\'bb\'d2\'fd\'c6\'f0\'a3\'bb\'b8\'d0\'d3\'a6\par
+induction   n.\'be\'cd\'d6\'b0\'a3\'bb\'b9\'e9\'c4\'c9\'cd\'c6\'c0\'ed\par
+indulge   vt.\'b7\'c5\'d7\'dd(\'b8\'d0\'c7\'e9)vi.\'d7\'dd\'c7\'e9\par
+industrious   a.\'c7\'da\'c0\'cd\'b5\'c4\'a3\'ac\'c7\'da\'b7\'dc\'b5\'c4\par
+inertia   n.\'b9\'df\'d0\'d4\'a3\'ac\'b9\'df\'c1\'bf\'a3\'bb\'ce\'de\'c1\'a6\par
+inevitably   ad.\'b2\'bb\'bf\'c9\'b1\'dc\'c3\'e2\'b5\'d8\par
+infect   vt.\'ca\'b9\'ca\'dc\'d3\'b0\'cf\'ec\par
+infectious   a.\'b4\'ab\'c8\'be\'b5\'c4\'a3\'bb\'b8\'d0\'c8\'be\'d0\'d4\'b5\'c4\par
+infer   vt.&vi.\'b2\'c2\'cf\'eb\'a3\'ac\'d2\'dc\'b2\'e2\par
+inference   n.\'cd\'c6\'c2\'db\'a3\'bb\'cd\'c6\'b6\'cf\'b5\'c4\'bd\'e1\'b9\'fb\par
+inferior   n.\'cf\'c2\'bc\'b6\'a3\'bb\'cd\'ed\'b1\'b2\'a3\'ac\'b4\'ce\'c6\'b7\par
+infinite   n.\'ce\'de\'cf\'de\'a3\'bb\'ce\'de\'c7\'ee(\'b4\'f3)\par
+infinitely   ad.\'ce\'de\'cf\'de\'b5\'d8\'a3\'ac\'ce\'de\'b1\'df\'b5\'d8\par
+infinity   n.\'b4\'f3\'c1\'bf\'a3\'ac\'b4\'f3\'d7\'da\'a3\'bb\'ce\'de\'c7\'ee\'b4\'f3\par
+inflation   n.\'cd\'a8\'bb\'f5\'c5\'f2\'d5\'cd\'a3\'ac\'ce\'ef\'bc\'db\'b7\'c9\'d5\'c7\par
+influence   n.\'ca\'c6\'c1\'a6\'a3\'ac\'c8\'a8\'ca\'c6\par
+ingenious   a.\'bb\'fa\'c1\'e9\'b5\'c4\'a3\'bb\'be\'ab\'c7\'c9\'d6\'c6\'b3\'c9\'b5\'c4\par
+ingenuity   n.\'bb\'fa\'c1\'e9\'a3\'bb\'c9\'e8\'bc\'c6\'d0\'c2\'d3\'b1\par
+ingredient   n.\'c5\'e4\'c1\'cf\'a3\'ac\'b3\'c9\'b7\'d6\par
+inherent   a.\'b9\'cc\'d3\'d0\'b5\'c4\'a3\'ac\'c9\'fa\'c0\'b4\'b5\'c4\par
+initial   a.\'b4\'ca\'ca\'d7\'b5\'c4\par
+initially   ad.\'d7\'ee\'b3\'f5\'a3\'ac\'bf\'aa\'ca\'bc\par
+initiate   vt.\'bf\'aa\'ca\'bc\'a3\'ac\'b4\'b4\'ca\'bc\'a3\'bb\'c6\'f4\'c3\'c9\par
+initiative   a.\'b4\'b4\'ca\'bc\'b5\'c4   n.\'b5\'da\'d2\'bb\'b2\'bd\par
+inject   vt.\'d7\'a2\'c9\'e4\'a3\'bb\'d7\'a2\'c2\'fa\'a3\'bb\'c5\'e7\'c9\'e4\par
+inland   a.\'b9\'fa\'c4\'da\'b5\'c4\'a3\'bb\'c4\'da\'b5\'d8\'b5\'c4\par
+inlet   n.\'bd\'f8\'bf\'da\'a3\'ac\'cb\'ae\'cd\'e5   vt.\'d2\'fd\'bd\'f8\par
+innovation   n.\'b4\'b4\'d0\'c2\'a3\'ac\'b8\'c4\'b8\'ef\'a3\'ac\'d0\'c2\'c9\'e8\'ca\'a9\par
+innumerable   a.\'ce\'de\'ca\'fd\'b5\'c4\'a3\'ac\'ca\'fd\'b2\'bb\'c7\'e5\'b5\'c4\par
+inorganic   a.\'ce\'de\'c9\'fa\'ce\'ef\'b5\'c4\'a3\'bb\'ce\'de\'bb\'fa\'b5\'c4\par
+input   vt.\'ca\'e4\'c8\'eb   n.\'ca\'e4\'c8\'eb\par
+insert   vi.(\'bc\'a1\'c8\'e2)\'b8\'bd\'d7\'c5\par
+insight   n.\'b6\'b4\'b2\'ec\'c1\'a6\'a3\'ac\'b6\'b4\'cf\'a4\'a3\'ac\'bc\'fb\'ca\'b6\par
+insignificant   a.\'ce\'de\'d2\'e2\'d2\'e5\'b5\'c4\'a3\'bb\'b5\'cd\'ce\'a2\'b5\'c4\par
+insistent   a.\'bc\'e1\'b3\'d6\'b5\'c4\'a3\'bb\'b1\'c6\'c8\'cb\'d7\'a2\'d2\'e2\'b5\'c4\par
+inspector   n.\'bc\'ec\'b2\'e9\'d4\'b1\'a3\'bb\'d1\'b2\'b9\'d9\par
+inspiration   n.\'c1\'e9\'b8\'d0\'a3\'bb\'c3\'ee\'cf\'eb\'a3\'bb\'b9\'c4\'ce\'e8\par
+instability   n.\'b2\'bb\'ce\'c8\'b6\'a8\'d0\'d4\'a3\'bb\'b2\'bb\'bc\'e1\'be\'f6\par
+installment   n.\'b7\'d6\'c6\'da\'b8\'b6\'bf\'ee\par
+instantaneous   a.\'cb\'b2\'bc\'e4\'b5\'c4\'a3\'ac\'bc\'b4\'bf\'cc\'b5\'c4\par
+instructor   n.\'d6\'b8\'b5\'bc\'d5\'df\'a3\'ac\'bd\'cc\'d4\'b1\par
+instrumental   a.\'d2\'c7\'c6\'f7\'b5\'c4\'a3\'bb\'d3\'d0\'b0\'ef\'d6\'fa\'b5\'c4\par
+insulate   vt.\'ca\'b9\'be\'f8\'d4\'b5\'a3\'ac\'ca\'b9\'be\'f8\'c8\'c8\par
+insulator   n.\'b8\'f4\'c0\'eb\'d5\'df\'a3\'bb\'be\'f8\'d4\'b5\'cc\'e5\par
+intake   n.\'ce\'fc\'c8\'eb\'a3\'bb\'ca\'e4\'c8\'eb\'c4\'dc\'c1\'bf\par
+integral   a.\'d7\'e9\'b3\'c9\'b5\'c4\'a3\'bb\'d5\'fb\'b5\'c4\par
+integrate   vt.\'ca\'b9\'bd\'e1\'ba\'cf\'a3\'ac\'ca\'b9\'b2\'a2\'c8\'eb\par
+integrity   n.\'b3\'cf\'ca\'b5\'a3\'ac\'d5\'fd\'d6\'b1\par
+intellect   n.\'c0\'ed\'d6\'c7\'a3\'ac\'d6\'c7\'c1\'a6\'a3\'ac\'b2\'c5\'d6\'c7\par
+intent   a.\'c4\'bf\'b2\'bb\'d7\'aa\'be\'a6\'b5\'c4\'a3\'ac\'c8\'c8\'c7\'d0\'b5\'c4\par
+interact   vi.\'cf\'e0\'bb\'a5\'d7\'f7\'d3\'c3\par
+interconnect   vt.\'ca\'b9\'bb\'a5\'cf\'e0\'c1\'aa\'cf\'b5\par
+intercourse   n.\'bd\'bb\'bc\'ca\'a3\'ac\'cd\'f9\'c0\'b4\'a3\'ac\'bd\'bb\'c1\'f7\par
+interface   n.\'b7\'d6\'bd\'e7\'c3\'e6\par
+interior   n.\'c4\'da\'b2\'bf   a.\'c4\'da\'b2\'bf\'b5\'c4\par
+intermediate   n.\'d6\'d0\'bc\'e4\'cc\'e5\'a3\'bb\'b5\'f7\'bd\'e2\'c8\'cb\par
+interpret   vt.\'bd\'e2\'ca\'cd   vi.\'bf\'da\'d2\'eb\par
+intervene   vi.\'b8\'c9\'c9\'e6\'a3\'ac\'b8\'c9\'d4\'a4\'a3\'bb\'b2\'a5\'bd\'f8\par
+interview   vt.\'bd\'d3\'bc\'fb\'a3\'ac\'bb\'e1\'bc\'fb\'a3\'ac\'bb\'e1\'cc\'b8\par
+intonation   n.\'d3\'ef\'b5\'f7\'a3\'ac\'c9\'f9\'b5\'f7\'a3\'bb\'b7\'a2\'c9\'f9\par
+introduce   vt.\'cc\'e1\'b3\'f6(\'d2\'e9\'b0\'b8\'b5\'c8)\par
+invalid   n.\'b2\'a1\'c8\'cb   a.\'d3\'d0\'b2\'a1\'b5\'c4\par
+invariably   ad.\'b2\'bb\'b1\'e4\'b5\'d8\'a3\'ac\'d3\'c0\'ba\'e3\'b5\'d8\par
+inversely   ad.\'cf\'e0\'b7\'b4\'b5\'d8\par
+invoice   n.\'b7\'a2\'c6\'b1\'a3\'ac\'b7\'a2\'bb\'f5\'c7\'e5\'b5\'a5\par
+ion   n.\'c0\'eb\'d7\'d3\par
+irregularity   n.\'b2\'bb\'b9\'e6\'d4\'f2\'a3\'bb\'b2\'bb\'d5\'fb\'c6\'eb\par
+irrespective   a.\'b2\'bb\'bf\'bc\'c2\'c7\'b5\'c4\'a3\'ac\'b2\'bb\'b9\'cb\'b5\'c4\par
+irrigation   n.\'b9\'e0\'b8\'c8\'a3\'bb\'b3\'e5\'cf\'b4\'b7\'a8\par
+irritate   vt.\'bc\'a4\'c5\'ad\'a3\'bb\'d2\'fd\'c6\'f0\'b2\'bb\'d3\'e4\'bf\'ec\par
+Islam   n.\'d2\'c1\'cb\'b9\'c0\'bc\'bd\'cc\'a3\'ac\'bb\'d8\'bd\'cc\par
+ivory   n.\'cf\'f3\'d1\'c0\'a3\'bb\'d1\'c0\'d6\'ca\'a3\'bb\'c8\'e9\'b0\'d7\'c9\'ab\par
+jack   n.\'c6\'f0\'d6\'d8\'c6\'f7\'a3\'bb\'b4\'ab\'b6\'af\'d7\'b0\'d6\'c3\par
+jam   n.\'b6\'c2\'c8\'fb   vt.\'ca\'b9\'a1\'ad\'b6\'c2\'c8\'fb\par
+jealousy   n.\'b6\'ca\'bc\'c9\'a3\'ac\'bc\'b5\'b6\'ca\'a3\'ac\'b2\'c2\'bc\'c9\par
+jean   n.\'d0\'b1\'ce\'c6\'b2\'bc\'a3\'ac\'c5\'a3\'d7\'d0\'bf\'e3\par
+jelly   n.\'b6\'b3\'a3\'ac\'b9\'fb\'d7\'d3\'b6\'b3\'a3\'bb\'bd\'ba\'d7\'b4\'ce\'ef\par
+jerk   vt.\'c3\'cd\'b5\'d8\'d2\'bb\'c0\'ad   vi.\'bc\'b1\'c0\'ad\par
+Jesus   n.\'d2\'ae\'f6\'d5\par
+jewellery   n.\'d6\'e9\'b1\'a6\'a3\'ac\'d6\'e9\'b1\'a6\'ca\'ce\'ce\'ef\par
+jingle   vt.&vi.(\'ca\'b9)\'b6\'a1\'b5\'b1\'cf\'ec\par
+jog   vt.\'ca\'b9(\'c2\'ed\'b5\'c8)\'bb\'ba\'b2\'bd\'d0\'d0\'bd\'f8\par
+jug   n.\'b4\'f8\'b1\'fa\'cb\'ae\'b9\'de\'a3\'ac\'b4\'f3\'ba\'f8\par
+junction   n.\'c1\'ac\'bd\'d3\'a3\'bb\'bd\'d3\'cd\'b7\'a3\'bb\'d6\'d0\'bc\'cc\'cf\'df\par
+jungle   n.\'b4\'d4\'c1\'d6\'a3\'ac\'c3\'dc\'c1\'d6\'a3\'ac\'c3\'a7\'b4\'d4\par
+junior   n.\'c4\'ea\'c9\'d9\'d5\'df\'a3\'bb\'cd\'ed\'b1\'b2\par
+Jupiter   n.\'c7\'f0\'b1\'d3\'cc\'d8\'a3\'bb\'c4\'be\'d0\'c7\par
+kernel   n.(\'b9\'fb\'ca\'b5\'b5\'c4)\'ba\'cb\'a3\'bb\'b9\'c8\'c1\'a3\par
+kidnap   vt.\'d3\'d5\'b9\'d5\'a3\'ac\'b0\'f3\'bc\'dc\par
+kidney   n.\'c9\'f6\'a3\'ac\'d1\'fc\'d7\'d3\'a3\'bb\'d0\'d4\'b8\'f1\par
+kilowatt   n.\'c7\'a7\'cd\'df(\'cc\'d8)\par
+kindle   vt.\'b5\'e3\'c8\'bc   vi.\'d7\'c5\'bb\'f0\par
+kinetic   a.\'b6\'af\'c1\'a6(\'d1\'a7)\'b5\'c4\'a3\'bb\'bb\'ee\'b6\'af\'b5\'c4\par
+kit   n.\'b3\'c9\'cc\'d7\'b9\'a4\'be\'df\'a3\'bb\'d3\'c3\'be\'df\'b0\'fc\par
+knight   n.\'c6\'ef\'ca\'bf\'a3\'ac\'ce\'e4\'ca\'bf\'a3\'bb\'be\'f4\'ca\'bf\par
+lace   vi.\'cf\'b5\'b4\'f8\'a3\'ac\'d3\'c3\'b4\'f8\'d7\'d3\'ca\'f8\'bd\'f4\par
+landscape   n.\'b7\'e7\'be\'b0\'a3\'ac\'be\'b0\'c9\'ab\'a3\'ac\'be\'b0\'d6\'c2\par
+largely   ad.\'b4\'f3\'b9\'e6\'c4\'a3\'b5\'d8\par
+late   a.\'c8\'a5\'ca\'c0\'b2\'bb\'be\'c3\'b5\'c4\par
+latent   a.\'b4\'e6\'d4\'da\'b5\'ab\'bf\'b4\'b2\'bb\'bc\'fb\'b5\'c4\par
+lathe   n.\'b3\'b5\'b4\'b2   vt.\'d3\'c3\'b3\'b5\'b4\'b2\'bc\'d3\'b9\'a4\par
+latitude   n.\'ce\'b3\'b6\'c8\'a3\'bb\'bb\'c6\'ce\'b3\par
+lattice   n.\'b8\'f1\'d7\'d3\'a3\'bb\'b5\'e3\'d5\'f3\'a3\'ac\'cd\'f8\'c2\'e7\par
+laundry   n.\'cb\'cd\'cf\'b4\'d2\'c2\'b5\'ea\'c8\'a5\'cf\'b4\'b5\'c4\'b6\'ab\'ce\'f7\par
+leaflet   n.\'b4\'ab\'b5\'a5\'a3\'ac\'bb\'ee\'d2\'b3\'a3\'bb\'b9\'e3\'b8\'e6\par
+leakage   n.\'c2\'a9\'a3\'ac\'d0\'b9\'c2\'a9\'a3\'bb\'c2\'a9\'b3\'f6\'ce\'ef\par
+lease   n.\'d7\'e2\'d4\'bc\'a3\'ac\'c6\'f5\'d4\'bc\'a3\'ac\'d7\'e2\'c6\'f5\par
+legislation   n.\'c1\'a2\'b7\'a8\'a3\'bb\'b7\'a8\'b9\'e6\par
+length   n.\'b3\'cc\'b6\'c8\'a3\'ac\'b7\'b6\'ce\'a7\par
+lengthen   vt.\'ca\'b9\'d1\'d3\'b3\'a4   vi.\'b1\'e4\'b3\'a4\par
+leopard   n.\'b1\'aa\par
+lessen   vt.\'bc\'f5\'c9\'d9   vi.\'b1\'e4\'c9\'d9\par
+lever   n.\'cd\'be\'be\'b6\'a3\'ac\'b9\'a4\'be\'df\'a3\'ac\'ca\'d6\'b6\'ce\par
+liability   n.\'d4\'f0\'c8\'ce\'a3\'bb\'c7\'e3\'cf\'f2\'a3\'bb\'d5\'ae\'ce\'f1\par
+liable   a.\'d3\'d0(\'b7\'a8\'c2\'c9)\'d4\'f0\'c8\'ce\'b5\'c4\par
+lighter   n.\'b4\'f2\'bb\'f0\'bb\'fa\'a3\'ac\'d2\'fd\'c8\'bc\'c6\'f7\par
+likelihood   n.\'bf\'c9\'c4\'dc(\'d0\'d4)\par
+likeness   n.\'cd\'ac\'d1\'f9\'a3\'bb\'c0\'e0\'cb\'c6\'a3\'ac\'cf\'e0\'cb\'c6\par
+lily   n.\'b0\'d9\'ba\'cf\'a3\'ac\'b0\'d9\'ba\'cf\'bb\'a8\'a3\'ac\'cb\'af\'c1\'ab\par
+limb   n.\'b7\'d6\'d6\'a7\'a3\'ac\'cd\'bb\'b3\'f6\'ce\'ef\par
+limestone   n.\'ca\'af\'bb\'d2\'ca\'af\par
+limp   vi.\'f5\'e7\'f5\'c7\'a3\'ac\'f5\'cb\'d0\'d0   n.\'f5\'cb\'d0\'d0\par
+line   vt.\'bc\'d3\'b3\'c4\'c0\'ef\'d3\'da\par
+linear   a.\'cf\'df\'b5\'c4\'a3\'bb\'b3\'a4\'b6\'c8\'b5\'c4\par
+liner   n.\'b0\'e0\'b4\'ac\'a3\'ac\'b6\'a8\'c6\'da\'b0\'e0\'bb\'fa\par
+linger   vi.\'b6\'ba\'c1\'f4\'a3\'ac\'c5\'c7\'bb\'b2\'a3\'bb\'cd\'cf\'d1\'d3\par
+lining   n.(\'d2\'c2\'b7\'fe\'c0\'ef\'b5\'c4)\'b3\'c4\'c0\'ef\par
+lipstick   n.\'b4\'bd\'b8\'e0\'a3\'ac\'bf\'da\'ba\'ec\par
+literal   a.\'ce\'c4\'d7\'d6(\'c9\'cf)\'b5\'c4\'a3\'bb\'d7\'d6\'c3\'e6\'b5\'c4\par
+literally   ad.\'d5\'d5\'d7\'d6\'d2\'e5\'a3\'ac\'d6\'f0\'d7\'d6\'b5\'d8\par
+literary   a.\'be\'ab\'cd\'a8\'ce\'c4\'d1\'a7\'b5\'c4\par
+litter   n.\'b7\'cf\'ce\'ef\'a3\'ac\'d4\'d3\'c2\'d2   vi.\'c2\'d2\'c8\'d3\par
+lobby   n.\'c7\'b0\'cc\'fc\'a3\'ac(\'be\'e7\'d4\'ba\'b5\'c4)\'c3\'c5\'c0\'c8\par
+locality   n.\'ce\'bb\'d6\'c3\'a3\'ac\'b5\'d8\'b5\'e3\'a3\'ac\'b7\'a2\'c9\'fa\'b5\'d8\par
+location   n.\'b6\'a8\'ce\'bb\'a3\'ac\'b2\'e2\'ce\'bb\'a3\'bb\'b2\'e2\'c1\'bf\par
+locomotive   a.\'d4\'cb\'b6\'af\'b5\'c4\'a3\'bb\'bb\'fa\'b6\'af\par
+locust   n.\'bb\'c8\'b3\'e6\'a3\'bb\'d1\'f3\'bb\'b1\'a3\'ac\'b4\'cc\'bb\'b1\par
+lodging   n.\'bc\'c4\'cb\'de\'a3\'ac\'d7\'a1\'cb\'de\'a3\'bb\'d7\'a1\'cb\'f9\par
+lofty   a.\'b8\'df\'cb\'ca\'b5\'c4\'a3\'bb\'b8\'df\'c9\'d0\'b5\'c4\par
+log   n.\'ba\'bd\'ba\'a3\'c8\'d5\'d6\'be\'a3\'bb\'b7\'c9\'d0\'d0\'c8\'d5\'d6\'be\par
+longing   n.\'bf\'ca\'cd\'fb   a.\'cf\'d4\'ca\'be\'bf\'ca\'cd\'fb\'b5\'c4\par
+longitude   n.\'be\'ad\'cf\'df\'a3\'ac\'be\'ad\'b6\'c8\par
+loosely   ad.\'cb\'c9\'cb\'c9\'b5\'d8\'a3\'ac\'cb\'c9\'c9\'a2\'b5\'d8\par
+loosen   vi.\'b1\'e4\'cb\'c9\par
+lounge   n.(\'c2\'c3\'b9\'dd\'b5\'c8\'b5\'c4)\'d0\'dd\'cf\'a2\'ca\'d2\par
+lubricate   vt.\'ca\'b9\'c8\'f3\'bb\'acvi.\'bc\'d3\'c8\'f3\'bb\'ac\'d3\'cd\par
+luminous   a.\'b7\'a2\'b9\'e2\'b5\'c4\'a3\'bb\'b9\'e2\'c3\'f7\'b5\'c4\par
+lump   vt.(\'ca\'b9)\'b3\'c9\'cd\'c5   vi.\'bd\'e1\'bf\'e9\par
+lunar   a.\'d4\'c2\'c1\'c1\'b5\'c4\par
+luncheon   n.\'ce\'e7\'d1\'e7\'a3\'ac\'ce\'e7\'b2\'cd\'a3\'ac\'b1\'e3\'d1\'e7\par
+luxurious   a.\'b0\'ae\'ba\'c3\'c9\'dd\'b3\'de\'b5\'c4\'a3\'ac\'ba\'c0\'bb\'aa\'b5\'c4\par
+magician   n.\'c4\'a7\'b7\'a8\'ca\'a6\'a3\'bb\'b1\'e4\'cf\'b7\'b7\'a8\'b5\'c4\'c8\'cb\par
+magistrate   n.\'b5\'d8\'b7\'bd\'d0\'d0\'d5\'fe\'b3\'a4\'b9\'d9\par
+magnet   n.\'d3\'d0\'ce\'fc\'d2\'fd\'c1\'a6\'b5\'c4\'c8\'cb(\'bb\'f2\'ce\'ef)\par
+magnetism   n.\'b4\'c5\'a3\'bb\'f7\'c8\'c1\'a6\'a3\'bb\'b4\'df\'c3\'df\'ca\'f5\par
+magnify   vt.\'b7\'c5\'b4\'f3\'a3\'ac\'c0\'a9\'b4\'f3\par
+magnitude   n.\'b4\'f3\'d0\'a1\'a3\'bb\'d6\'d8\'b4\'f3\'a3\'bb\'d0\'c7\'b5\'c8\par
+maid   n.\'c9\'d9\'c5\'ae\'a3\'bb\'b4\'a6\'c5\'ae\par
+maiden   n.\'c9\'d9\'c5\'ae\'a3\'ac\'ce\'b4\'bb\'e9\'c5\'ae\'d7\'d3\par
+main   n.\'d7\'dc\'b9\'dc\'b5\'c0\'a3\'ac\'b8\'c9\'cf\'df\par
+maintenance   n.\'b7\'f6\'d1\'f8\'a3\'bb\'bc\'e1\'b3\'d6\par
+majesty   n.\'cd\'fe\'d1\'cf\'a3\'ac\'d7\'f0\'d1\'cf\'a3\'bb\'b1\'dd\'cf\'c2\par
+makeup   n.\'d7\'e9\'d6\'af\'a3\'bb\'d0\'d4\'b8\'f1\'a3\'bb\'bb\'af\'d7\'b0\'c6\'b7\par
+malice   n.\'b6\'f1\'d2\'e2\'a3\'bb\'d0\'ee\'d2\'e2\'b7\'b8\'d7\'ef\par
+mammal   n.\'b2\'b8\'c8\'e9\'b6\'af\'ce\'ef\par
+manifest   vt.\'b1\'ed\'c3\'f7   a.\'c3\'f7\'b0\'d7\'b5\'c4\par
+manipulate   vt.\'b2\'d9\'d7\'f7\'a3\'bb\'bf\'d8\'d6\'c6\'a3\'ac\'ca\'d6\'b3\'d6\par
+mansion   n.\'b4\'f3\'cf\'c3\'a3\'ac\'b4\'f3\'c2\'a5\'a3\'bb\'d5\'ac\'b5\'da\par
+manuscript   n.\'ca\'d6\'b8\'e5\'a3\'ac\'b5\'d7\'b8\'e5\'a3\'ac\'d4\'ad\'b8\'e5\par
+maple   n.\'e9\'ca\'ca\'f7\'a3\'ac\'b7\'e3\'ca\'f7\par
+margin   n.\'d3\'e0\'b5\'d8\'a3\'bb\'b7\'f9\'b6\'c8\'a3\'bb\'d7\'ac\'cd\'b7\par
+marginal   a.\'bc\'c7\'d4\'da\'d2\'b3\'b1\'df\'b5\'c4\'a3\'bb\'b1\'df\'d4\'b5\'b5\'c4\par
+market   vt.(\'d4\'da\'ca\'d0\'b3\'a1\'c9\'cf)\'cf\'fa\'ca\'db\par
+Mars   n.\'bb\'f0\'d0\'c7\'a3\'bb\'d5\'bd\'d5\'f9\par
+marsh   n.\'d5\'d3\'d4\'f3\'b5\'d8\'a3\'ac\'ca\'aa\'b5\'d8\par
+marshal   n.\'d4\'aa\'cb\'a7\'a3\'bb\'c2\'bd\'be\'fc\'d4\'aa\'cb\'a7\par
+martyr   n.\'c1\'d2\'ca\'bf\'a3\'ac\'d1\'b3\'c4\'d1\'d5\'df\par
+marvel   n.\'c6\'e6\'bc\'a3\'a3\'bb\'be\'aa\'c6\'e6   vt.\'be\'aa\'c6\'e6\par
+masculine   a.\'c4\'d0\'d0\'d4\'b5\'c4\'a3\'bb\'c7\'bf\'d7\'b3\'b5\'c4\par
+massacre   n.\'b4\'f3\'cd\'c0\'c9\'b1\'a3\'ac\'b2\'d0\'c9\'b1\par
+massive   a.\'b4\'d6\'b4\'f3\'b5\'c4\'a3\'bb\'b4\'f3\'b6\'f8\'d6\'d8\'b5\'c4\par
+mast   n.\'ce\'a6\'b8\'cb\'a3\'bb\'b8\'cb   vt.\'b3\'b6\'b7\'ab\par
+mature   vt.\'ca\'b9\'b3\'c9\'ca\'ec   vi.\'b3\'c9\'ca\'ec\par
+measurement   n.(\'c1\'bf\'b5\'c3\'b5\'c4)\'b3\'df\'b4\'e7\'a3\'ac\'b4\'f3\'d0\'a1\par
+mechanics   n.\'c1\'a6\'d1\'a7\'a3\'ac\'bb\'fa\'d0\'b5\'d1\'a7\'a3\'bb\'bd\'e1\'b9\'b9\par
+mechanism   n.\'bb\'fa\'d0\'b5\'d7\'b0\'d6\'c3\'a3\'bb\'bb\'fa\'d6\'c6\par
+meditate   vt.\'b3\'c1\'cb\'bc\'a3\'ac\'da\'a4\'cf\'eb\'a3\'ac\'b7\'b4\'ca\'a1\par
+melancholy   n.&a.\'d3\'c7\'d3\'f4(\'b5\'c4)\'a3\'ac\'b1\'af\'c9\'cb\par
+melody   n.\'d0\'fd\'c2\'c9\'a3\'ac\'c7\'fa\'b5\'f7\'a3\'bb\'b8\'e8\'c7\'fa\par
+membership   n.\'b3\'c9\'d4\'b1\'d7\'ca\'b8\'f1\'a3\'bb\'bb\'e1\'d4\'b1\'c8\'cb\'ca\'fd\par
+menace   vt.&vi.&n.(\'bd\'f8\'d0\'d0)\'cd\'fe\'d0\'b2\par
+mend   vt.\'b8\'c4\'d5\'fd\'a3\'ac\'d0\'de\'d5\'fd\'a3\'bb\'b8\'c4\'bd\'f8\par
+merchandise   n.\'c9\'cc\'c6\'b7\'a3\'ac\'bb\'f5\'ce\'ef\par
+merciful   a.\'c8\'ca\'b4\'c8\'b5\'c4\'a3\'ac\'bf\'ed\'b4\'f3\'b5\'c4\par
+mercury   n.\'b9\'af\'a3\'ac\'cb\'ae\'d2\'f8\'a3\'bb\'cb\'ae\'d2\'f8\'d6\'f9\par
+merit   vt.\'d6\'b5\'b5\'c3vi.\'d3\'a6\'ca\'dc\'c9\'cd(\'b7\'a3)\par
+mesh   n.\'cd\'f8\'d1\'db\'a3\'ac\'c9\'b8\'bf\'d7\'a3\'ac\'cd\'f8\'c2\'e7\par
+mess   vt.\'c5\'aa\'d4\'e0\'a3\'ac\'c5\'aa\'c2\'d2\'a3\'ac\'b8\'e3\'d4\'e3\par
+message   n.\'c6\'f4\'ca\'be\'a3\'ac\'d2\'aa\'d6\'bc\'a3\'ac\'bd\'cc\'d1\'b5\par
+metallic   a.\'bd\'f0\'ca\'f4\'b5\'c4   n.\'bd\'f0\'ca\'f4\'c1\'a3\'d7\'d3\par
+metallurgy   n.\'d2\'b1\'bd\'f0\'d1\'a7\'a3\'ac\'d2\'b1\'bd\'f0\'ca\'f5\par
+metropolitan   a.\'d6\'f7\'d2\'aa\'b6\'bc\'ca\'d0\'b5\'c4n.\'b4\'f3\'d6\'f7\'bd\'cc\par
+microprocessor   n.\'ce\'a2\'d0\'c5\'cf\'a2\'b4\'a6\'c0\'ed\'bb\'fa\par
+microscopic   a.\'cf\'d4\'ce\'a2\'be\'b5\'b5\'c4\'a3\'ac\'ce\'a2\'b9\'db\'b5\'c4\par
+microwave   n.\'ce\'a2\'b2\'a8\par
+mighty   a.\'c7\'bf\'b4\'f3\'b5\'c4\'a3\'bb\'be\'de\'b4\'f3\'b5\'c4\par
+migrate   vi.\'c7\'a8\'d2\'c6\'a3\'ac\'d2\'c6\'be\'d3\par
+mild   a.(\'d1\'cc\'a1\'a2\'be\'c6)\'ce\'b6\'b5\'ad\'b5\'c4\par
+milky   a.\'c5\'a3\'c4\'cc\'b5\'c4\'a3\'bb\'c8\'e9\'b0\'d7\'c9\'ab\'b5\'c4\par
+millionaire   n.\'b0\'d9\'b7\'d6\'b8\'bb\'ce\'cc\'a3\'ac\'be\'de\'b8\'bb\par
+mingle   vt.\'ca\'b9\'bb\'ec\'ba\'cfvi.\'bb\'ec\'ba\'cf\'c6\'f0\'c0\'b4\par
+miniature   n.\'cb\'f5\'d3\'b0   a.\'cb\'f5\'d0\'a1\'b5\'c4\par
+minimize   vt.\'ca\'b9\'bc\'f5\'b5\'bd\'d7\'ee\'d0\'a1\par
+mint   n.\'b1\'a1\'ba\'c9\'a3\'bb\'b1\'a1\'ba\'c9\'cc\'c7\par
+mint   n.\'d4\'ec\'b1\'d2\'b3\'a7\'a3\'bb\'be\'de\'b6\'ee\'a3\'ac\'b8\'bb\'d4\'b4\par
+mirror   n.\'b7\'b4\'d3\'b3\'a3\'ac\'bd\'e8\'bc\'f8\par
+mishief[M]n.\'b5\'f7\'c6\'a4\'a3\'ac\'b5\'b7\'b5\'b0\'a3\'ac\'ba\'fa\'c4\'d6\par
+miser   n.\'ca\'d8\'b2\'c6\'c5\'ab\'a3\'ac\'c1\'df\'d8\'c4\'b9\'ed\par
+misery   n.\'cd\'b4\'bf\'e0\'a3\'ac\'b1\'af\'b2\'d2\'a3\'ac\'b2\'bb\'d0\'d2\par
+misfortune   n.\'b2\'bb\'d0\'d2\'a3\'ac\'d4\'d6\'bb\'f6\'a3\'ac\'d4\'d6\'c4\'d1\par
+missionary   n.\'b4\'ab\'bd\'cc\'ca\'bf\par
+mist   n.\'b1\'a1\'ce\'ed   vi.\'cf\'c2\'b1\'a1\'ce\'ed\par
+mistress   n.\'c7\'e9\'b8\'be\'a3\'ac\'c7\'e9\'c8\'cb\par
+mitten   n.\'c1\'ac\'d6\'b8\'ca\'d6\'cc\'d7\'a3\'bb\'c2\'b6\'d6\'b8\'ca\'d6\'cc\'d7\par
+mixer   n.\'bb\'ec\'ba\'cf\'d5\'df\'a3\'ac\'bd\'c1\'b0\'e8\'c6\'f7\par
+mob   vi.\'be\'db\'d6\'da\'c4\'d6\'ca\'c2\par
+mobilize   vt.\'b6\'af\'d4\'b1   vi.\'b6\'af\'d4\'b1\'c6\'f0\'c0\'b4\par
+mock   n.\'b3\'b0\'c5\'aa   vt.\'b3\'b0\'c5\'aa\'a3\'ac\'cd\'da\'bf\'e0\par
+moderately   ad.\'ca\'ca\'b6\'c8\'b5\'d8\'a3\'ac\'ca\'ca\'d6\'d0\par
+modesty   n.\'c7\'ab\'d1\'b7\'a3\'bb\'b6\'cb\'d7\'af\'a3\'bb\'d0\'df\'c7\'d3\par
+modification   n.\'bb\'ba\'ba\'cd\'a3\'bb\'d0\'de\'b8\'c4\'a3\'bb\'d0\'de\'ca\'ce\par
+modulate   vt.\'b5\'f7\'d5\'fb\'a3\'ac\'b5\'f7\'bd\'da(\'c9\'f9\'d2\'f4)\par
+module   n.\'c4\'a3\'ca\'fd\'a3\'bb\'c4\'a3\'a3\'bb\'d7\'e9\'bc\'fe\par
+molecular   a.\'b7\'d6\'d7\'d3\'b5\'c4\'a3\'bb\'bf\'cb\'b7\'d6\'d7\'d3\'b5\'c4\par
+momentary   a.\'cb\'b2\'cf\'a2\'bc\'e4\'b5\'c4\'a3\'ac\'c6\'ac\'bf\'cc\'b5\'c4\par
+monarch   n.\'be\'fd\'d6\'f7\'a3\'ac\'d7\'ee\'b8\'df\'cd\'b3\'d6\'ce\'d5\'df\par
+monk   n.\'ba\'cd\'c9\'d0\'a3\'ac\'c9\'ae\'c2\'c2\'a3\'ac\'d0\'de\'b5\'c0\'ca\'bf\par
+monopoly   n.\'c2\'a2\'b6\'cf\'a3\'ac\'b6\'c0\'d5\'bc\'a3\'ac\'d7\'a8\'c0\'fb\par
+monster   n.\'b9\'d6\'ce\'ef\'a3\'bb\'bb\'fb\'d0\'ce\'b5\'c4\'b6\'af\'d6\'b2\'ce\'ef\par
+monstrous   a.\'bf\'c9\'c5\'c2\'b5\'c4\'a3\'bb\'bc\'ab\'b4\'f3\'b5\'c4\par
+moor   vt.\'ca\'b9\'cd\'a3\'b2\'b4\'a3\'bb\'ca\'b9\'b9\'cc\'b6\'a8\par
+mop   n.\'b6\'d5\'b2\'bc\'a3\'ac\'cf\'b4\'cd\'eb\'cb\'a2\par
+morality   n.\'b5\'c0\'b5\'c2\'a3\'ac\'c3\'c0\'b5\'c2\'a3\'ac\'c6\'b7\'d0\'d0\par
+mortgage   n.\'b5\'d6\'d1\'ba   vt.\'b5\'d6\'d1\'ba\par
+Moslem   n.&a.\'c4\'c2\'cb\'b9\'c1\'d6(\'b5\'c4)\par
+mosque   n.\'c7\'e5\'d5\'e6\'cb\'c2\par
+moss   n.\'cc\'a6\'de\'ba\'a3\'ac\'b5\'d8\'d2\'c2\par
+motel   n.\'c6\'fb\'b3\'b5\'d3\'ce\'bf\'cd\'c2\'c3\'b9\'dd\par
+motive   a.\'b7\'a2\'b6\'af\'b5\'c4\'a3\'ac\'d4\'cb\'b6\'af\'b5\'c4\par
+motorway   n.\'c6\'fb\'b3\'b5\'b5\'c0\'a3\'ac\'bf\'ec\'b3\'b5\'c2\'b7\par
+mount   v.\'d7\'b0\'c5\'e4\'a3\'bb\'b9\'cc\'b6\'a8   n.\'d6\'a7\'bc\'dc\par
+mountainous   a.\'b6\'e0\'c9\'bd\'b5\'c4\'a3\'bb\'c9\'bd\'d2\'bb\'b0\'e3\'b5\'c4\par
+move   n.\'d0\'d0\'b6\'af\'a3\'ac\'b2\'bd\'d6\'e8\par
+multiplication   n.\'d4\'f6\'bc\'d3\'a3\'bb\'b7\'b1\'d6\'b3\'a3\'bb\'b3\'cb\'b7\'a8\par
+multitude   n.\'b4\'f3\'c5\'fa\'a3\'ac\'b4\'f3\'c8\'ba\'a3\'bb\'b4\'f3\'c1\'bf\par
+municipal   a.\'ca\'d0\'b5\'c4\'a3\'ac\'ca\'d0\'c1\'a2\'b5\'c4\par
+murmur   n.\'b5\'cd\'b3\'c1\'c1\'ac\'d0\'f8\'b5\'c4\'c9\'f9\'d2\'f4\par
+muscular   a.\'bc\'a1\'c8\'e2\'b7\'a2\'b4\'ef\'b5\'c4\'a3\'ac\'c7\'bf\'bd\'a1\'b5\'c4\par
+muse   vi.\'b3\'c1\'cb\'bc\'a3\'ac\'c4\'ac\'cf\'eb\'a3\'ac\'da\'a4\'cf\'eb\par
+mustard   n.\'bd\'e6\'d7\'d3\'a3\'ac\'bd\'e6\'c4\'a9\par
+mute   n.\'c8\'f5\'d2\'f4\'c6\'f7\'a3\'bb\'b1\'d5\'d6\'b9\'d2\'f4\par
+mystery   n.\'c9\'f1\'c3\'d8\'d0\'a1\'cb\'b5\'a3\'ac\'d5\'ec\'cc\'bd\'d0\'a1\'cb\'b5\par
+napkin   n.\'b2\'cd\'bd\'ed(\'d6\'bd)\par
+narration   n.\'d0\'f0\'ca\'f6\'a3\'bb\'b9\'ca\'ca\'c2\'a3\'bb\'d0\'f0\'ca\'f6\'b7\'a8\par
+negative   a.\'b8\'ba\'b5\'c4\'a3\'ac\'d2\'f5\'d0\'d4\'b5\'c4\par
+negligible   a.\'ce\'a2\'b2\'bb\'d7\'e3\'b5\'c0\'b5\'c4\par
+negotiate   vi.\'cc\'b8\'c5\'d0\'a3\'ac\'bd\'bb\'c9\'e6\'a3\'ac\'d2\'e9\'b6\'a8\par
+neighbouring   a.\'c1\'da\'bd\'fc\'b5\'c4\'a3\'ac\'bd\'d3\'c8\'c0\'b5\'c4\par
+nest   vi.\'d6\'fe\'b3\'b2   vt.\'ce\'aa\'a1\'ad\'d6\'fe\'b3\'b2\par
+net   vt.\'d3\'c3\'cd\'f8\'b2\'b6\'a3\'bb\'d3\'c3\'cd\'f8\'b8\'b2\'b8\'c7\par
+network   n.\'cd\'f8\'c2\'e7\'a3\'bb\'b9\'e3\'b2\'a5\'cd\'f8\par
+neutron   n.\'d6\'d0\'d7\'d3\par
+nice   a.\'cf\'b8\'ce\'a2\'b5\'c4\'a3\'ac\'ce\'a2\'c3\'ee\'b5\'c4\par
+nickel   n.\'c4\'f8\'a3\'bb\'c4\'f8\'b1\'d2\par
+nickname   n.\'b4\'c2\'ba\'c5\'a3\'ac\'bb\'eb\'ba\'c5\par
+nightmare   n.\'b6\'f1\'c3\'ce\'a3\'bb\'be\'ad\'b3\'a3\'b5\'c4\'bf\'d6\'be\'e5\par
+nominate   vt.\'cc\'e1\'c3\'fb\'a3\'ac\'cd\'c6\'bc\'f6\'a3\'bb\'c8\'ce\'c3\'fc\par
+norm   n.\'b1\'ea\'d7\'bc\'a3\'ac\'b9\'e6\'b7\'b6\'a3\'bb\'c6\'bd\'be\'f9\'ca\'fd\par
+normalization   n.\'d5\'fd\'b3\'a3\'bb\'af\'a3\'ac\'b1\'ea\'d7\'bc\'bb\'af\par
+northward   ad.\'cf\'f2\'b1\'b1\'b7\'bd   a.\'cf\'f2\'b1\'b1\'b5\'c4\par
+nose   n.\'cd\'bb\'b3\'f6\'b2\'bf\'b7\'d6(\'c8\'e7\'b4\'ac\'cd\'b7\'b5\'c8)\par
+notable   n.\'d6\'b5\'b5\'c3\'d7\'a2\'d2\'e2\'b5\'c4\'a3\'bb\'d6\'f8\'c3\'fb\'b5\'c4\par
+noted   a.\'d6\'f8\'c3\'fb\'b5\'c4\'a3\'ac\'d6\'aa\'c3\'fb\'b5\'c4\par
+notify   vt.\'cd\'a8\'d6\'aa\'a3\'ac\'b8\'e6\'d6\'aa\'a3\'bb\'b1\'a8\'b8\'e6\par
+notion   n.\'b8\'c5\'c4\'ee\'a3\'ac\'d2\'e2\'c4\'ee\'a3\'bb\'bf\'b4\'b7\'a8\par
+notorious   a.\'b3\'f4\'c3\'fb\'d5\'d1\'d6\'f8\'b5\'c4\par
+notwithstanding   prep.\'be\'a1\'b9\'dc\'a3\'ac\'cb\'e4\'c8\'bb\par
+nought   n.\'ce\'de\'a3\'ac\'c1\'e3\par
+nourish   vt.\'cc\'e1\'b9\'a9\'d1\'f8\'b7\'d6\'a3\'ac\'d1\'f8\'d3\'fd\par
+nourishment   n.\'ca\'b3\'ce\'ef\'a3\'bb\'d3\'aa\'d1\'f8(\'c7\'e9\'bf\'f6)\par
+novel   a.\'d0\'c2\'b5\'c4\'a3\'ac\'d2\'ec\'b3\'a3\'b5\'c4\par
+novelty   n.\'d0\'c2\'d3\'b1\'a3\'bb\'d0\'c2\'c6\'e6\'b5\'c4\'ca\'c2\'ce\'ef\par
+nucleus   n.\'d4\'ad\'d7\'d3\'ba\'cb\'a3\'bb\'cf\'b8\'b0\'fb\'ba\'cb\par
+number   vt.\'b9\'b2\'bc\'c6\'a3\'ac\'b4\'ef\'a1\'ad\'d6\'ae\'ca\'fd\par
+numerical   a.\'ca\'fd\'d7\'d6\'b5\'c4\'a3\'ac\'ca\'fd\'d6\'b5\'b5\'c4\par
+nun   n.\'d0\'de\'c5\'ae\'a3\'ac\'c4\'e1\'b9\'c3\par
+nursery   n.\'c3\'e7\'c6\'d4\'a3\'ac\'d1\'f8\'d3\'e3\'b3\'d8\par
+nut   n.\'c2\'dd\'c3\'b1\'a3\'ac\'c2\'dd\'c4\'b8\par
+oar   n.\'bd\'b0\'a3\'bb\'bb\'ae\'ca\'d6   vi.\'bb\'ae(\'d0\'d0)\par
+oath   n.\'ca\'c4\'d1\'d4\'a3\'ac\'ca\'c4\'d4\'bc\'a3\'ac\'d0\'fb\'ca\'c4\par
+obedience   n.\'b7\'fe\'b4\'d3\'a3\'ac\'cb\'b3\'b4\'d3\'a3\'bb\'b9\'dc\'cf\'bd\par
+obedient   n.\'b7\'fe\'b4\'d3\'b5\'c4\'a3\'ac\'cb\'b3\'b4\'d3\'b5\'c4\par
+objective   n.\'b1\'f6\'b8\'f1   a.\'c4\'bf\'b1\'ea\'b5\'c4\par
+obligation   n.\'d2\'e5\'ce\'f1\'a3\'ac\'d6\'b0\'d4\'f0\'a3\'ac\'d4\'f0\'c8\'ce\par
+oblige   vt.\'ca\'b9\'b8\'d0\'bc\'a4\'a3\'bb\'ca\'a9\'b6\'f7\'bb\'dd\'d3\'da\par
+obscure   a.\'d2\'f5\'b0\'b5\'b5\'c4\'a3\'bb\'c3\'c9\'c3\'c1\'b5\'c4\par
+observation   n.\'d2\'e2\'bc\'fb\'a3\'ac\'b6\'cc\'c6\'c0\'a3\'ac\'b0\'b4\'d3\'ef\par
+observe   vi.\'cb\'b5\'a3\'ac\'c6\'c0\'ca\'f6\'a3\'ac\'c6\'c0\'c2\'db\par
+obstinate   a.\'b9\'cc\'d6\'b4\'b5\'c4\'a3\'bb\'cd\'e7\'c7\'bf\'b5\'c4\par
+occurrence   n.\'ca\'c2\'b9\'ca\par
+offence   n.\'b7\'b8\'d7\'ef\'a3\'ac\'b7\'b8\'b9\'e6\'a3\'bb\'c3\'b0\'b7\'b8\par
+offensive   a.\'c3\'b0\'b7\'b8\'b5\'c4\'a3\'bb\'bd\'f8\'b9\'a5\'b5\'c4\par
+offer   vt.\'b3\'ca\'cf\'d6\'b3\'f6   vi.\'b3\'f6\'cf\'d6\par
+offset   n.\'b7\'d6\'d6\'a7\'a3\'ac\'b5\'d6\'cf\'fa   vt.\'b5\'d6\'cf\'fa\par
+offspring   n.\'b6\'f9\'c5\'ae\'a3\'ac\'d7\'d3\'cb\'ef\'a3\'ac\'ba\'f3\'b4\'fa\par
+ohm   n.\'c5\'b7\'c4\'b7\par
+olive   n.\'e9\'cf\'e9\'ad\'a3\'ac\'e9\'cf\'e9\'ad\'ca\'f7\par
+onward   a.\'cf\'f2\'c7\'b0(\'b5\'c4)\'a3\'ac\'d4\'da\'c7\'b0\'c3\'e6\par
+opaque   a.\'b2\'bb\'cd\'b8\'c3\'f7\'b5\'c4\'a3\'bb\'b2\'bb\'b4\'ab\'b5\'bc\'b5\'c4\par
+operation   n.\'d4\'cb\'cb\'e3\par
+opium   n.\'d1\'bb\'c6\'ac\'a3\'bb\'c2\'e9\'d7\'ed\'bc\'c1\par
+optical   a.\'b9\'e2\'b5\'c4\'a3\'bb\'b9\'e2\'d1\'a7\'b5\'c4\par
+optimism   n.\'c0\'d6\'b9\'db\'a3\'ac\'c0\'d6\'b9\'db\'d6\'f7\'d2\'e5\par
+optimum   n.\'d7\'ee\'ca\'ca\'cc\'f5\'bc\'fe\'a3\'ac\'d7\'ee\'ca\'ca\'b6\'c8\par
+option   n.\'d1\'a1\'d4\'f1\'a3\'ac\'c8\'a1\'c9\'e1\par
+orchard   n.\'b9\'fb\'d4\'b0\par
+orchestra   n.\'b9\'dc\'cf\'d2\'c0\'d6\'b6\'d3\'b5\'c4\'c8\'ab\'b2\'bf\'c0\'d6\'c6\'f7\par
+ordinarily   ad.\'cd\'a8\'b3\'a3\'a3\'ac\'b4\'f3\'b8\'c5\par
+orient   n.\'b6\'ab\'b7\'bd\'a3\'bb\'d1\'c7\'d6\'de\'a3\'ac\'d4\'b6\'b6\'ab\par
+orientation   n.\'cf\'f2\'b6\'ab\'a3\'bb\'b6\'a8\'ce\'bb\'a3\'bb\'b7\'bd\'cf\'f2\par
+originate   vi.\'b7\'a2\'d4\'b4   vt.\'ca\'d7\'b4\'b4\par
+ornament   n.\'d7\'b0\'ca\'ce\'ce\'ef   vt.\'d7\'b0\'d0\'de\par
+ornamental   a.\'d7\'b0\'ca\'ce\'b5\'c4   n.\'d7\'b0\'ca\'ce\'c6\'b7\par
+otherwise   ad.\'c1\'ed\'cd\'e2\'a3\'bb\'d4\'da\'c6\'e4\'cb\'fb\'b7\'bd\'c3\'e6\par
+ought   v.aux   \'d4\'e7\'d3\'a6\'b8\'c3\'a3\'ac\'b1\'be\'d3\'a6\par
+outbreak   n.(\'d5\'bd\'d5\'f9\'a1\'a2\'b7\'df\'c5\'ad\'b5\'c8)\'b1\'ac\'b7\'a2\par
+outcome   n.\'ba\'f3\'b9\'fb\'a3\'ac\'b3\'c9\'b9\'fb\par
+outermost   a.\'d7\'ee\'cd\'e2\'c3\'e6\'b5\'c4\'a3\'ac\'d7\'ee\'d4\'b6\'b5\'c4\par
+outlaw   n.\'cc\'d3\'b7\'b8\'a3\'ac\'b4\'f5\'cd\'bd\par
+outlet   n.\'b7\'a2\'d0\'b9(\'b8\'d0\'c7\'e9\'b5\'c8)\'b5\'c4\'b7\'bd\'b7\'a8\par
+outline   vt.\'b8\'c5\'ca\'f6\'a3\'ac\'b8\'c5\'c0\'a8\par
+outside   prep.\'d4\'da\'a1\'ad\'cd\'e2\'a3\'ac\'cf\'f2\'a1\'ad\'cd\'e2\par
+oval   a.\'c2\'d1\'d0\'ce\'b5\'c4   n.\'c2\'d1\'d0\'ce\par
+over   prep.\'d4\'da(\'d7\'f6)\'a1\'ad\'ca\'b1\par
+overall   a.\'d7\'db\'ba\'cf\'b5\'c4   n.\'b9\'a4\'d7\'f7\'b7\'fe\par
+overestimate   vt.\'b9\'fd\'b8\'df\'b9\'c0\'bc\'c6\par
+overflow   vt.\'b4\'d3\'a1\'ad\'d6\'d0\'d2\'e7\'b3\'f6\par
+overhang   vt.\'d0\'fc\'d3\'da\'a1\'ad\'d6\'ae\'c9\'cfvi.\'d0\'fc\'b4\'b9\par
+overhear   vt.\'c5\'bc\'c8\'bb\'cc\'fd\'b5\'bd\'a3\'bb\'cd\'b5\'cc\'fd\par
+overlap   vt.\'d3\'eb\'a1\'ad\'bd\'bb\'b4\'ee   vi.\'d6\'d8\'b5\'fc\par
+overload   vt.\'ca\'b9\'b3\'ac\'d4\'d8\par
+overlook   vt.\'cc\'f7\'cd\'fb\'a3\'bb\'bf\'b4\'c2\'a9\'a3\'bb\'bf\'ed\'c8\'dd\par
+overseas   ad.\'d4\'da\'ba\'a3\'cd\'e2\'a3\'ac(\'cf\'f2)\'b9\'fa\'cd\'e2\par
+overtake   vt.\'cd\'bb\'c8\'bb\'cf\'ae\'bb\'f7\'a3\'ac\'d1\'b9\'b5\'b9\par
+overthrow   vt.\'cd\'c6\'b7\'ad   n.\'cd\'c6\'b7\'ad\'a3\'ac\'cd\'df\'bd\'e2\par
+overwhelm   vt.\'d1\'b9\'b5\'b9\'a3\'ac\'ca\'b9\'b2\'bb\'d6\'aa\'cb\'f9\'b4\'eb\par
+overwhelming   a.\'d1\'b9\'b5\'b9\'b5\'c4\'a3\'ac\'ca\'c6\'b2\'bb\'bf\'c9\'b5\'b2\'b5\'c4\par
+oxide   n.\'d1\'f5\'bb\'af\'ce\'ef\par
+oxidize   vt.\'d1\'f5\'bb\'af\'a3\'ac\'ca\'b9\'c9\'fa\'d0\'e2\par
+oyster   n.\'c4\'b5\'f2\'c3\'a3\'bb\'b3\'c1\'c4\'ac\'b9\'d1\'d1\'d4\'b5\'c4\'c8\'cb\par
+pace   vi.(\'c2\'ed)\'c1\'ef\'cc\'e3\'d7\'df\par
+pacific   a.\'d0\'d4\'c7\'e9\'ce\'c2\'ba\'cd\'b5\'c4\par
+pal   n.\'ba\'c3\'c5\'f3\'d3\'d1\'a3\'bb\'cd\'ac\'c4\'b1\par
+pamphlet   n.\'d0\'a1\'b2\'e1\'d7\'d3\par
+panel   n.(\'d1\'a1\'b6\'a8\'b5\'c4)\'d7\'a8\'c3\'c5\'d0\'a1\'d7\'e9\par
+panic   n.\'bf\'d6\'bb\'c5\'a3\'ac\'be\'aa\'bb\'c5\par
+pant   vi.\'c6\'f8\'b4\'ad\par
+panther   n.\'b1\'aa\'a3\'ac\'ba\'da\'b1\'aa\'a3\'bb\'c3\'c0\'d6\'de\'ca\'a8\par
+pantry   n.\'ca\'b3\'c6\'b7\'b9\'f1\'a3\'ac\'b2\'cd\'be\'df\'ca\'d2\par
+pants   n.\'bf\'e3\'d7\'d3\'a3\'bb\'c4\'d0\'d3\'c3\'b6\'cc\'b3\'c4\'bf\'e3\par
+paper   vt.\'d3\'c3\'d6\'bd\'b0\'fc\'d7\'b0(\'bb\'f2\'b8\'b2\'b8\'c7)\par
+parachute   n.\'bd\'b5\'c2\'e4\'c9\'a1\'a3\'bb\'b7\'e7\'c9\'a2\'d6\'d6\'d7\'d3\par
+parade   vt.\'bf\'e4\'d2\'ab(\'b2\'c5\'c4\'dc\'b5\'c8)\par
+paragraph   n.\'d0\'a1\'d0\'c2\'ce\'c5\'a3\'ac\'b6\'cc\'c6\'c0\par
+paralyse   vt.\'ca\'b9\'c2\'e9\'b1\'d4\'a3\'ac\'ca\'b9\'cc\'b1\'bb\'be\par
+parameter   n.\'b2\'ce(\'b1\'e4)\'ca\'fd\'a3\'bb\'b2\'ce\'c1\'bf\par
+participant   n.\'b2\'ce\'bc\'d3\'d5\'df   a.\'d3\'d0\'b7\'dd\'b5\'c4\par
+participate   vi.\'b2\'ce\'d3\'eb   vt.\'b7\'d6\'cf\'ed\par
+particular   a.\'bf\'c1\'c7\'f3\'b5\'c4\'a3\'bb\'cc\'d8\'b3\'c6\'b5\'c4\par
+partition   n.\'b7\'d6\'bf\'aa\'a3\'ac\'b7\'d6\'b8\'ee\'a3\'bb\'c8\'da\'c7\'bd\par
+passport   n.\'b4\'ef\'b5\'bd\'c4\'bf\'b5\'c4\'b5\'c4\'ca\'d6\'b6\'ce\par
+pasture   n.\'c4\'c1\'b3\'a1\'a3\'bb\'c9\'fc\'d0\'f3\'cb\'c7\'d1\'f8\par
+patent   a.\'d7\'a8\'c0\'fb\'b5\'c4   n.\'d7\'a8\'c0\'fb\par
+pathetic   a.\'b0\'a7\'cd\'f1\'b6\'af\'c8\'cb\'b5\'c4\'a3\'bb\'bf\'c9\'c1\'af\'b5\'c4\par
+patriot   n.\'b0\'ae\'b9\'fa\'d5\'df\'a3\'ac\'b0\'ae\'b9\'fa\'d6\'f7\'d2\'e5\'d5\'df\par
+patriotic   a.\'b0\'ae\'b9\'fa\'b5\'c4\par
+patrol   n.\'d1\'b2\'c2\'df   n.\'d1\'b2\'c2\'df\'a3\'ac\'d1\'b2\'b2\'e9\par
+patron   n.\'b1\'d3\'bb\'a4\'c8\'cb\'a3\'bb\'d4\'de\'d6\'fa\'c8\'cb\par
+pattern   vt.\'b7\'c2\'d6\'c6\'a3\'ac\'b7\'c2\'d4\'ec\'a3\'ac\'c4\'a3\'b7\'c2\par
+peacock   n.\'bf\'d7\'c8\'b8\par
+peak   n.(\'ce\'ef\'cc\'e5\'b5\'c4)\'bc\'e2\'b6\'cb\par
+peck   vt.&vi.\'d7\'c4\'a3\'ac\'d7\'c4\'c6\'f0\par
+peculiarity   n.\'cc\'d8\'d0\'d4\'a3\'ac\'b6\'c0\'cc\'d8\'d0\'d4\'a3\'bb\'b9\'d6\'f1\'b1\par
+pedal   n.\'cc\'a4\'bd\'c5\'a3\'ac\'cc\'a4\'b0\'e5\'a3\'ac\'bd\'c5\'b5\'c5\par
+pedestrian   n.\'d0\'d0\'c8\'cb\'a3\'ac\'b2\'bd\'d0\'d0\'d5\'df\par
+pedlar   n.(\'b0\'a4\'bb\'a7\'b6\'b5\'ca\'db\'b5\'c4)\'d0\'a1\'b7\'b7\par
+peel   n.\'b9\'fb\'c6\'a4\'a3\'ac\'ca\'df\'b2\'cb\'c6\'a4\par
+peer   vi.\'c4\'fd\'ca\'d3\'a3\'bb\'d2\'fe\'d4\'bc\'b3\'f6\'cf\'d6\par
+penalty   n.\'b4\'a6\'b7\'a3\'a3\'ac\'d0\'cc\'b7\'a3\'a3\'bb\'b7\'a3\'bf\'ee\par
+penetration   n.\'b4\'a9\'c8\'eb\'a3\'bb\'c9\'f8\'cd\'b8\'a3\'ac\'c7\'d6\'c8\'eb\par
+pendulum   n.(\'d6\'d3\'b5\'c8\'b5\'c4)\'b0\'da\par
+perception   n.\'b8\'d0\'be\'f5\'a3\'bb\'b8\'c5\'c4\'ee\'a3\'bb\'c0\'ed\'bd\'e2\'c1\'a6\par
+perch   n.(\'c7\'dd\'c4\'f1\'b5\'c4)\'c6\'dc\'c4\'be\par
+perfect   vt.\'ca\'b9\'ca\'ec\'c1\'b7\'a3\'ac\'ca\'b9\'b8\'c4\'c9\'c6\par
+perfection   n.\'be\'a1\'c9\'c6\'be\'a1\'c3\'c0\'a3\'bb\'ce\'de\'b1\'c8\'be\'ab\'c8\'b7\par
+peril   n.\'ce\'a3\'bb\'fa\'a3\'bb\'ce\'a3\'cf\'d5\'b5\'c4\'ca\'c2\'ce\'ef\par
+perimeter   n.\'d6\'dc(\'b1\'df)\'a3\'ac\'d6\'dc\'b3\'a4\par
+periodic   n.\'d6\'dc\'c6\'da\'b5\'c4\'a3\'bb\'d2\'bb\'b6\'a8\'ca\'b1\'c6\'da\'b5\'c4\par
+periodical   n.\'c6\'da\'bf\'af\'a3\'ac\'d4\'d3\'d6\'be\par
+peripheral   a.\'d6\'dc\'bd\'e7\'b5\'c4\'a3\'bb\'c4\'a9\'c9\'d2\'b5\'c4\par
+perish   vi.\'cb\'c0\'cd\'f6\'a3\'ac\'d8\'b2\'d5\'db\'a3\'bb\'bf\'dd\'ce\'ae\par
+perpendicular   a.\'b4\'b9\'d6\'b1\'b5\'c4   n.\'b4\'b9\'d6\'b1(\'cf\'df)\par
+perpetual   a.\'d3\'c0\'be\'c3\'b5\'c4\'a3\'bb\'cb\'c4\'bc\'be\'bf\'aa\'bb\'a8\'b5\'c4\par
+perplex   vt.\'c3\'d4\'bb\'f3\'a3\'ac\'c0\'a7\'bb\'f3\'a3\'ac\'c4\'d1\'d7\'a1\par
+persecute   vt.\'c6\'c8\'ba\'a6\'a3\'ac\'b2\'d0\'ba\'a6\par
+persevere   vi.\'bc\'e1\'b3\'d6\'a3\'ac\'b2\'bb\'c7\'fc\'b2\'bb\'c4\'d3\par
+persist   vi.\'b3\'d6\'d0\'f8\'a3\'ac\'b4\'e6\'c1\'f4\par
+persistence   n.\'bc\'e1\'b3\'d6\'a3\'bb\'b3\'d6\'d0\'f8\'a3\'ac\'b4\'e6\'c1\'f4\par
+personality   n.\'c8\'cb\'b8\'f1\'a3\'ac\'b8\'f6\'d0\'d4\'a3\'bb\'c8\'cb\'ce\'ef\par
+personnel   n.\'c8\'cb\'ca\'c2\'b2\'bf\'c3\'c5\par
+persuasion   n.\'c8\'b0\'cb\'b5\'a3\'ac\'cb\'b5\'b7\'fe\'a3\'bb\'d6\'f7\'d5\'c5\par
+pertinent   a.\'c7\'a1\'b5\'b1\'b5\'c4\'a3\'bb\'d3\'d0\'b9\'d8\'b5\'c4\par
+pest   n.\'ba\'a6\'b3\'e6\'a3\'bb\'ba\'a6\'c8\'cb\'b3\'e6\par
+petition   n.\'c7\'eb\'d4\'b8   vt.\'cf\'f2\'a1\'ad\'c7\'eb\'d4\'b8\par
+petty   a.\'cf\'b8\'d0\'a1\'b5\'c4\'a3\'bb\'c6\'f7\'c1\'bf\'d0\'a1\'b5\'c4\par
+photoelectric   a.\'b9\'e2\'b5\'e7\'b5\'c4\par
+photography   n.\'c9\'e3\'d3\'b0\'ca\'f5\par
+physically   ad.\'ce\'ef\'d6\'ca\'c9\'cf\'a3\'bb\'cc\'e5\'b8\'f1\'c9\'cf\par
+pickle   n.\'eb\'e7\'d6\'c6\'ca\'b3\'c6\'b7\'a3\'ac\'c5\'dd\'b2\'cb\par
+pier   n.(\'c7\'c5)\'b6\'d5\'a3\'bb\'c2\'eb\'cd\'b7\par
+pierce   vt.\'b4\'a9\'cd\'b8\'a3\'ac\'b4\'c1\'b4\'a9\'a3\'ac\'b6\'b4\'b2\'ec\par
+pilgrim   n.\'cf\'e3\'bf\'cd\'a3\'ac\'b3\'af\'ca\'a5\'d5\'df\par
+pineapple   n.\'b7\'ef\'c0\'e6\'a3\'ac\'b2\'a8\'c2\'dc\par
+pious   a.\'f2\'af\'b3\'cf\'b5\'c4\'a3\'bb\'f2\'af\'b7\'ee\'d7\'da\'bd\'cc\'b5\'c4\par
+pipe   n.\'b9\'dc\'c0\'d6\'c6\'f7\par
+pirate   n.\'ba\'a3\'b5\'c1\'a3\'bb\'c3\'bf\'b5\'c1\'b4\'ac\par
+piston   n.\'bb\'ee\'c8\'fb\par
+pitch   n.\'c8\'cb\'d4\'ec\'ca\'f7\'d6\'ac\par
+plague   n.\'ce\'c1\'d2\'df\'a3\'ac\'ca\'f3\'d2\'df\'a3\'bb\'cc\'ec\'d4\'d6\par
+plain   a.\'cc\'b9\'b0\'d7\'b5\'c4\'a3\'bb\'c6\'d5\'cd\'a8\'b5\'c4\par
+plastic   a.\'cb\'dc\'c1\'cf\'b5\'c4\'a3\'bb\'cb\'dc\'d0\'d4\'b5\'c4\par
+plateau   n.\'b8\'df\'d4\'ad\'a3\'bb\'c6\'bd\'ce\'c8\'ca\'b1\'c6\'da\par
+platform   n.\'d5\'fe\'b8\'d9\'a3\'ac\'b5\'b3\'b8\'d9\'a3\'ac\'d0\'fb\'d1\'d4\par
+plea   n.\'c7\'eb\'d4\'b8\'a3\'ac\'c7\'eb\'c7\'f3\'a3\'ac\'bf\'d2\'c7\'f3\par
+plead   vt.\'ce\'aa\'a1\'ad\'b1\'e7\'bb\'a4   vi.\'bf\'b9\'b1\'e7\par
+pledge   n.\'ca\'c4\'d1\'d4   vt.\'ca\'b9\'b7\'a2\'ca\'c4\par
+pluck   vt.\'b9\'c4\'c6\'f0(\'d3\'c2\'c6\'f8)\'a3\'ac\'d5\'f1\'d7\'f7\par
+plump   vt.\'b7\'e1\'c2\'fa\'b5\'c4\'a3\'bb\'b9\'c4\'c6\'f0\'b5\'c4\par
+plunder   v.&n.\'c2\'d3\'b6\'e1\'a3\'ac\'bd\'d9\'c2\'d3\par
+pneumatic   a.\'bf\'d5\'c6\'f8\'b5\'c4\'a3\'bb\'c6\'f8\'b6\'af\'b5\'c4\par
+poke   vt.\'b4\'c1\'a3\'ac\'b4\'cc\'a3\'bb\'c9\'ec(\'cd\'b7\'b5\'c8)\par
+polar   a.\'c4\'cf(\'b1\'b1)\'bc\'ab\'b5\'c4\'a3\'bb\'bc\'ab\'d0\'d4\'b5\'c4\par
+polarity   n.\'bc\'ab\'d0\'d4\'a3\'bb(\'cb\'bc\'cf\'eb\'b5\'c8)\'b9\'e9\'cf\'f2\par
+politics   n.\'d5\'fe\'b8\'d9\'a3\'ac\'d5\'fe\'bc\'fb\'a3\'ac\'b2\'df\'c2\'d4\par
+poll   n.\'cd\'b6\'c6\'b1   vi.\'cd\'b6\'c6\'b1\par
+polymer   n.\'be\'db\'ba\'cf\'ce\'ef\'a3\'ac\'b6\'e0\'be\'db\'ce\'ef\par
+ponder   vt.\'bf\'bc\'c2\'c7   vi.\'b3\'c1\'cb\'bc\par
+pop   vi.(\'d2\'e2\'cd\'e2\'b5\'d8)\'b3\'f6\'cf\'d6\par
+pope   n.(\'c2\'de\'c2\'ed\'cc\'ec\'d6\'f7\'bd\'cc\'b5\'c4)\'bd\'cc\'bb\'ca\par
+popularity   n.\'cd\'a8\'cb\'d7\'d0\'d4\'a3\'bb\'c6\'d5\'bc\'b0\'a3\'ac\'c1\'f7\'d0\'d0\par
+porcelain   n.\'b4\'c9   a.\'b4\'c9\'b5\'c4\'a3\'ac\'b4\'c9\'d6\'c6\'b5\'c4\par
+pore   n.\'c3\'ab\'bf\'d7\'a3\'ac\'c6\'f8\'bf\'d7\'a3\'ac\'cf\'b8\'bf\'d7\par
+portable   a.\'bf\'c9\'d2\'c6\'b6\'af\'b5\'c4\par
+pose   vt.(\'ca\'b9)\'b0\'da\'ba\'c3\'d7\'cb\'ca\'c6\par
+position   n.\'d6\'f7\'d5\'c5\'a3\'ac\'c1\'a2\'b3\'a1\'a3\'bb\'d0\'ce\'ca\'c6\par
+positive   a.\'d5\'fd\'b5\'c4\'a3\'bb\'d1\'f4\'d0\'d4\'b5\'c4\par
+positively   ad.\'c8\'b7\'b6\'a8\'b5\'c4\'a3\'ac\'b6\'cf\'c8\'bb\par
+possibility   n.\'bf\'c9\'c4\'dc\'b5\'c4\'ca\'c2\par
+postal   a.\'d3\'ca\'d5\'fe\'b5\'c4\'a3\'ac\'d3\'ca\'be\'d6\'b5\'c4\par
+postulate   vt.\'d2\'aa\'c7\'f3\'a3\'ac\'bc\'d9\'b6\'a8\'a3\'ac\'bc\'d9\'c9\'e8\par
+poultry   n.\'bc\'d2\'c7\'dd\par
+practicable   a.\'c4\'dc\'ca\'b5\'d0\'d0\'b5\'c4\'a3\'bb\'ca\'ca\'d3\'c3\'b5\'c4\par
+prairie   n.\'b4\'f3\'b2\'dd\'d4\'ad\'a3\'ac\'c4\'c1\'b3\'a1\par
+preach   vt.\'cb\'b5\'bd\'cc\'a3\'ac\'b2\'bc\'b5\'c0\'a3\'bb\'b9\'c4\'b4\'b5\par
+precede   vt.\'cf\'c8\'d3\'da\'a1\'ad   vi.\'c1\'ec\'cf\'c8\par
+predecessor   n.\'c7\'b0\'b1\'b2\'a3\'ac\'c7\'b0\'c8\'ce\'d5\'df\par
+prediction   n.\'d4\'a4\'d1\'d4\'a3\'ac\'d4\'a4\'b8\'e6\'a3\'bb\'d4\'a4\'b1\'a8\par
+predominant   a.\'d5\'bc\'d3\'c5\'ca\'c6\'b5\'c4\'a3\'bb\'d6\'f7\'d2\'aa\'b5\'c4\par
+pregnant   a.\'bb\'b3\'d4\'d0\'b5\'c4\'a3\'bb\'d2\'e2\'d2\'e5\'c9\'ee\'b3\'a4\'b5\'c4\par
+prejudice   n.\'c6\'ab\'bc\'fb\'a3\'ac\'b3\'c9\'bc\'fb\'a3\'bb\'cb\'f0\'ba\'a6\par
+prescription   n.\'d2\'a9\'b7\'bd\'a3\'ac\'b4\'a6\'b7\'bd\'b5\'c4\'d2\'a9\par
+presentation   n.\'bd\'e9\'c9\'dc\'a3\'bb\'d4\'f9\'cb\'cd\'a3\'bb\'b3\'ca\'cf\'d6\par
+preservation   n.\'b1\'a3\'b4\'e6\'a3\'ac\'b4\'a2\'b2\'d8\'a3\'bb\'b1\'a3\'b3\'d6\par
+preset   vt.\'d4\'a4\'cf\'c8\'d7\'b0\'d6\'c3\par
+preside   vi.\'d6\'f7\'b3\'d6\'a3\'bb\'d6\'f7\'d7\'e0\par
+press   n.\'d3\'a1\'cb\'a2\'bb\'fa\'a3\'ac\'d3\'a1\'cb\'a2\'cb\'f9\par
+pressure   n.\'b5\'e7\'d1\'b9\'a3\'bb\'b4\'f3\'c6\'f8\'d1\'b9\'c1\'a6\par
+prestige   n.\'cd\'fe\'cd\'fb\'a3\'ac\'cd\'fe\'d0\'c5\'a3\'ac\'c9\'f9\'cd\'fb\par
+presumably   ad.\'cd\'c6\'b2\'e2\'c6\'f0\'c0\'b4\'a3\'ac\'b4\'f3\'b8\'c5\par
+presume   vt.\'bc\'d9\'b6\'a8\'a3\'ac\'bc\'d9\'c9\'e8\'a3\'ac\'b4\'a7\'b2\'e2\par
+prevalent   a.\'c1\'f7\'d0\'d0\'b5\'c4\'a3\'bb\'ca\'a2\'d0\'d0\'b5\'c4\par
+prevention   n.\'d4\'a4\'b7\'c0\'a3\'ac\'d7\'e8\'d6\'b9\'a3\'ac\'b7\'c1\'b0\'ad\par
+prey   vi.\'c1\'d4\'ce\'ef   vi.\'b2\'b6\'bb\'f1\par
+prick   vt.\'b4\'cc(\'b4\'a9)   n.\'b4\'cc\'bf\'d7\par
+primitive   a.\'d4\'b6\'b9\'c5\'b5\'c4\'a3\'ac\'ce\'b4\'bf\'aa\'bb\'af\'b5\'c4\par
+principally   ad.\'d6\'f7\'d2\'aa\'a3\'ac\'b4\'f3\'b5\'d6\par
+printer   n.\'d3\'a1\'cb\'a2\'b9\'a4\'a3\'bb\'d3\'a1\'bb\'a8\'b9\'a4\par
+priority   n.\'cf\'c8\'a3\'ac\'c7\'b0\'a3\'bb\'d3\'c5\'cf\'c8\'a3\'ac\'d6\'d8\'b5\'e3\par
+prism   n.\'c0\'e2\'d6\'f9(\'cc\'e5)\'a3\'bb\'c0\'e2\'be\'b5\par
+probe   n.\'cc\'bd\'d5\'eb   vt.\'d3\'c3\'cc\'bd\'d5\'eb\'cc\'bd\'b2\'e9\par
+proceeding   n.\'b3\'cc\'d0\'f2\'a3\'ac\'d0\'d0\'b6\'af\'a3\'ac\'ca\'c2\'cf\'ee\par
+producer   n.\'c9\'fa\'b2\'fa\'d5\'df\'a3\'bb\'ce\'e8\'cc\'a8\'bc\'e0\'b6\'bd\par
+productive   a.\'c9\'fa\'b2\'fa\'b5\'c4\'a3\'bb\'b3\'f6\'b2\'fa\'a1\'ad\'b5\'c4\par
+productivity   n.\'c9\'fa\'b2\'fa\'c2\'ca\'a3\'bb\'b6\'e0\'b2\'fa\par
+proficiency   n.\'ca\'ec\'c1\'b7\'a3\'ac\'be\'ab\'cd\'a8\par
+proficient   a.\'ca\'ec\'c1\'b7\'b5\'c4\'a3\'ac\'be\'ab\'cd\'a8\'b5\'c4\par
+profitable   a.\'d3\'d0\'c0\'fb\'b5\'c4\'a3\'bb\'d3\'d0\'d2\'e6\'b5\'c4\par
+profound   a.\'c9\'ee\'bf\'cc\'b5\'c4\'a3\'bb\'d4\'a8\'b2\'a9\'b5\'c4\par
+program   vi.\'b1\'e0\'d6\'c6\'b3\'cc\'d0\'f2\par
+prohibition   n.\'bd\'fb\'d6\'b9\'a3\'bb\'bd\'fb\'c1\'ee\'a3\'ac\'bd\'fb\'c2\'c9\par
+projector   n.\'cd\'b6\'d3\'b0\'d2\'c7\'a3\'bb\'cc\'bd\'d5\'d5\'b5\'c6\par
+prolong   vt.\'d1\'d3\'b3\'a4\'a3\'ac\'c0\'ad\'b3\'a4\'a3\'ac\'cd\'cf\'d1\'d3\par
+promotion   n.\'b4\'d9\'bd\'f8\'a3\'bb\'cc\'e1\'c9\'fd\'a3\'bb\'b4\'b4\'c1\'a2\par
+promptly   ad.\'c3\'f4\'bd\'dd\'b5\'d8\'a3\'ac\'d1\'b8\'cb\'d9\'b5\'d8\par
+propaganda   n.\'d0\'fb\'b4\'ab\'a3\'bb\'d0\'fb\'b4\'ab\'bb\'fa\'b9\'b9\par
+propagate   vt.\'b7\'b1\'d6\'b3\'a3\'bb\'b4\'ab\'b2\'a5\'a3\'ac\'c6\'d5\'bc\'b0\par
+propagation   n.\'b7\'b1\'d6\'b3\'a3\'bb\'b4\'ab\'b2\'a5\'a3\'bb\'c2\'fb\'d1\'d3\par
+propel   vt.\'cd\'c6\'bd\'f8\'a3\'ac\'cd\'c6\'b6\'af\par
+propeller   n.\'c2\'dd\'d0\'fd\'bd\'b0\'a3\'ac\'cd\'c6\'bd\'f8\'c6\'f7\par
+proper   a.\'ba\'cf\'ba\'f5\'cc\'e5\'cd\'b3\'b5\'c4\'a3\'ac\'d5\'fd\'c5\'c9\'b5\'c4\par
+prophecy   n.\'d4\'a4\'d1\'d4\'a3\'ac\'d4\'a4\'d1\'d4\'c4\'dc\'c1\'a6\par
+prophet   n.\'d4\'a4\'d1\'d4\'bc\'d2\'a3\'ac\'cf\'c8\'d6\'aa\par
+proposition   n.\'c3\'fc\'cc\'e2\'a3\'ac\'d6\'f7\'cc\'e2\'a3\'bb\'cc\'e1\'d2\'e9\par
+propulsion   n.\'cd\'c6\'bd\'f8\'a3\'ac\'cd\'c6\'bd\'f8\'c1\'a6\par
+prose   n.\'c9\'a2\'ce\'c4\par
+proton   n.\'d6\'ca\'d7\'d3\'a3\'ac\'eb\'ad\'ba\'cb\par
+prototype   n.\'d4\'ad\'d0\'cd\'a3\'bb\'b5\'e4\'d0\'cd\'a3\'ac\'b7\'b6\'c0\'fd\par
+proverb   n.\'d1\'e8\'d3\'ef\'a3\'ac\'b8\'f1\'d1\'d4\'a3\'ac\'f3\'f0\'d1\'d4\par
+province   n.\'c1\'ec\'d3\'f2\'a3\'ac\'b7\'b6\'ce\'a7\'a3\'ac\'d6\'b0\'c8\'a8\par
+provision   n.\'b9\'e6\'b6\'a8\'a3\'ac\'cc\'f5\'bf\'ee\'a3\'ac\'cc\'f5\'cf\'ee\par
+provoke   vt.\'b6\'d4\'a1\'ad\'cc\'f4\'d0\'c6\'a3\'bb\'bc\'a4\'b7\'a2\par
+prudent   a.\'bd\'f7\'c9\'f7\'b5\'c4\'a3\'bb\'be\'ab\'c3\'f7\'b5\'c4\par
+psychology   n.\'d0\'c4\'c0\'ed\'d1\'a7\'a3\'bb\'d0\'c4\'c0\'ed\par
+puff   vi.\'b4\'ad\'c6\'f8   vt.\'c5\'e7(\'d1\'cc\'b5\'c8)\par
+pulley   n.\'bb\'ac\'c2\'d6\'a3\'ac\'bb\'ac\'b3\'b5\'a3\'ac\'c6\'a4\'b4\'f8\'c2\'d6\par
+pumpkin   n.\'c4\'cf\'b9\'cf\'a3\'ac\'c4\'cf\'b9\'cf\'cc\'d9\par
+punch   vt.\'b3\'e5\'d1\'b9   n.\'b3\'e5\'d1\'b9\'bb\'fa\par
+puppy   n.\'d0\'a1\'b9\'b7\'a3\'bb\'d3\'d7\'d0\'a1\'b5\'c4\'b6\'af\'ce\'ef\par
+purify   vt.\'cc\'e1\'b4\'bf\'a3\'ac\'be\'ab\'c1\'b6(\'bd\'f0\'ca\'f4)\par
+pyjamas   n.(\'bf\'ed\'b4\'f3\'b5\'c4)\'cb\'af\'d2\'c2\'bf\'e3\par
+qualification   n.\'d7\'ca\'b8\'f1\'a3\'bb\'cf\'de\'d6\'c6\'cc\'f5\'bc\'fe\par
+qualify   vt.\'cf\'de\'d6\'c6\'a3\'ac\'cf\'de\'b6\'a8\'a3\'ac\'d0\'de\'ca\'ce\par
+qualitative   a.\'d6\'ca\'b5\'c4\'a3\'bb\'b6\'a8\'d0\'d4\'b5\'c4\par
+quantify   vt.\'c8\'b7\'b6\'a8\'a1\'ad\'b5\'c4\'ca\'fd\'c1\'bf\par
+quantitative   a.\'c1\'bf\'b5\'c4\'a3\'bb\'b6\'a8\'c1\'bf\'b5\'c4\par
+quarterly   a.\'bc\'be\'b6\'c8\'b5\'c4   ad.\'bc\'be\'b6\'c8\'b5\'d8\par
+quartz   n.\'ca\'af\'d3\'a2\par
+quench   vt.\'cf\'a8\'c3\'f0\'a3\'ac\'c6\'cb\'c3\'f0\'a3\'bb\'d1\'b9\'d6\'c6\par
+quest   vt.\'d1\'b0\'d5\'d2   vi.\'d7\'b7\'c7\'f3\par
+question   vt.\'ce\'ca\'a3\'ac\'d1\'af\'ce\'ca\'a3\'ac\'d1\'b6\'ce\'ca\par
+questionable   a.\'bf\'c9\'d2\'c9\'b5\'c4\'a3\'ac\'b2\'bb\'bf\'c9\'bf\'bf\'b5\'c4\par
+questionnaire   n.\'b5\'f7\'b2\'e9\'b1\'ed\'a3\'ac\'d5\'f7\'c7\'f3\'d2\'e2\'bc\'fb\'b1\'ed\par
+quiver   vi.(\'c7\'e1\'ce\'a2\'b5\'d8)\'b2\'fc\'b6\'af\par
+radial   a.\'b9\'e2\'cf\'df\'b5\'c4\'a3\'bb\'b7\'c5\'c9\'e4\'b5\'c4\par
+radiant   a.\'d1\'a4\'c0\'f6\'b5\'c4\'a3\'bb\'c8\'dd\'b9\'e2\'bb\'c0\'b7\'a2\'b5\'c4\par
+radiator   n.\'c5\'af\'c6\'f8\'c6\'ac\'a3\'ac\'c9\'a2\'c8\'c8\'c6\'f7\par
+radical   a.\'bb\'f9\'b1\'be\'b5\'c4\'a3\'bb\'bc\'a4\'bd\'f8\'b5\'c4\par
+radius   n.\'b0\'eb\'be\'b6\'be\'e0\'c0\'eb\'a3\'bb\'bd\'e7\'cf\'de\par
+raise   vt.\'cc\'e1\'b3\'f6\'a3\'ac\'b7\'a2\'c6\'f0\'a3\'ac\'b7\'a2\'b3\'f6\par
+raisin   n.\'c6\'cf\'cc\'d1\'b8\'c9\par
+rally   n.&vt.&vi.(\'d6\'d8\'d0\'c2)\'bc\'af\'ba\'cf\par
+ramble   vi.\'cf\'d0\'b9\'e4\'a3\'ac\'c2\'fe\'b2\'bd\'a3\'bb\'c1\'c4\'cc\'ec\par
+ranch   n.(\'b1\'b1\'c3\'c0\'d6\'de\'b5\'c4)\'b4\'f3\'c4\'c1\'b3\'a1\par
+random   n.\'cb\'e6\'bb\'fa   a.\'cb\'e6\'bb\'fa\'b5\'c4\par
+range   vt.\'c5\'c5\'c1\'d0\'a3\'bb\'b0\'d1\'a1\'ad\'b7\'d6\'c0\'e0\par
+rap   n.\'c7\'e1\'c7\'c3\'bb\'f7\'c9\'f9   vt.\'c7\'c3\'bb\'f7\par
+rapidity   n.\'bf\'ec\'a3\'ac\'d1\'b8\'cb\'d9\'a3\'bb\'b6\'b8\'a3\'ac\'cf\'d5\'be\'fe\par
+rapture   n.\'bf\'f1\'cf\'b2\'a3\'ac\'bb\'b6\'cc\'ec\'cf\'b2\'b5\'d8\par
+rascal   n.\'c1\'f7\'c3\'a5\'a3\'ac\'b6\'f1\'b9\'f7\'a3\'ac\'ce\'de\'c0\'b5\par
+rash   a.\'c7\'e1\'c2\'ca\'b5\'c4\'a3\'bb\'c2\'b3\'c3\'a7\'b5\'c4\par
+rate   n.\'bc\'db\'b8\'f1   vt.\'b6\'d4\'a1\'ad\'c6\'c0\'b6\'a8\par
+rational   a.\'cd\'c6\'c0\'ed\'b5\'c4\'a3\'bb\'ca\'ca\'b6\'c8\'b5\'c4\par
+rattle   vt.\'b7\'a2\'b3\'f6\'b8\'f1\'b8\'f1\'c9\'f9\par
+reactor   n.\'b7\'b4\'d3\'a6\'c6\'f7\'a3\'bb\'b7\'b4\'d3\'a6\'b6\'d1\par
+realistic   a.\'cf\'d6\'ca\'b5\'b5\'c4\'a3\'bb\'cf\'d6\'ca\'b5\'d6\'f7\'d2\'e5\'b5\'c4\par
+realization   n.(\'c0\'ed\'cf\'eb\'b5\'c8\'b5\'c4)\'ca\'b5\'cf\'d6\par
+rear   vt.\'cb\'c7\'d1\'f8\'a3\'ac\'c5\'e0\'d6\'b2\'a3\'bb\'b8\'a7\'d1\'f8\par
+reason   vt.\'b1\'e7\'c2\'db\'a3\'ac\'cc\'d6\'c2\'db\par
+rebuke   vt.\'d6\'b8\'d4\'f0\'a3\'ac\'b7\'c7\'c4\'d1\'a3\'ac\'b3\'e2\'d4\'f0\par
+receiver   n.\'bd\'d3\'b4\'fd\'d5\'df\'a3\'bb\'ca\'d5\'ca\'dc\'d5\'df\par
+recipe   n.\'b2\'cb\'c6\'d7\'a3\'ac\'c5\'eb\'e2\'bf\'b7\'a8\'a3\'bb\'b4\'a6\'b7\'bd\par
+reciprocal   a.\'cf\'e0\'bb\'a5\'b5\'c4\'a3\'bb\'bb\'a5\'c0\'fb\'b5\'c4\par
+reckless   a.\'b4\'d6\'d0\'c4\'b4\'f3\'d2\'e2\'b5\'c4\'a3\'bb\'c2\'b3\'c3\'a7\'b5\'c4\par
+reckon   vi.\'ca\'fd\'a3\'ac\'cb\'e3\'d5\'ca   vt.\'c8\'cf\'ce\'aa\par
+reclaim   vt.\'bf\'aa\'bf\'d1\'a3\'ac\'bf\'aa\'cd\'d8\'a3\'bb\'bb\'d8\'ca\'d5\par
+recognition   n.\'c8\'cf\'b3\'f6\'a3\'ac\'ca\'b6\'b1\'f0\'a3\'bb\'d6\'d8\'ca\'d3\par
+recommendation   n.\'cd\'c6\'bc\'f6\'a3\'ac\'bd\'e9\'c9\'dc\'a3\'bb\'bd\'a8\'d2\'e9\par
+reconcile   vt.\'ca\'b9\'ba\'cd\'ba\'c3\'a3\'bb\'b5\'f7\'cd\'a3\par
+recreation   n.\'cf\'fb\'c7\'b2\'a3\'ac\'d3\'e9\'c0\'d6\'bb\'ee\'b6\'af\par
+rectangle   n.\'be\'d8\'d0\'ce\'a3\'ac\'b3\'a4\'b7\'bd\'d0\'ce\par
+rectify   vt.\'be\'c0\'d5\'fd\'a3\'bb\'b5\'f7\'d5\'fb\'a3\'bb\'be\'ab\'c1\'f3\par
+reed   n.\'c2\'ab\'b5\'d1\'a3\'ac\'c4\'c1\'b5\'d1\par
+reef   n.\'bd\'b8\'a3\'ac\'bd\'b8\'ca\'af\'a3\'ac\'b0\'b5\'bd\'b8\par
+reel   vt.\'be\'ed\'a3\'ac\'c8\'c6\par
+referee   n.(\'d7\'e3\'c7\'f2\'b5\'c8)\'b2\'c3\'c5\'d0\'d4\'b1\par
+reference   n.\'b2\'ce\'bf\'bc\'ce\'c4\'cf\'d7\'a3\'bb\'b2\'ce\'d5\'d5\'cf\'b5\par
+refinery   n.\'be\'ab\'c1\'b6\'b3\'a7\'a3\'ac\'cc\'e1\'c1\'b6\'b3\'a7\par
+refrain   vi.\'d2\'d6\'d6\'c6\'a3\'ac\'d6\'c6\'d6\'b9\'a3\'ac\'c8\'cc\'d7\'a1\par
+refreshment   n.(\'be\'ab\'c1\'a6\'b5\'c4)\'bb\'d6\'b8\'b4\'a3\'ac\'cb\'ac\'bf\'ec\par
+refugee   n.\'c4\'d1\'c3\'f1\'a3\'ac\'c1\'f7\'cd\'f6\'d5\'df\par
+regenerative   a.\'d0\'c2\'c9\'fa\'b5\'c4\'a3\'bb\'bb\'d8\'ca\'da\'b5\'c4\par
+regime   n.\'d5\'fe\'cc\'e5\'a3\'ac\'d5\'fe\'c8\'a8\'a3\'bb\'d6\'c6\'b6\'c8\par
+regiment   n.\'cd\'c5\'a3\'ac\'be\'fc\'cd\'c5\'a3\'bb\'d2\'bb\'b4\'f3\'c8\'ba\par
+regularity   n.\'b9\'e6\'d4\'f2\'d0\'d4\'a3\'bb\'d5\'fb\'c6\'eb\par
+regulate   vt.\'b5\'f7\'d5\'fb\'a3\'ac\'b5\'f7\'bd\'da\'a3\'ac\'b6\'d4\'d7\'bc\par
+regulation   n.\'b9\'e6\'d5\'c2\'a3\'ac\'b9\'e6\'d4\'f2\'a3\'bb\'b5\'f7\'bd\'da\par
+reign   n.\'b3\'af\'b4\'fa\par
+reject   vt.\'c9\'e1\'c6\'fa\'a3\'ac\'c5\'d7\'c6\'fa\'a3\'bb\'c5\'c5\'b3\'e2\par
+relay   vt.\'b7\'d6\'b3\'cc\'b4\'ab\'b5\'dd\'a3\'bb\'ca\'b9\'bd\'d3\'cc\'e6\par
+religion   n.\'d0\'c5\'c4\'ee\'a3\'ac\'d0\'c5\'cc\'f5\par
+remainder   n.\'ca\'a3\'d3\'e0(\'ce\'ef)\'a3\'bb\'d3\'e0\'ca\'fd\par
+repay   vt.&vi.\'b3\'a5\'bb\'b9\'a3\'ac\'b1\'a8\'b4\'f0\par
+repeal   vt.\'b3\'b7\'cf\'fa\'a3\'bb\'b7\'c5\'c6\'fa   n.\'b3\'b7\'cf\'fa\par
+repel   vt.\'be\'dc\'be\'f8\'a3\'bb\'ca\'b9\'d1\'e1\'b6\'f1\par
+replace   vt.\'cb\'cd\'bb\'b9\'a3\'ac\'b9\'e9\'bb\'b9\'a3\'ac\'c5\'e2\'bb\'b9\par
+replacement   n.\'b9\'e9\'bb\'b9\'a3\'bb\'c8\'a1\'b4\'fa\'a3\'bb\'d6\'c3\'bb\'bb\par
+report   n.\'b4\'ab\'cb\'b5\'a3\'ac\'d2\'e9\'c2\'db\par
+representation   n.\'c3\'e8\'d0\'b4\'a3\'bb\'b3\'c2\'ca\'f6\'a3\'bb\'b4\'fa\'b1\'ed\par
+representative   a.\'b4\'fa\'b1\'ed\'d0\'d4\'b5\'c4\'a3\'bb\'b4\'fa\'d2\'e9\'d6\'c6\'b5\'c4\par
+reproduce   vt.\'b7\'c2\'d4\'ec\par
+reproduction   n.\'d4\'d9\'c9\'fa(\'b2\'fa)\'a3\'bb\'b7\'b1\'d6\'b3\par
+reptile   n.\'c5\'c0\'d0\'d0\'b6\'af\'ce\'ef\'a3\'bb\'c1\'bd\'c6\'dc\'b6\'af\'ce\'ef\par
+requisite   a.\'d0\'e8\'d2\'aa\'b5\'c4   n.\'b1\'d8\'d0\'e8\'c6\'b7\par
+resemblance   n.\'cf\'e0\'cb\'c6\'a3\'ac\'cf\'e0\'cb\'c6\'d0\'d4\par
+resent   vt.\'b6\'d4\'a1\'ad\'b2\'bb\'c2\'fa\'a3\'ac\'d4\'b9\'ba\'de\par
+reservation   n.\'b1\'a3\'c1\'f4\'a3\'bb\'d4\'a4\'b6\'a8\'a3\'ac\'d4\'a4\'b6\'a9\par
+reserve   n.\'bc\'ea\'c4\'ac\'a3\'ac\'d7\'d4\'ce\'d2\'bf\'cb\'d6\'c6\par
+reside   vi.\'be\'d3\'d7\'a1\'a3\'ac\'d7\'a4\'d4\'fa\'a3\'bb\'ca\'f4\'d3\'da\par
+resident   n.\'b3\'a3\'d7\'a1\'d5\'df\par
+residual   a.\'ca\'a3\'d3\'e0\'b5\'c4\'a3\'bb\'b2\'d0\'ca\'fd\'b5\'c4\par
+resign   vt.\'ca\'b9\'cb\'b3\'b4\'d3\'a3\'ac\'ca\'b9\'cc\'fd\'c8\'ce\'d3\'da\par
+resignation   n.\'cc\'fd\'b4\'d3\'a3\'ac\'c7\'fc\'b4\'d3\'a3\'ac\'cb\'b3\'b4\'d3\par
+resolute   a.\'bc\'e1\'be\'f6\'b5\'c4\'a3\'ac\'b9\'fb\'b8\'d2\'b5\'c4\par
+respectable   a.\'bf\'c9\'be\'b4\'b5\'c4\'a3\'bb\'c8\'cb\'b8\'f1\'b8\'df\'c9\'d0\'b5\'c4\par
+response   n.\'bb\'d8\'d2\'f4\'a3\'ac\'bb\'d8\'c7\'a9\'a3\'bb\'c1\'e9\'c3\'f4\'b6\'c8\par
+responsible   a.\'d6\'d8\'d2\'aa\'b5\'c4\'a3\'bb\'bf\'c9\'bf\'bf\'b5\'c4\par
+restrain   vt.\'d2\'d6\'d6\'c6\'a3\'ac\'d6\'c6\'d6\'b9\'a3\'ac\'b6\'f4\'d6\'c6\par
+resultant   a.\'d7\'f7\'ce\'aa\'bd\'e1\'b9\'fb\'b6\'f8\'b7\'a2\'c9\'fa\'b5\'c4\par
+resume   n.(\'c4\'b1\'d6\'b0\'d5\'df\'b5\'c4)\'b8\'f6\'c8\'cb\'bc\'f2\'c0\'fa\par
+retail   n.\'c1\'e3\'ca\'db   a.\'c1\'e3\'ca\'db\'b5\'c4\par
+retard   vt.\'d1\'d3\'b3\'d9\'a3\'ac\'b7\'c5\'c2\'fd\par
+retirement   n.\'cd\'cb\'d0\'dd\'a3\'ac\'d2\'fd\'cd\'cb\'a3\'bb\'cd\'cb\'d2\'fe\par
+retort   vt.&vi.\'b7\'b4\'bb\'f7\'a3\'bb\'b7\'b4\'b2\'b5\par
+reveal   vt.\'b8\'e6\'cb\'df\'a3\'ac\'bd\'d2\'ca\'be\'a3\'ac\'d0\'b9\'c2\'b6\par
+revenue   n.\'ca\'d5\'c8\'eb\'a3\'bb\'ca\'d5\'c8\'eb\'ca\'fd\'c4\'bf\par
+reverse   n.\'b1\'b3\'c3\'e6\'a3\'ac\'b7\'b4\'c3\'e6\par
+revive   vt.&vi.\'cb\'d5\'d0\'d1\'a3\'bb\'b8\'b4\'d0\'cb\par
+revolve   vt.&vi.(\'ca\'b9)\'d0\'fd\'d7\'aa\par
+ridicule   vi.&n.\'b3\'b0\'c5\'aa\'a3\'ac\'cd\'da\'bf\'e0\par
+rigorous   a.(\'d0\'d4\'b8\'f1\'b5\'c8)\'d1\'cf\'be\'fe\'b5\'c4\par
+rim   n.\'b1\'df\'a3\'bb\'b1\'df\'d4\'b5\'a3\'ac(\'d1\'db\'be\'b5)\'bf\'f2\par
+rinse   vt.\'e4\'cc\'a3\'ac\'cb\'d4\'a3\'bb\'b3\'e5\'cf\'b4\par
+riot   n.&vi.\'c9\'a7\'c2\'d2\'a3\'ac\'b1\'a9\'c2\'d2\par
+rip   vi.\'cb\'ba\'df\'fd\'a3\'ac\'b3\'b6\'c6\'c6\'a3\'ac\'bb\'ae\'c6\'c6\par
+ripple   n.\'c1\'b0\'e4\'f4\'a3\'ac\'cf\'b8\'c0\'cb\'a3\'ac\'b2\'a8\'ce\'c6\par
+roam   vt.\'d4\'da\'a1\'ad\'c2\'fe\'b2\'bd\'a3\'ac\'c2\'fe\'d3\'ce\par
+roller   n.\'b9\'f6\'d6\'f9\'a3\'ac\'b9\'f6\'cd\'b2\'a3\'ac\'b9\'f5\par
+Roman   n.\'c2\'de\'c2\'ed\'c8\'cb\'a3\'ac\'b9\'c5\'c2\'de\'c2\'ed\'c8\'cb\par
+romance   n.\'b4\'ab\'c6\'e6\'a3\'bb\'c0\'cb\'c2\'fe\'ce\'c4\'d1\'a7\par
+romantic   a.\'ba\'c3\'bb\'c3\'cf\'eb\'b5\'c4\par
+rooster   n.\'b9\'ab\'bc\'a6\'a3\'bb\'bf\'f1\'cd\'fd\'d7\'d4\'b8\'ba\'b5\'c4\'c8\'cb\par
+rotate   vt.&vi.(\'ca\'b9)\'d0\'fd\'d7\'aa\par
+roundabout   a.\'d3\'d8\'bb\'d8\'b5\'c4\'a3\'bb\'d7\'aa\'cd\'e4\'c4\'a8\'bd\'c7\'b5\'c4\par
+routine   a.\'c8\'d5\'b3\'a3\'b5\'c4   n.\'b3\'a3\'b9\'e6\par
+row   n.\'b3\'b3\'c8\'c2\'a3\'ac\'b3\'b3\'bc\'dc\'a3\'ac\'bf\'da\'bd\'c7\par
+royalty   n.\'bb\'ca\'bc\'d2\'a3\'ac\'cd\'f5\'d7\'e5\'a3\'ac\'bb\'ca\'d7\'e5\par
+ruby   n.\'ba\'ec\'b1\'a6\'ca\'af\par
+rule   n.\'b2\'c3\'be\'f6\'a3\'ac\'b2\'c3\'b6\'a8\par
+ruthless   a.\'ce\'de\'c7\'e9\'b5\'c4\'a3\'ac\'c0\'e4\'bf\'e1\'b5\'c4\par
+safeguard   n.\'b1\'a3\'bb\'a4\'b4\'eb\'ca\'a9\'a3\'bb\'bb\'a4\'d5\'d5\par
+salmon   n.\'f6\'d9\'a3\'ac\'b4\'f3\'c2\'ed\'b9\'fe\'d3\'e3\par
+salute   vt.\'d3\'ad\'bd\'d3\'a3\'ac\'bb\'b6\'d3\'ad\par
+sandwich   vt.\'bc\'d0\'c8\'eb\'a3\'ac\'bc\'b7\'bd\'f8\par
+sardine   n.\'c9\'b3\'b6\'a1\'d3\'e3\par
+satellite   n.\'b8\'bd\'ca\'f4\'ce\'ef\par
+satisfaction   n.\'bf\'ec\'ca\'c2\'a3\'ac\'c0\'d6\'ca\'c2\'a3\'bb\'d3\'e4\'bf\'ec\par
+satisfactorily   ad.\'d4\'b2\'c2\'fa\'b5\'d8\par
+saturation   n.\'b1\'a5\'ba\'cd(\'d7\'b4\'cc\'ac)\'a3\'bb\'bd\'fe\'cd\'b8\par
+Saturn   n.\'c5\'a9\'c9\'f1\'a3\'bb\'cd\'c1\'d0\'c7\par
+scan   n.\'c9\'a8\'c3\'e8\'a3\'ac\'c9\'a8\'c2\'d3\par
+scandal   n.\'b3\'f3\'ca\'c2\'a3\'ac\'b3\'f3\'ce\'c5\'a3\'bb\'b3\'dc\'c8\'e8\par
+scar   n.\'f1\'a3\'ba\'db\par
+scarcity   n.\'c8\'b1\'b7\'a6\'a3\'ac\'b2\'bb\'d7\'e3\'a3\'ac\'cf\'f4\'cc\'f5\par
+scarlet   n.\'d0\'c9\'ba\'ec\'c9\'ab   a.\'d0\'c9\'ba\'ec\'b5\'c4\par
+scheme   vt.\'bc\'c6\'bb\'ae   vi.\'b8\'e3\'d2\'f5\'c4\'b1\par
+scholarship   n.\'d1\'a7\'ce\'ca\'a3\'ac\'d1\'a7\'ca\'b6\'a3\'bb\'bd\'b1\'d1\'a7\'bd\'f0\par
+scoff   vt.&vi.\'b3\'b0\'d0\'a6\'a3\'ac\'b3\'b0\'c5\'aa\par
+scope   n.\'d1\'db\'bd\'e7\par
+scorch   vi.\'c9\'d5\'bd\'b9\'a3\'ac\'bf\'dd\'ce\'ae\'a3\'bb\'cd\'da\'bf\'e0\par
+scout   vt.\'cb\'d1\'cb\'f7\'a3\'ac\'d5\'ec\'b2\'ec\'a3\'ac\'b8\'fa\'d7\'d9\par
+scramble   vi.&n.\'c5\'c0\'d0\'d0\'a3\'ac\'c5\'ca\'b5\'c7\par
+scrap   n.\'cb\'e9\'c6\'ac\'a3\'bb\'b7\'cf\'c1\'cf   vt.\'b7\'cf\'c6\'fa\par
+scratch   n.\'c6\'f0\'c5\'dc\'cf\'df\'a3\'ac\'c6\'f0\'b2\'bd\'cf\'df\par
+scripture   n.\'a1\'b6\'ca\'a5\'be\'ad\'a1\'b7\'a3\'bb\'ca\'a5\'ca\'e9\par
+scrub   n.&vt.\'b2\'c1\'cf\'b4\'a3\'ac\'b2\'c1\'be\'bb\par
+sculpture   n.\'b5\'f1\'bf\'cc(\'ca\'f5)\'a3\'bb\'b5\'f1\'bf\'cc\'c6\'b7\par
+seam   n.\'b7\'ec\'bf\'da\'a3\'bb\'bd\'d3\'b7\'ec\'a3\'bb\'b9\'c7\'b7\'ec\par
+seaport   n.\'ba\'a3\'b8\'db\'a3\'ac\'b8\'db\'bf\'da\'a3\'ac\'b8\'db\'ca\'d0\par
+seaside   n.\'ba\'a3\'b1\'f5(\'ca\'a4\'b5\'d8)\'a3\'bb\'ba\'a3\'b1\'df\par
+second   vt.\'d6\'a7\'b3\'d6\par
+second-hand   n.\'be\'c9\'b5\'c4\'a3\'ac\'b5\'da\'b6\'fe\'ca\'d6\'b5\'c4\par
+section   n.\'c7\'d0\'cf\'c2\'b5\'c4\'b2\'bf\'b7\'d6\par
+seemingly   ad.\'b1\'ed\'c3\'e6\'c9\'cf\'a3\'ac\'cd\'e2\'b1\'ed\'c9\'cf\par
+segment   n.\'c7\'d0\'c6\'ac\'a3\'ac\'b2\'bf\'b7\'d6\'a3\'bb\'b6\'ce\'a3\'ac\'bd\'da\par
+selection   n.\'be\'ab\'d1\'a1\'b5\'c4\'b6\'ab\'ce\'f7\'a3\'bb\'d1\'a1\'d4\'f1\par
+senator   n.\'b2\'ce\'d2\'e9\'d4\'b1\'a3\'bb\'c6\'c0\'d2\'e9\'d4\'b1\par
+sensation   n.\'b8\'d0\'be\'f5\'a3\'ac\'d6\'aa\'be\'f5\'a3\'bb\'ba\'e4\'b6\'af\par
+senseless   a.\'d3\'de\'b4\'c0\'b5\'c4\'a3\'ac\'ce\'de\'d2\'e2\'d2\'e5\'b5\'c4\par
+sensible   a.\'c3\'f7\'cf\'d4\'b5\'c4\'a3\'ac\'b8\'d0\'be\'f5\'b5\'c3\'b5\'bd\'b5\'c4\par
+sensitivity   n.\'c3\'f4\'b8\'d0(\'d0\'d4)\'a3\'bb\'c1\'e9\'c3\'f4\'d0\'d4\par
+sensor   n.\'b4\'ab\'b8\'d0\'c6\'f7\'a3\'ac\'c1\'e9\'c3\'f4\'d4\'aa\'bc\'fe\par
+sentiment   n.\'b8\'d0\'c7\'e9\'a3\'bb\'c7\'e9\'b2\'d9\'a3\'bb\'c7\'e9\'d0\'f7\par
+sequence   n.\'d0\'f2\'c1\'d0\par
+sermon   n.\'b2\'bc\'b5\'c0\'a3\'ac\'bd\'b2\'b5\'c0\'a3\'ac\'cb\'b5\'bd\'cc\par
+serpent   n.\'c9\'df(\'d3\'c8\'d6\'b8\'b4\'f3\'c9\'df\'bb\'f2\'b6\'be\'c9\'df)\par
+set   n.\'bc\'af(\'ba\'cf)\par
+settlement   n.\'b5\'f7\'cd\'a3\'a3\'bb(\'d0\'c2)\'d7\'a1\'d5\'ac\'c7\'f8\par
+severe   a.\'bc\'a4\'c1\'d2\'b5\'c4\'a3\'bb\'bc\'f2\'c6\'d3\'b5\'c4\par
+shabby   a.\'f1\'dc\'f1\'da\'b5\'c4\'a3\'bb\'c6\'c6\'be\'c9\'b5\'c4\par
+shade   n.(\'c9\'ab\'b2\'ca\'b5\'c4)\'c5\'a8\'b5\'ad\'a3\'ac\'c9\'ee\'c7\'b3\par
+shadowy   a.\'d3\'d0\'d3\'b0\'b5\'c4\'a3\'bb\'d3\'c4\'b0\'b5\'b5\'c4\par
+shady   a.\'bf\'c9\'d2\'c9\'b5\'c4\'a3\'ac\'bf\'bf\'b2\'bb\'d7\'a1\'b5\'c4\par
+shaft   n.(\'b9\'a4\'be\'df\'b5\'c4)\'b1\'fa\'a3\'ac\'b8\'cb\'d7\'b4\'ce\'ef\par
+sham   n.\'bc\'d9\'c3\'b0\'a3\'bb\'e2\'df\'c6\'b7   vt.\'bc\'d9\'d7\'b0\par
+shame   vt.\'ca\'b9\'d0\'df\'c0\'a2\'a3\'ac\'e7\'e8\'c8\'e8\par
+shameful   a.\'bf\'c9\'b3\'dc\'b5\'c4\'a3\'bb\'b2\'bb\'b5\'c0\'b5\'c2\'b5\'c4\par
+shark   n.\'f6\'e8\'d3\'e3\'a3\'bb\'cc\'b0\'c0\'b7\'bd\'c6\'bb\'ab\'b5\'c4\'c8\'cb\par
+sharply   ad.\'d1\'cf\'c0\'f7\'b5\'d8\'a3\'ac\'bf\'c1\'bf\'cc\'b5\'d8\par
+shatter   vt.\'b7\'db\'cb\'e9\'a3\'ac\'c6\'c6\'cb\'e9\'a3\'bb\'bb\'d9\'bb\'b5\par
+sheer   a.\'b4\'bf\'b4\'e2\'b5\'c4\'a3\'bb\'c8\'ab\'c8\'bb\'b5\'c4\par
+shell   n.\'c5\'da\'b5\'af\'a3\'ac\'c1\'d4\'c7\'b9\'d7\'d3\'b5\'af\par
+sheriff   n.\'bf\'a4\'b3\'a4\'a3\'bb\'be\'af\'b2\'ec\'be\'d6\'b3\'a4\par
+shipbuilding   n.\'d4\'ec\'b4\'ac(\'d2\'b5)\'a3\'ac\'d4\'ec\'b4\'ac\'d1\'a7\par
+shipment   n.\'d7\'b0\'bb\'f5\'a3\'bb\'d7\'b0\'d4\'d8\'b5\'c4\'bb\'f5\'ce\'ef\par
+shipwreck   n.\'b4\'ac\'b2\'b0\'ca\'a7\'ca\'c2\par
+shortage   n.\'b6\'cc\'c8\'b1\'a3\'ac\'b2\'bb\'d7\'e3\'b6\'ee\par
+shortcut   n.\'bd\'fc\'c2\'b7\'a3\'ac\'bd\'dd\'be\'b6\par
+shorten   vt.\'c5\'aa\'b6\'cc\'a3\'ac\'cb\'f5\'d0\'a1\'a3\'ac\'bc\'f5\'c9\'d9\par
+shorthand   n.\'cb\'d9\'bc\'c7\'a3\'ac\'cb\'d9\'bc\'c7\'b7\'a8\par
+should   v.aux.\'d3\'a6\'b8\'c3\'a3\'ac\'be\'b9\'c8\'bb\'bb\'e1\par
+shoulder   vt.\'b3\'d0\'b5\'a3\'a3\'ac\'cc\'f4\'c6\'f0\'a3\'ac\'bc\'e7\'b8\'ba\par
+shove   vt.\'cd\'c6   vi.(\'ca\'b9\'be\'a2)\'cd\'c6\par
+shovel   n.\'b2\'f9\'a3\'ac\'cc\'fa\'b2\'f9   vt.\'b2\'f9\par
+shower   vi.\'cf\'c2\'d5\'f3\'d3\'ea   vt.\'ca\'b9\'ca\'aa\'cd\'b8\par
+shrill   a.\'bc\'e2\'c9\'f9\'b5\'c4   vt.\'bc\'e2\'c9\'f9\'b5\'d8\'bd\'d0\par
+shrimp   n.(\'d0\'a1)\'cf\'ba\'a3\'ac\'ba\'d3\'cf\'ba\'a3\'ac\'ba\'d6\'cf\'ba\par
+shrine   n.\'c9\'f1\'b5\'ee\'a3\'ac\'c9\'f1\'ed\'e8\'a3\'ac\'ca\'a5\'ec\'f4\par
+shrub   n.\'b9\'e0\'c4\'be\'a3\'ac\'b9\'e0\'c4\'be\'b4\'d4\par
+shrug   vt.&vi.\'cb\'ca(\'bc\'e7)   n.\'cb\'ca\'bc\'e7\par
+shutter   n.\'b0\'d9\'d2\'b6\'b4\'b0\'a3\'bb(\'cf\'e0\'bb\'fa)\'bf\'ec\'c3\'c5\par
+shuttle   n.(\'d6\'af\'bb\'fa\'b5\'c4)\'cb\'f3\par
+sideways   ad.\'d0\'b1\'cf\'f2\'d2\'bb\'b1\'df\'b5\'d8\par
+siege   n.\'b0\'fc\'ce\'a7\'a3\'ac\'ce\'a7\'b9\'a5\'a3\'ac\'ce\'a7\'c0\'a7\par
+sift   vt.\'c9\'b8\'a3\'ac\'b9\'fd\'c2\'cb   vi.\'cd\'a8\'b9\'fd\par
+sight   n.\'c7\'e9\'be\'b0\'a3\'ac\'c3\'fb\'ca\'a4\'a3\'ac\'b7\'e7\'be\'b0\par
+sign   n.\'d5\'f7\'d5\'d7\'a3\'ac\'bc\'a3\'cf\'f3\'a3\'ac\'b2\'a1\'d6\'a2\par
+significant   a.\'d3\'d0\'d0\'a7\'b5\'c4\par
+signify   vt.\'b1\'ed\'ca\'be\'a3\'ac\'d2\'e2\'ce\'b6\'d7\'c5\par
+silicon   n.\'b9\'e8(\'be\'c9\'c3\'fb\'ce\'f9)\par
+similarity   n.\'c0\'e0\'cb\'c6\'a3\'ac\'cf\'e0\'cb\'c6\'a3\'bb\'c0\'e0\'cb\'c6\'b5\'e3\par
+simple   a.\'b5\'a5\'b4\'bf\'b5\'c4\'a3\'bb\'b3\'d9\'b6\'db\'b5\'c4\par
+simplicity   n.\'b5\'a5\'b4\'bf\'a3\'ac\'d6\'ca\'c6\'d3\par
+simultaneous   a.\'cd\'ac\'ca\'b1\'b5\'c4\'a3\'ac\'cd\'ac\'ca\'b1\'b4\'e6\'d4\'da\'b5\'c4\par
+sincerity   n.\'d5\'e6\'b3\'cf\'a3\'ac\'b3\'cf\'d2\'e2\'a3\'bb\'d5\'e6\'ca\'b5\par
+singular   a.\'d2\'ec\'b3\'a3\'b5\'c4\'a3\'ac\'c6\'e6\'d2\'ec\'b5\'c4\par
+sink   n.(\'b3\'f8\'b7\'bf\'c4\'da\'b5\'c4)\'cf\'b4\'b5\'d3\'b2\'db\par
+siren   n.\'c6\'fb\'b5\'d1\'a3\'ac\'be\'af\'b1\'a8\'c6\'f7\par
+sitting-room   n.\'c6\'f0\'be\'d3\'ca\'d2\par
+situated   a.\'ce\'bb\'d3\'da\'a1\'ad\'b5\'c4\par
+situation   n.(\'bd\'a8\'d6\'fe\'ce\'ef\'b5\'c8\'b5\'c4)\'ce\'bb\'d6\'c3\par
+skeleton   n.\'b9\'c7\'f7\'c0\'a3\'ac\'f7\'bc\'f7\'c3\'a3\'bb\'b9\'c7\'bc\'dc\par
+skip   vi.\'cc\'f8\'a3\'bb\'cc\'f8\'c9\'fe\'a3\'bb\'c2\'d4\'b9\'fd\par
+skyscraper   n.\'c4\'a6\'cc\'ec\'c2\'a5\par
+slack   a.\'cf\'f4\'cc\'f5\'b5\'c4\'a3\'bb\'d0\'b8\'b5\'a1\'b5\'c4\par
+slander   n.&vt.\'b7\'cc\'b0\'f9\'a3\'ac\'da\'ae\'bb\'d9\par
+slang   n.\'d9\'b5\'d3\'ef\'a3\'bb\'d0\'d0\'bb\'b0\'a3\'ac\'ba\'da\'bb\'b0\par
+slap   vt.\'de\'e2\'a3\'ac\'c5\'c4   n.\'b0\'cd\'d5\'c6\'a3\'ac\'c5\'c4\par
+slaughter   vt.&n.\'cd\'c0\'c9\'b1\'a3\'ac\'cd\'c0\'d4\'d7\par
+slave   vi.\'d7\'f7\'bf\'e0\'b9\'a4   vt.\'c5\'ab\'d2\'db\par
+slide   n.\'bb\'ac\'b0\'e5\'a3\'ac\'bb\'ac\'d7\'f9\par
+slim   a.\'cf\'b8\'b3\'a4\'b5\'c4\'a3\'bb\'ce\'a2\'d0\'a1\'b5\'c4\par
+slit   vt.\'c7\'d0\'bf\'aa   n.\'cf\'c1\'b3\'a4\'b5\'c4\'c7\'d0\'bf\'da\par
+slumber   n.\'cb\'af\'c3\'df\'a3\'bb\'b3\'c1\'cb\'af\'d7\'b4\'cc\'ac\par
+smart   vi.\'b4\'cc\'cc\'db\'a3\'ac\'d4\'fa\'cc\'db\'a3\'ac\'be\'e7\'cd\'b4\par
+smash   vt.\'b4\'f2\'cb\'e9\'a3\'ac\'b4\'f2\'c6\'c6\'a3\'ac\'b7\'db\'cb\'e9\par
+smuggle   vt.\'cb\'bd\'d4\'cb   vi.\'d7\'df\'cb\'bd\par
+snack   n.\'bf\'ec\'b2\'cd\'a3\'ac\'d0\'a1\'b3\'d4\par
+snail   n.\'ce\'cf\'c5\'a3\'a3\'bb\'d0\'d0\'b6\'af\'bb\'ba\'c2\'fd\'b5\'c4\'c8\'cb\par
+snap   vt.\'c3\'cd\'d2\'a7\'a3\'ac\'cd\'bb\'c8\'bb\'d5\'db\'b6\'cf\par
+sneer   vi.&n.\'c0\'e4\'d0\'a6\'a3\'bb\'b3\'b0\'d0\'a6\par
+sneeze   vi.\'b4\'f2\'c5\'e7\'cc\'e7\par
+sniff   vi.\'d3\'c3\'b1\'c7\'d7\'d3\'ce\'fc   vt.\'d0\'e1\par
+snob   n.\'ca\'c6\'c0\'fb\'d0\'a1\'c8\'cb\par
+snobbish   a.\'ca\'c6\'c0\'fb\'b5\'c4\'a3\'ac\'da\'c6\'c9\'cf\'c6\'db\'cf\'c2\'b5\'c4\par
+snore   vi.\'b4\'f2\'f7\'fd\'a3\'ac\'b4\'f2\'ba\'f4\'e0\'e0\par
+sociology   n.\'c9\'e7\'bb\'e1\'d1\'a7\par
+sodium   n.\'c4\'c6\par
+sofa   n.\'b3\'a4\'c9\'b3\'b7\'a2\'a3\'ac\'c9\'b3\'b7\'a2\par
+soften   vt.\'ca\'b9\'c8\'ed\'bb\'af   vi.\'b1\'e4\'c8\'ed\'c8\'f5\par
+softness   n.\'ce\'c2\'ba\'cd\'a3\'ac\'c8\'e1\'ba\'cd\'a3\'bb\'c8\'ed\'c8\'f5\par
+software   n.(\'bc\'c6\'cb\'e3\'bb\'fa\'b5\'c4)\'c8\'ed\'bc\'fe\par
+solar   a.\'c0\'fb\'d3\'c3\'cc\'ab\'d1\'f4\'b9\'e2\'b5\'c4\par
+solidarity   n.\'cd\'c5\'bd\'e1\'a3\'bb\'d0\'dd\'c6\'dd\'cf\'e0\'b9\'d8\par
+solidify   vt.&vi.\'cd\'c5\'bd\'e1\'a3\'bb\'c4\'fd\'b9\'cc\par
+solo   n.\'b6\'c0\'b3\'aa\'a3\'ac\'b6\'c0\'d7\'e0\'a3\'bb\'b6\'c0\'b3\'aa\'c7\'fa\par
+sophisticated   a.\'c0\'cf\'d3\'da\'ca\'c0\'b9\'ca\'b5\'c4\'a3\'bb\'b8\'df\'bc\'b6\'b5\'c4\par
+sorrowful   a.\'ca\'b9\'c8\'cb\'c9\'cb\'d0\'c4\'b5\'c4\'a3\'bb\'b1\'af\'c9\'cb\'b5\'c4\par
+southwards   ad.\'cf\'f2\'c4\'cf\'b7\'bd\par
+sovereign   n.\'be\'fd\'d6\'f7   a.\'cd\'b3\'d6\'ce\'b5\'c4\par
+souvenir   n.\'bc\'cd\'c4\'ee\'c6\'b7\'a3\'ac\'bb\'c6\'b6\'b9\par
+soy   n.\'bd\'b4\'d3\'cd\'a3\'bb\'b4\'f3\'b6\'b9\'a3\'ac\'bb\'c6\'b6\'b9\par
+spacious   a.\'b9\'e3\'c0\'ab\'b5\'c4\'a3\'ac\'b9\'e3\'b4\'f3\'b5\'c4\par
+span   n.(\'c7\'c5\'b6\'d5\'bc\'e4\'b5\'c4)\'b6\'d5\'be\'e0\par
+spatial   a.\'bf\'d5\'bc\'e4\'b5\'c4\'a3\'ac\'d5\'bc\'be\'dd\'bf\'d5\'bc\'e4\'b5\'c4\par
+specialize   vt.\'ca\'b9\'d7\'a8\'c3\'c5\'bb\'af\'a3\'ac\'d7\'a8\'d2\'b5\'bb\'af\par
+species   n.\'d6\'d6\'a3\'ac\'ce\'ef\'d6\'d6\'a3\'bb\'d6\'d6\'c0\'e0\par
+specification   n.\'d4\'d8\'c3\'f7\'a3\'ac\'cf\'ea\'ca\'f6\'a3\'bb\'b9\'e6\'b8\'f1\par
+specimen   n.\'b3\'e9\'d1\'f9\'a3\'ac\'d1\'f9\'c6\'b7\par
+spectacle   n.\'b3\'a1\'c3\'e6\'a3\'bb\'be\'b0\'cf\'f3\'a3\'ac\'c6\'e6\'b9\'db\par
+spectator   n.\'b2\'ce\'b9\'db\'d5\'df\'a3\'ac\'b9\'db\'d6\'da\par
+spectrum   n.\'cf\'b5\'c1\'d0\'a3\'ac\'b7\'b6\'ce\'a7\'a3\'bb\'b2\'a8\'c6\'d7\par
+speculate   vi.\'cb\'bc\'cb\'f7\'a3\'ac\'b3\'c1\'cb\'bc\'a3\'bb\'cd\'b6\'bb\'fa\par
+spherical   a.\'c7\'f2\'d0\'ce\'b5\'c4\'a3\'ac\'c7\'f2\'c3\'e6\'b5\'c4\par
+spice   n.\'cf\'e3\'c1\'cf\'a3\'ac\'b5\'f7\'ce\'b6\'c6\'b7\'a3\'bb\'cf\'e3\'c6\'f8\par
+spill   n.(\'c8\'cb)\'cb\'a4\'cf\'c2\'a3\'ac\'b5\'f8\'cf\'c2\par
+spiral   a.\'c2\'dd\'d0\'fd(\'d0\'ce)\'b5\'c4\'a3\'ac\'c5\'cc\'d0\'fd\'b5\'c4\par
+spite   n.\'b6\'f1\'d2\'e2\'a3\'ac\'d4\'b9\'ba\'de\par
+splash   vt.\'bd\'a6\'c6\'c3   vi.\'c6\'c3\'cb\'ae   n.\'bd\'a6\par
+split   n.\'b7\'d6\'c1\'d1\'a3\'ac\'b7\'d6\'bb\'af\'a3\'bb\'c5\'c9\'cf\'b5\par
+spokesman   n.\'b7\'a2\'d1\'d4\'c8\'cb\'a3\'ac\'b4\'fa\'d1\'d4\'c8\'cb\par
+squash   vt.\'d1\'b9\'cb\'e9   n.\'cf\'ca\'b9\'fb\'d6\'ad\par
+squat   vi.&vt.(\'ca\'b9)\'b6\'d7\'cf\'c2\par
+squeeze   n.\'d1\'b9\'d5\'a5\'a3\'bb\'d5\'a5\'c8\'a1\'a3\'ac\'d3\'b6\'bd\'f0\par
+stability   n.\'bc\'e1\'b6\'a8\par
+stagger   vi.\'f5\'e7\'f5\'c7   vt.\'ca\'b9\'d2\'a1\'bb\'ce\par
+stainless   a.\'b4\'bf\'bd\'e0\'b5\'c4\'a3\'bb\'b2\'bb\'d0\'e2\'b5\'c4\par
+stairway   n.\'c2\'a5\'cc\'dd\par
+stalk   n.\'d6\'f7\'be\'a5\'a3\'ac\'d2\'b6\'b1\'fa\'a3\'bb\'b8\'df\'d1\'cc\'b4\'d1\par
+stall   n.\'bb\'f5\'cc\'af\'a3\'ac\'ca\'e9\'cc\'af\'a3\'bb\'be\'c7\par
+stammer   vt.\'bf\'da\'b3\'d4\'b5\'d8\'cb\'b5   n.\'bf\'da\'b3\'d4\par
+standardize   vt.\'ca\'b9\'d3\'eb\'b1\'ea\'d7\'bc\'b1\'c8\'bd\'cf\par
+start   vt.\'bf\'aa\'b6\'af\'a3\'ac\'d7\'c5\'ca\'d6\'a3\'bb\'bf\'aa\'c9\'e8\par
+stationery   n.\'ce\'c4\'be\'df\'a3\'bb\'d0\'c5\'bc\'e3\par
+statistics   n.\'cd\'b3\'bc\'c6\'a3\'ac\'cd\'b3\'bc\'c6\'ca\'fd\'d7\'d6\par
+steady   a.\'bc\'e1\'b6\'a8\'b5\'c4\'a3\'ac\'d4\'fa\'ca\'b5\'b5\'c4\par
+steak   n.\'b4\'f3\'bf\'e9\'c5\'a3\'c8\'e2\'a3\'bb\'c5\'a3\'c5\'c5\par
+steal   vt.\'cd\'b5\'cd\'b5\'b5\'d8\'d7\'f6\'a3\'ac\'c7\'c9\'c8\'a1\par
+stem   n.\'b4\'ca\'b8\'c9\'a3\'bb(\'ca\'d6\'b1\'ed\'b5\'c4)\'d7\'aa\'b1\'fa\par
+stereo   n.\'c1\'a2\'cc\'e5\'c9\'f9   a.\'c1\'a2\'cc\'e5\'c9\'f9\'b5\'c4\par
+stern   n.\'f4\'ba\'a3\'ac\'b4\'ac\'ce\'b2\'a3\'bb\'cd\'ce\'b2\'bf\par
+stew   vt.\'ec\'c0   vi.\'ec\'c0\'d7\'c5   n.\'ec\'c0\'c8\'e2\par
+stiff   a.\'c9\'fa\'d3\'b2\'b5\'c4\par
+stiffness   n.\'d3\'b2\'b6\'c8\par
+stillness   n.\'bc\'c5\'be\'b2\'a3\'ac\'ce\'de\'c9\'f9\par
+sting   n.\'be\'e7\'cd\'b4\'a3\'bb\'b4\'cc\'bc\'a4   vt.\'b4\'cc\par
+stitch   n.\'d2\'bb\'d5\'eb\'a3\'ac\'b7\'ec\'cf\'df   vt.\'b7\'ec\par
+stone   n.\'b9\'fb\'ba\'cb\'a3\'ac(\'cb\'ae\'b9\'fb\'b5\'c4)\'d3\'b2\'ba\'cb\par
+storage   n.\'d6\'fc\'b2\'d8\'a3\'ac\'b1\'a3\'b9\'dc\'a3\'bb\'b2\'d6\'bf\'e2\par
+storm   n.\'b1\'ac\'b7\'a2   vt.&vi.\'c3\'cd\'b9\'a5\par
+stout   a.\'b0\'ab\'c5\'d6\'b5\'c4\'a3\'bb\'bc\'e1\'b9\'cc\'b5\'c4\par
+straighten   vt.\'b0\'d1\'a1\'ad\'c5\'aa\'d6\'b1vi.\'cd\'a6\'c6\'f0\'c0\'b4\par
+straightforward   a.\'c0\'cf\'ca\'b5\'b5\'c4   ad.\'cc\'b9\'c2\'ca\'b5\'d8\par
+strait   n.\'ba\'a3\'cf\'bf\par
+strange   a.\'cd\'e2\'b5\'d8\'b5\'c4\'a3\'ac\'d2\'ec\'cf\'e7\'b5\'c4\par
+stray   vi.\'c3\'d4\'c2\'b7   a.\'c3\'d4\'c2\'b7\'b5\'c4\par
+streamline   n.\'c1\'f7\'cf\'df\'a3\'bb\'c1\'f7\'cf\'df\'d0\'cd\par
+strength   n.\'b1\'f8\'c1\'a6\'a3\'bb\'c7\'bf\'b6\'c8\par
+stride   vi.\'b4\'f3\'cc\'a4\'b2\'bd\'d7\'df   n.\'b4\'f3\'b2\'bd\par
+strife   n.\'b3\'e5\'cd\'bb\'a3\'ac\'be\'ba\'d5\'f9\par
+striking   a.\'cf\'d4\'d6\'f8\'b5\'c4\'a3\'ac\'be\'aa\'c8\'cb\'b5\'c4\par
+strip   n.\'d5\'ad\'cc\'f5\'a3\'ac\'b3\'a4\'b4\'f8\par
+strive   vi.\'c5\'ac\'c1\'a6\'a3\'ac\'b7\'dc\'b6\'b7\'a3\'ac\'c1\'a6\'c7\'f3\par
+stroll   n.\'c9\'a2\'b2\'bd\'a3\'ac\'c1\'ef\'b4\'ef\'a3\'ac\'cf\'d0\'b9\'e4\par
+stubborn   a.\'cd\'e7\'b9\'cc\'b5\'c4\'a3\'bb\'cd\'e7\'c7\'bf\'b5\'c4\par
+studio   n.\'b9\'a4\'d7\'f7\'ca\'d2\'a3\'bb\'b2\'a5\'d2\'f4\'ca\'d2\par
+stuffy   a.\'b2\'bb\'cd\'b8\'c6\'f8\'b5\'c4\'a3\'ac\'c3\'c6\'c8\'c8\'b5\'c4\par
+sturdy   a.\'bc\'e1\'b6\'a8\'b5\'c4\'a3\'bb\'c0\'ce\'b9\'cc\'b5\'c4\par
+subdivide   vt.\'b0\'d1\'a1\'ad\'d4\'d9\'b7\'d6\par
+subdue   vt.\'ca\'b9\'c7\'fc\'b7\'fe\'a3\'ac\'d5\'f7\'b7\'fe\par
+subject   vt.\'ca\'b9\'c1\'a5\'ca\'f4\par
+subordinate   a.\'cf\'c2\'bc\'b6\'b5\'c4\'a3\'ac\'b8\'a8\'d6\'fa\'b5\'c4\par
+subscribe   vi.\'b6\'a9\'b9\'ba\'a3\'ac\'c8\'cf\'b9\'ba\'a3\'bb\'d4\'a4\'b6\'a9\par
+subscript   a.\'d0\'b4\'d4\'da\'cf\'c2\'b7\'bd\'b5\'c4   n.\'cf\'c2\'b1\'ea\par
+subscription   n.\'d4\'a4\'d4\'bc\'a3\'ac\'d3\'c3\'bb\'a7\'a3\'ac\'b6\'a9\'d4\'c4\'b7\'d1\par
+subsequent   a.\'b6\'fb\'ba\'f3\'b5\'c4\par
+subsequently   ad.\'c6\'e4\'ba\'f3\'a3\'ac\'c6\'e4\'b4\'ce\'a3\'ac\'bd\'d3\'d7\'c5\par
+subsidiary   a.\'b8\'a8\'d6\'fa\'b5\'c4\'a3\'ac\'b2\'b9\'b3\'e4\'b5\'c4\par
+substance   n.\'b2\'c6\'b2\'fa\'a3\'bb\'c4\'da\'c8\'dd\'a3\'ac\'b1\'be\'d6\'bc\par
+substantial   a.\'ce\'ef\'d6\'ca\'b5\'c4\'a3\'bb\'bc\'e1\'b9\'cc\'b5\'c4\par
+subtle   a.\'ce\'a2\'c3\'ee\'b5\'c4\'a3\'bb\'be\'ab\'c7\'c9\'b5\'c4\par
+succession   n.\'bc\'cc\'b3\'d0(\'c8\'a8)\'a3\'ac\'ba\'f3\'d2\'e1\par
+successor   n.\'bc\'cc\'b3\'d0\'c8\'cb\'a3\'ac\'bc\'cc\'c8\'ce\'d5\'df\par
+suffice   vi.\'d7\'e3\'b9\'bb\'a3\'bb\'d3\'d0\'c4\'dc\'c1\'a6\par
+suicide   n.&vi.&vt.\'d7\'d4\'c9\'b1\par
+suit   vt.\'ca\'b9\'c5\'e4\'ba\'cfvi.\'b1\'cb\'b4\'cb\'d0\'ad\'b5\'f7\par
+suitcase   n.\'d0\'a1\'cc\'e1\'cf\'e4\'a3\'ac\'d2\'c2\'cf\'e4\par
+sullen   a.\'b1\'c1\'d7\'c5\'c1\'b3\'b2\'bb\'b8\'df\'d0\'cb\'b5\'c4\par
+summary   a.\'b8\'c5\'c0\'a8\'b5\'c4\'a3\'bb\'cb\'d9\'be\'f6\'b5\'c4\par
+summit   n.\'b6\'a5\'b5\'e3\'a3\'ac\'d7\'ee\'b8\'df\'b5\'e3\'a3\'bb\'bc\'ab\'b6\'c8\par
+summon   vt.\'d5\'d9\'bb\'bd\'a3\'bb\'b9\'c4\'c6\'f0(\'d3\'c2\'c6\'f8)\par
+superb   a.\'d7\'b3\'c0\'f6\'b5\'c4\'a3\'bb\'b3\'ac\'b5\'c8\'b5\'c4\par
+superficial   a.\'b1\'ed\'c3\'e6\'b5\'c4\'a3\'bb\'b7\'f4\'c7\'b3\'b5\'c4\par
+superiority   n.\'d3\'c5\'d4\'bd(\'d0\'d4)\'a3\'ac\'d3\'c5\'ca\'c6\par
+supersonic   a.\'b3\'ac\'c9\'f9\'b5\'c4\'a3\'ac\'b3\'ac\'c9\'f9\'cb\'d9\'b5\'c4\par
+superstition   n.\'c3\'d4\'d0\'c5\'a3\'ac\'c3\'d4\'d0\'c5\'d0\'d0\'ce\'aa\par
+supervise   vt.&vi.\'bc\'e0\'b6\'bd\'a3\'ac\'bc\'e0\'ca\'d3\par
+supplement   n.\'b2\'b9\'bd\'c7\par
+support   vt.\'be\'ad\'ca\'dc\'a3\'ac\'b3\'d0\'ca\'dc\'a3\'ac\'c8\'cc\'ca\'dc\par
+suppress   vt.\'d5\'f2\'d1\'b9\'a3\'bb\'d2\'d6\'d6\'c6\'a3\'bb\'d2\'fe\'c2\'f7\par
+surpass   vt.\'b3\'ac\'b9\'fd\'a3\'ac\'b3\'ac\'d4\'bd\'a3\'ac\'ca\'a4\'b9\'fd\par
+surplus   n.\'b9\'fd\'ca\'a3\'a3\'ac\'ca\'a3\'d3\'e0(\'ce\'ef\'d7\'ca)\par
+survival   n.\'d0\'d2\'b4\'e6\'a3\'ac\'b2\'d0\'b4\'e6\'a3\'bb\'d0\'d2\'b4\'e6\'d5\'df\par
+suspicious   a.\'bf\'c9\'d2\'c9\'b5\'c4\'a3\'bb\'b2\'c2\'d2\'c9\'b5\'c4\par
+sweeten   vt.\'ca\'b9\'b1\'e4\'cc\'f0   vi.\'b1\'e4\'cc\'f0\par
+sweetness   n.\'cc\'f0\'c3\'db\'a3\'bb\'d0\'c2\'cf\'ca\'a3\'bb\'ce\'c2\'ba\'cd\par
+swell   vi.&vt.\'ca\'b9\'c5\'f2\'d5\'cd\'a3\'ac\'c2\'a1\'c6\'f0\par
+switch   n.(\'ca\'f7\'c4\'be\'b5\'c4)\'c8\'ed\'d6\'a6\'cc\'f5\par
+symmetrical   a.\'b6\'d4\'b3\'c6\'b5\'c4\'a3\'ac\'d4\'c8\'b3\'c6\'b5\'c4\par
+symmetry   n.\'b6\'d4\'b3\'c6(\'d0\'d4)\'a3\'ac\'d4\'c8\'b3\'c6\par
+symphony   n.\'bd\'bb\'cf\'ec\'c0\'d6\'a3\'bb\'bd\'bb\'cf\'ec\'c0\'d6\'cd\'c5\par
+symposium   n.\'be\'c6\'bb\'e1\'a3\'bb\'d7\'f9\'cc\'b8\'bb\'e1\par
+symptom   n.\'d6\'a2\'d7\'b4\'a3\'ac\'d5\'f7\'ba\'f2\'a3\'ac\'d5\'f7\'d5\'d7\par
+synthesis   n.\'ba\'cf\'b3\'c9\'a3\'bb\'d7\'db\'ba\'cf\'a3\'ac\'d7\'db\'ba\'cf\'ce\'ef\par
+systematic   a.\'b3\'c9\'cc\'e5\'cf\'b5\'b5\'c4\'a3\'bb\'b7\'d6\'c0\'e0\'b5\'c4\par
+systematically   ad.\'cf\'b5\'cd\'b3\'b5\'d8\'a3\'ac\'d3\'d0\'b9\'e6\'d4\'f2\'b5\'d8\par
+tabulate   vt.\'b0\'d1\'a1\'ad\'d6\'c6\'b3\'c9\'b1\'ed\par
+tack   n.\'c6\'bd\'cd\'b7\'b4\'f2   vt.\'b6\'a4\'d7\'a1\par
+tackle   vt.\'bd\'e2\'be\'f6\'a3\'ac\'b6\'d4\'b8\'b6   n.\'d3\'c3\'be\'df\par
+tact   n.\'bb\'fa\'c3\'f4\'a3\'ac\'d4\'b2\'bb\'ac\'a3\'ac\'b5\'c3\'cc\'e5\par
+tactics   n.\'b2\'df\'c2\'d4\'a3\'bb\'d5\'bd\'ca\'f5\'a3\'ac\'b1\'f8\'b7\'a8\par
+tangle   vt.\'ca\'b9\'b2\'f8\'bd\'e1\'a3\'ac\'ca\'b9\'be\'c0\'b2\'f8\par
+tanker   n.\'d3\'cd\'b4\'ac\'a3\'bb\'bf\'d5\'d6\'d0\'bc\'d3\'d3\'cd\'b7\'c9\'bb\'fa\par
+tape   vt.\'cf\'b5\'a3\'ac\'c0\'a6\par
+taper   n.\'cf\'b8\'d0\'a1\'b5\'c4\'c0\'af\'d6\'f2\'a3\'bb\'ce\'a2\'b9\'e2\par
+tar   n.\'b0\'d8\'d3\'cd\'a3\'ac\'bd\'b9\'d3\'cd\par
+team   vi.\'d0\'ad\'d7\'f7\'a3\'ac\'ba\'cf\'d7\'f7\par
+tease   vt.\'b6\'ba\'c0\'d6\'a3\'ac\'cf\'b7\'c5\'aa\'a3\'bb\'c7\'bf\'c7\'f3\par
+telex   n.\'b5\'e7\'b4\'ab\'a3\'ac\'d3\'c3\'bb\'a7\'b5\'e7\'b1\'a8\par
+tempt   vt.\'d2\'fd\'d3\'d5\'a3\'ac\'d3\'d5\'bb\'f3\'a3\'ac\'c8\'b0\'d3\'d5\par
+tensile   a.\'d5\'c5\'c1\'a6\'b5\'c4\'a3\'bb\'c4\'dc\'c9\'ec\'b3\'a4\'b5\'c4\par
+terminal   n.\'bc\'c6\'cb\'e3\'bb\'fa\'d6\'d5\'b6\'cb\'a3\'bb\'cf\'df\'bd\'d3\'cd\'b7\par
+terminate   vt.&vi.\'cd\'a3\'d6\'b9\'a3\'ac\'d6\'d5\'d6\'b9\par
+terminology   n.\'ca\'f5\'d3\'ef\'d1\'a7\'a3\'ac\'ca\'f5\'d3\'ef\par
+terrace   n.\'c6\'bd\'cc\'a8\'a3\'ac\'d1\'f4\'cc\'a8\'a3\'ac\'c2\'b6\'cc\'a8\par
+terrify   vt.\'ca\'b9\'bf\'d6\'b2\'c0\'a3\'ac\'ca\'b9\'be\'aa\'cf\'c5\par
+terrorist   n.\'bf\'d6\'b2\'c0\'b7\'d6\'d7\'d3\par
+testify   v.\'d6\'a4\'c3\'f7\'a3\'ac\'d6\'a4\'ca\'b5\'a3\'ac\'d7\'f7\'d6\'a4\par
+theatre   n.\'cf\'b7\'be\'e7\'d0\'a7\'b9\'fb\par
+theft   n.\'b5\'c1\'c7\'d4\'a3\'ac\'cd\'b5\'c7\'d4(\'d0\'d0\'ce\'aa)\par
+theme   n.\'cc\'e2\'c4\'bf\'a3\'bb\'b4\'ca\'b8\'c9\'a3\'bb\'d6\'f7\'d0\'fd\'c2\'c9\par
+theorem   n.\'b6\'a8\'c0\'ed\'a3\'bb\'d4\'ad\'c0\'ed\'a3\'ac\'d4\'ad\'d4\'f2\par
+theory   n.\'bc\'fb\'bd\'e2\'a3\'ac\'bf\'b4\'b7\'a8\'a3\'ac\'cd\'c6\'b2\'e2\par
+thereafter   ad.\'b4\'cb\'ba\'f3\'a3\'ac\'d2\'d4\'ba\'f3\par
+therein   ad.\'d4\'da\'c4\'c7\'c0\'ef\'a3\'ac\'d4\'da\'c4\'c7\'ca\'b1\par
+thereof   ad.\'cb\'fc\'b5\'c4\'a3\'ac\'c6\'e4\'a3\'bb\'d3\'c9\'b4\'cb\par
+thermal   a.\'c8\'c8\'b5\'c4\'a3\'bb\'ce\'c2\'c8\'aa\'b5\'c4\par
+thesis   n.\'c2\'db\'cc\'e2\'a3\'ac\'c2\'db\'b5\'e3\'a3\'bb\'c2\'db\'ce\'c4\par
+thicken   vt.\'ca\'b9\'b1\'e4\'ba\'f1(\'bb\'f2\'b4\'d6\'a1\'a2\'c3\'dc)\par
+thigh   n.\'b9\'c9\'a3\'ac\'b4\'f3\'cd\'c8\par
+thorough   a.\'be\'ab\'d0\'c4\'b5\'c4\'a3\'bb\'cf\'ea\'be\'a1\'b5\'c4\par
+thoughtless   a.\'c7\'b7\'bf\'bc\'c2\'c7\'b5\'c4\'a3\'bb\'d7\'d4\'cb\'bd\'b5\'c4\par
+thrash   vt.\'cd\'b4\'b4\'f2\'a3\'ac\'b1\'de\'b4\'f2   vi.\'b4\'f2\par
+thresh   vt.\'b4\'f2\'b9\'c8\'a3\'ac\'cd\'d1\'c1\'a3\'a3\'bb\'cd\'c6\'c7\'c3\par
+threshold   n.\'c3\'c5\'bc\'f7\'a3\'bb\'c8\'eb\'c3\'c5\'a3\'ac\'bf\'aa\'b6\'cb\par
+thrifty   a.\'bd\'da\'bc\'f3\'b5\'c4\'a3\'bb\'d0\'cb\'cd\'fa\'b5\'c4\par
+thrill   vt.&vi.(\'ca\'b9)\'bc\'a4\'b6\'af\par
+through   prep.\'d2\'f2\'ce\'aa\'a3\'ac\'d3\'c9\'d3\'da\par
+ticket   n.(\'bd\'bb\'cd\'a8\'ce\'a5\'d5\'c2)\'b7\'a3\'bf\'ee\'b4\'ab\'c6\'b1\par
+tickle   vt.\'c4\'d3\'a3\'ac\'b8\'ec\'d6\'ab\'a3\'bb\'b6\'ba\'c0\'d6\par
+tighten   vt.&vi.(\'ca\'b9)\'b1\'e4\'bd\'f4\par
+tightly   ad.\'bd\'f4\'b5\'d8\'a3\'ac\'c0\'ce\'b9\'cc\'b5\'d8\par
+tile   n.\'cd\'df\'c6\'ac\'a3\'ac\'b4\'c9\'d7\'a9\'a3\'bb\'cc\'f9\'d7\'a9\par
+tilt   vt.&vi.(\'ca\'b9)\'c7\'e3\'d0\'b1\par
+timely   a.\'bc\'b0\'ca\'b1\'b5\'c4\'a3\'bb\'ca\'ca\'ca\'b1\'b5\'c4\par
+tiresome   a.\'ca\'b9\'c8\'cb\'d1\'e1\'be\'eb\'b5\'c4\'a3\'ac\'cc\'d6\'d1\'e1\'b5\'c4\par
+toad   n.\'f3\'b8\'f2\'dc\'a3\'ac\'f1\'ae\'b8\'f2\'f3\'a1\par
+token   n.\'cf\'f3\'d5\'f7\'a3\'bb\'b8\'a8\'b1\'d2\'a3\'bb\'bc\'cd\'c4\'ee\'c6\'b7\par
+tolerant   a.\'c8\'dd\'c8\'cc\'b5\'c4\'a3\'bb\'d3\'d0\'c4\'cd\'c1\'a6\'b5\'c4\par
+tone   n.\'c9\'ab\'b5\'f7\'a3\'ac\'b9\'e2\'b6\'c8\'a3\'bb\'b7\'e7\'c6\'f8\par
+torment   n.\'cd\'b4\'bf\'e0   vt.\'d5\'db\'c4\'a5\par
+torpedo   n.\'d3\'e3\'c0\'d7\'a3\'ac\'cb\'ae\'c0\'d7\par
+torque   n.\'d7\'aa(\'c1\'a6)\'be\'d8\'a3\'ac\'c5\'a4(\'c1\'a6)\'be\'d8\par
+toss   vi.\'b7\'ad\'c0\'b4\'b8\'b4\'c8\'a5\par
+tow   vt.&n.\'cd\'cf\'d2\'fd\'a3\'ac\'c7\'a3\'d2\'fd\par
+towards   prep.\'ce\'aa\'c1\'cb\'a3\'ac\'d3\'d0\'d6\'fa\'d3\'da\par
+tower   vi.\'b8\'df\'cb\'ca\'a3\'ac\'d2\'d9\'c1\'a2\'a3\'bb\'b0\'bf\'cf\'e8\par
+track   vi.\'c1\'f4\'cf\'c2\'d7\'e3\'bc\'a3\par
+trade   vi.\'d7\'f6\'c2\'f2\'c2\'f4\'a3\'bb\'bd\'bb\'bb\'bb\par
+trader   n.\'c9\'cc\'c8\'cb\'a3\'bb\'c9\'cc\'b4\'ac\par
+tradesman   n.\'c9\'cc\'c8\'cb\'a3\'bb\'ca\'d6\'d2\'d5\'c8\'cb\par
+tragic   a.\'b1\'af\'be\'e7\'d0\'d4\'b5\'c4\'a3\'ac\'b1\'af\'b2\'d2\'b5\'c4\par
+tramp   vt.&vi.&n.\'b2\'bd\'d0\'d0\'a3\'ac\'b0\'cf\'c9\'e6\par
+trample   vt.&vi.&n.\'bc\'f9\'cc\'a4\'a3\'ac\'f5\'e5\'f5\'ef\par
+tranquil   a.\'c6\'bd\'be\'b2\'b5\'c4\'a3\'bb\'ce\'c8\'b6\'a8\'b5\'c4\par
+transaction   n.\'b4\'a6\'c0\'ed\'a3\'bb\'bd\'bb\'d2\'d7\'a3\'bb\'ba\'cd\'bd\'e2\par
+transform   vt.\'b1\'e4\'d1\'b9\'a3\'bb\'b1\'e4\'bb\'bb\par
+transition   n.\'d7\'aa\'b1\'e4\'a3\'ac\'b1\'e4\'c7\'a8\'a3\'bb\'b9\'fd\'b6\'c9\par
+transmission   n.\'d2\'c5\'b4\'ab\'a3\'ac\'b4\'ab\'c8\'be\par
+transplant   vt.&vi.\'d2\'c6\'d6\'b2\'a3\'ac\'d2\'c6\'d6\'d6\par
+transverse   a.\'ba\'e1\'c7\'d0\'b5\'c4   n.\'ba\'e1\'d6\'e1\par
+traverse   vt.\'ba\'e1\'d4\'bd\'a3\'ac\'ba\'e1\'c7\'d0\'a3\'ac\'ba\'e1\'b6\'cf\par
+tread   vi.&vt.\'b2\'c8\'a3\'ac\'cc\'a4\'a3\'ac\'bc\'f9\'cc\'a4\par
+treasurer   n.\'cb\'be\'bf\'e2\'a3\'ac\'b2\'c6\'ce\'f1\'d6\'f7\'b9\'dc\par
+trench   n.\'c9\'ee\'b9\'b5\'a3\'bb\'ba\'be\'b9\'b5\'a3\'ac\'d5\'bd\'ba\'be\par
+triangular   a.\'c8\'fd\'bd\'c7\'b5\'c4\'a3\'bb\'c8\'fd\'d5\'df\'bc\'e4\'b5\'c4\par
+tribute   n.\'b9\'b1\'ce\'ef\'a3\'bb\'cf\'d7\'c0\'f1\'a3\'ac\'b9\'b1\'cf\'d7\par
+trifle   vi.\'cd\'e6\'ba\'f6\'a3\'bb\'cf\'d0\'bb\'ec\'a3\'bb\'e6\'d2\'cb\'a3\par
+trigger   n.\'b0\'e2\'bb\'fa   vt.\'b4\'a5\'b7\'a2\'a3\'ac\'d2\'fd\'c6\'f0\par
+triumphant   a.\'b5\'c3\'ca\'a4\'b5\'c4\'a3\'bb\'b5\'c3\'d2\'e2\'d1\'f3\'d1\'f3\'b5\'c4\par
+trivial   a.\'cb\'f6\'cb\'e9\'b5\'c4\'a3\'bb\'c6\'bd\'b3\'a3\'b5\'c4\par
+trolley   n.\'ca\'d6\'cd\'c6\'b3\'b5\'a3\'bb\'ce\'de\'b9\'ec\'b5\'e7\'b3\'b5\par
+troop   n.\'d2\'bb\'c8\'ba\'a3\'ac\'d2\'bb\'b6\'d3\'a3\'ac\'b4\'f3\'c1\'bf\par
+tropic   n.\'c8\'c8\'b4\'f8\'b5\'d8\'c7\'f8\'a3\'bb\'bb\'d8\'b9\'e9\'cf\'df\par
+tropical   a.\'c8\'c8\'b4\'f8\'b5\'c4\'a3\'bb\'d1\'d7\'c8\'c8\'b5\'c4\par
+trot   vi.&n.(\'c2\'ed)\'d0\'a1\'c5\'dc\'a3\'ac\'c2\'fd\'c5\'dc\par
+troublesome   a.\'c0\'db\'d7\'b8\'b5\'c4\'a3\'ac\'c0\'a7\'c4\'d1\'b5\'c4\par
+tuberculosis   n.\'bd\'e1\'ba\'cb\'b2\'a1\'a3\'ac\'b7\'ce\'bd\'e1\'ba\'cb\par
+tug   vi.\'d3\'c3\'c1\'a6\'cd\'cf   n.\'c3\'cd\'c0\'ad\'a3\'ac\'cd\'cf\par
+tulip   n.\'d3\'f4\'bd\'f0\'cf\'e3\par
+tuna   n.\'bd\'f0\'c7\'b9\'d3\'e3\par
+turtle   n.\'ba\'a3\'b9\'ea\'a3\'ac\'e7\'e9\'e8\'a3\'a3\'bb\'bc\'d7\'d3\'e3\'c8\'e2\par
+tutor   vt.\'bd\'cc\'a3\'ac\'d6\'b8\'b5\'bc\par
+twilight   n.\'c0\'e8\'c3\'f7\'a3\'ac\'bb\'c6\'bb\'e8\'a3\'bb\'ca\'ef\'b9\'e2\par
+twist   v.\'cd\'e1\'c7\'fa\'a3\'ac\'c7\'fa\'bd\'e2\par
+tyranny   n.\'b1\'a9\'d5\'fe\'a3\'ac\'d7\'a8\'d6\'c6\'a3\'bb\'b2\'d0\'b1\'a9\par
+tyrant   n.\'b1\'a9\'be\'fd\'a3\'bb\'d7\'a8\'d6\'c6\'be\'fd\'d6\'f7\par
+ultimate   a.\'bb\'f9\'b1\'be\'b5\'c4\'a3\'ac\'ca\'d7\'d2\'aa\'b5\'c4\par
+ultrasonic   a.\'b3\'ac\'c9\'f9\'b5\'c4   n.\'b3\'ac\'c9\'f9\'b2\'a8\par
+ultraviolet   a.\'d7\'cf\'cd\'e2\'b5\'c4n.\'d7\'cf\'cd\'e2\'cf\'df\'b7\'f8\'c9\'e4\par
+unanimous   a.(\'c8\'ab\'cc\'e5)\'d2\'bb\'d6\'c2\'b5\'c4\par
+uncertain   a.\'b2\'bb\'b6\'a8\'b5\'c4\'a3\'bb\'ce\'de\'b3\'a3\'b5\'c4\par
+underestimate   vt.\'b5\'cd\'b9\'c0\'a3\'ac\'bf\'b4\'c7\'e1\par
+underline   vt.\'d7\'c5\'d6\'d8\'a3\'bb\'d4\'a4\'b8\'e6\par
+undertake   vt.\'d4\'bc\'b6\'a8\'a3\'ac\'b1\'a3\'d6\'a4\'a3\'bb\'b4\'d3\'ca\'c2\par
+undertaking   n.\'c8\'ce\'ce\'f1\'a3\'ac\'ca\'c2\'d2\'b5\'a3\'bb\'b3\'d0\'b5\'a3\par
+underwear   n.\'c9\'c0\'d2\'c2\'a3\'ac\'c4\'da\'d2\'c2\'a3\'ac\'cc\'f9\'c9\'ed\'d2\'c2\par
+undesirable   a.\'b2\'bb\'ba\'cf\'d0\'e8\'d2\'aa\'b5\'c4\'a3\'bb\'cc\'d6\'d1\'e1\'b5\'c4\par
+uneasy   a.\'b2\'bb\'b0\'b2\'b5\'c4\'a3\'bb\'be\'d0\'ca\'f8\'b5\'c4\par
+unemployment   n.\'ca\'a7\'d2\'b5\'a3\'bb\'ca\'a7\'d2\'b5\'c8\'cb\'ca\'fd\par
+unfit   a.\'b2\'bb\'ba\'cf\'ca\'ca\'b5\'c4\'a3\'bb\'ce\'de\'c4\'dc\'c1\'a6\'b5\'c4\par
+unfold   vt.\'d5\'b9\'bf\'aa   vi.\'b3\'ca\'cf\'d6\par
+uniformly   ad.\'cf\'e0\'cd\'ac\'b5\'d8\'a3\'bb\'d2\'bb\'b9\'e1\par
+unique   a.\'ce\'de\'bf\'c9\'c6\'a5\'b5\'d0\'b5\'c4\'a3\'bb\'bc\'ab\'ba\'c3\'b5\'c4\par
+universally   ad.\'c6\'d5\'b1\'e9\'b5\'d8\'a3\'ac\'d2\'bb\'b0\'e3\'b5\'d8\par
+unlimited   a.\'ce\'de\'cf\'de\'b5\'c4\'a3\'bb\'b2\'bb\'b6\'a8\'b5\'c4\par
+unlock   vt.\'bf\'aa\'a1\'ad\'b5\'c4\'cb\'f8\'a3\'bb\'bf\'aa\'c6\'f4\par
+unpaid   a.\'ce\'b4\'b8\'b6\'b5\'c4\'a3\'bb\'b2\'bb\'d6\'a7\'d0\'bd\'cb\'ae\'b5\'c4\par
+unreasonable   a.\'b2\'bb\'bd\'b2\'b5\'c0\'c0\'ed\'b5\'c4\'a3\'bb\'b9\'fd\'b6\'c8\'b5\'c4\par
+untie   vt.\'bd\'e2\'bf\'aa\'a3\'ac\'cb\'c9\'bf\'aa\'a3\'bb\'bd\'e2\'b7\'c5\par
+uphold   vt.\'be\'d9\'c6\'f0\'a3\'bb\'d6\'a7\'b3\'c5\'a3\'bb\'d4\'de\'b3\'c9\par
+uproar   n.\'c9\'a7\'b6\'af\'a3\'ac\'c8\'c5\'c2\'d2\'a3\'bb\'d0\'fa\'cf\'f9\par
+uranium   n.\'d3\'cb\par
+urge   vt.&vi.\'c7\'bf\'c1\'d2\'cf\'a3\'cd\'fb\par
+usage   n.\'cf\'b0\'b9\'df\'b7\'a8\par
+utensil   n.\'c6\'f7\'c3\'f3\'a3\'ac\'d3\'c3\'be\'df\par
+utilization   n.\'c0\'fb\'d3\'c3\'a3\'ac\'d0\'a7\'d3\'c3\par
+vaccinate   vt.\'b8\'f8\'a1\'ad\'d6\'d6\'c5\'a3\'b6\'bb\par
+validity   n.\'d3\'d0\'d0\'a7\'a3\'ac\'d0\'a7\'c1\'a6\'a3\'bb\'d5\'fd\'c8\'b7\par
+valuable   n.\'b9\'f3\'d6\'d8\'ce\'ef\'c6\'b7\'a3\'ac\'b2\'c6\'b1\'a6\par
+value   vt.\'d7\'f0\'d6\'d8\'a3\'ac\'d6\'d8\'ca\'d3\'a3\'ac\'c6\'c0\'bc\'db\par
+valve   n.\'b7\'a7\'a3\'ac\'b7\'a7\'c3\'c5\'a3\'bb\'b5\'e7\'d7\'d3\'b9\'dc\par
+vault   n.\'b9\'b0\'b6\'a5\'a3\'bb\'b5\'d8\'cf\'c2\'ca\'d2\'a3\'ac\'b5\'d8\'bd\'d1\par
+vector   n.\'ca\'b8\'c1\'bf\'a3\'bb\'b7\'c9\'bb\'fa\'ba\'bd\'cf\'df\par
+veil   vt.\'d2\'d4\'c3\'e6\'c9\'b4\'d5\'da\'d1\'davi.\'d5\'da\'b8\'c7\par
+vein   n.\'be\'b2\'c2\'f6\'a3\'ac\'d1\'aa\'b9\'dc\'a3\'ac\'bf\'f3\'c2\'f6\par
+velocity   n.\'d1\'b8\'cb\'d9\'a3\'ac\'bf\'ec\'cb\'d9\par
+velvet   a.\'cb\'bf\'c8\'de\'d6\'c6\'b5\'c4\'a3\'bb\'c8\'e1\'c8\'ed\'b5\'c4\par
+vengeance   n.\'b1\'a8\'b8\'b4\'a3\'ac\'b1\'a8\'b3\'f0\'a3\'ac\'b8\'b4\'b3\'f0\par
+ventilate   vt.\'ca\'b9\'cd\'a8\'b7\'e7\'a3\'ac\'ca\'b9\'bb\'bb\'c6\'f8\par
+Venus   n.\'ce\'ac\'c4\'c9\'cb\'b9\'a3\'bb\'c3\'c0\'c8\'cb\'a3\'bb\'c9\'ab\'c7\'e9\par
+verge   n.\'b1\'df\'d4\'b5\'a3\'ac\'b1\'df\'bd\'e7\'a3\'ac\'bd\'e7\'cf\'de\par
+versatile   a.\'b6\'e0\'b7\'bd\'c3\'e6\'b5\'c4\'a3\'bb\'cd\'a8\'d3\'c3\'b5\'c4\par
+verse   n.\'ca\'ab\'a3\'ac\'d4\'cf\'ce\'c4\'a3\'bb\'ca\'ab\'d0\'d0\par
+version   n.\'bd\'e2\'ca\'cd\par
+versus   prep.(\'b1\'c8\'c8\'fc\'b5\'c8\'d6\'d0)\'b6\'d4\par
+veto   n.\'b7\'f1\'be\'f6\'a3\'ac\'b7\'f1\'be\'f6\'c8\'a8\'a3\'ac\'bd\'fb\'d6\'b9\par
+vicinity   n.\'c1\'da\'bd\'fc\'a3\'bb\'b8\'bd\'bd\'fc\'b5\'d8\'c7\'f8\par
+vicious   a.\'d0\'b0\'b6\'f1\'b5\'c4\'a3\'bb\'b6\'f1\'d0\'d4\'b5\'c4\par
+video   a.\'c2\'bc\'cf\'f3\'b5\'c4\par
+vigorous   a.\'be\'ab\'c1\'a6\'cd\'fa\'ca\'a2\'b5\'c4\'a3\'ac\'d7\'c2\'d7\'b3\'b5\'c4\par
+vigour   n.\'bb\'ee\'c1\'a6\'a3\'ac\'be\'ab\'c1\'a6\'a3\'bb\'d4\'aa\'c6\'f8\par
+villa   n.\'b1\'f0\'ca\'fb\'a3\'bb\'b3\'c7\'bd\'bc\'d0\'a1\'ce\'dd\par
+vine   n.\'c2\'fb\'a3\'ac\'cc\'d9\'a3\'ac\'cc\'d9\'b1\'be\'d6\'b2\'ce\'ef\par
+violate   vt.\'ce\'a5\'b7\'b8\'a3\'ac\'ce\'a5\'b1\'b3\'a3\'bb\'c7\'d6\'b7\'b8\par
+violation   n.\'ce\'a5\'b7\'b8\'a3\'bb\'c7\'d6\'b7\'b8\'a3\'ac\'b7\'c1\'b0\'ad\par
+violent   a.\'bf\'f1\'b1\'a9\'b5\'c4\'a3\'bb\'cd\'e1\'c7\'fa\'b5\'c4\par
+virgin   n.\'b4\'a6\'c5\'ae   a.\'b4\'a6\'c5\'ae\'b5\'c4\par
+virtual   a.\'ca\'b5\'bc\'ca\'c9\'cf\'b5\'c4\'a3\'ac\'ca\'b5\'d6\'ca\'c9\'cf\'b5\'c4\par
+visa   n.\'c7\'a9\'d6\'a4\par
+viscous   a.\'d5\'b3\'d6\'cd\'b5\'c4\'a3\'ac\'d5\'b3\'d0\'d4\'b5\'c4\par
+vision   n.\'ca\'d3\'c1\'a6\'a3\'bb\'d1\'db\'b9\'e2\'a3\'ac\'cf\'eb\'cf\'f3\'c1\'a6\par
+visit   vt.\'b3\'a3\'c8\'a5\par
+vital   a.\'c9\'fa\'c3\'fc\'b5\'c4\'a3\'ac\'c9\'fa\'bb\'fa\'b5\'c4\par
+vitamin   n.\'ce\'ac\'c9\'fa\'cb\'d8\'a3\'ac\'ce\'ac\'cb\'fb\'c3\'fc\par
+vocabulary   n.\'b4\'ca\'bb\'e3\'b1\'ed\'a3\'ac\'b4\'ca\'bb\'e3\'bb\'e3\'b1\'e0\par
+vocation   n.\'d6\'b0\'d2\'b5\'a3\'ac\'d0\'d0\'d2\'b5\par
+void   a.\'bf\'d5\'b5\'c4\'a3\'bb\'ce\'de\'d0\'a7\'b5\'c4\par
+volunteer   n.\'d6\'be\'d4\'b8\'d5\'df   vt.\'d6\'be\'d4\'b8\par
+vow   n.\'ca\'c4\'d1\'d4\'a3\'ac\'ca\'c4\'d4\'bc\'a3\'ac\'d0\'ed\'d4\'b8\par
+vowel   n.\'d4\'aa\'d2\'f4\'a3\'bb\'d4\'aa\'d2\'f4\'d7\'d6\'c4\'b8\par
+vulgar   a.\'b4\'d6\'cb\'d7\'b5\'c4\'a3\'ac\'d3\'b9\'cb\'d7\'b5\'c4\par
+wade   vt.\'cc\'cb(\'ba\'d3)\'a3\'ac\'b0\'cf\'c9\'e6\par
+wag   vt.\'d2\'a1\'a3\'ac\'d2\'a1\'b0\'da\'a3\'ac\'b0\'da\'b6\'af\par
+waggon   n.\'b3\'a8\'c5\'ee\'b3\'b5\'cf\'e1\par
+waitress   n.\'c5\'ae\'ca\'cc\'d5\'df\'a3\'ac\'c5\'ae\'b7\'fe\'ce\'f1\'d4\'b1\par
+walnut   n.\'ba\'fa\'cc\'d2\'a3\'ac\'ba\'cb\'cc\'d2\'ca\'f7\par
+ward   n.\'b2\'a1\'b7\'bf\'a3\'ac\'b2\'a1\'ca\'d2\'a3\'bb\'bc\'e0\'b7\'bf\par
+wardrobe   n.\'d2\'c2\'b9\'f1\'a3\'ac\'d2\'c2\'b3\'f7\'a3\'ac\'b2\'d8\'d2\'c2\'ca\'d2\par
+ware   n.\'c9\'cc\'c6\'b7\'a3\'ac\'bb\'f5\'ce\'ef\'a3\'bb\'ce\'ef\'c6\'b7\par
+warehouse   n.\'b2\'d6\'bf\'e2\'a3\'ac\'bb\'f5\'d5\'bb\par
+warfare   n.\'d5\'bd\'d5\'f9\'a3\'ac\'d5\'bd\'d5\'f9\'d7\'b4\'cc\'ac\par
+warning   n.\'be\'af\'b8\'e6\'a3\'ac\'b8\'e6\'bd\'eb\'a3\'ac\'bc\'f8\'bd\'eb\par
+warrant   n.\'d0\'ed\'bf\'c9\'d6\'a4\'a3\'ac\'ce\'af\'c8\'ce\'d7\'b4\par
+wasp   n.\'bb\'c6\'b7\'e4\'a3\'ac\'c2\'ec\'b7\'e4\par
+wasteful   a.\'c0\'cb\'b7\'d1\'b5\'c4\'a3\'bb\'c6\'c6\'bb\'b5\'d0\'d4\'b5\'c4\par
+watchful   a.\'d7\'a2\'d2\'e2\'b5\'c4\'a3\'ac\'be\'af\'cc\'e8\'b5\'c4\par
+watertight   a.\'b2\'bb\'c2\'a9\'cb\'ae\'b5\'c4\'a3\'ac\'b7\'c0\'cb\'ae\'b5\'c4\par
+watery   a.\'cb\'ae\'b5\'c4\'a3\'bb\'ca\'aa\'b5\'c4\'a3\'bb\'b7\'a6\'ce\'b6\'b5\'c4\par
+watt   n.\'cd\'df(\'cc\'d8)\par
+waver   vi.\'d2\'a1\'b0\'da\'a3\'bb\'d3\'cc\'d4\'a5\'b2\'bb\'be\'f6\par
+way   n.\'d7\'b4\'cc\'ac\'a3\'ac\'d7\'b4\'bf\'f6\'a3\'ac\'b9\'e6\'c4\'a3\par
+weaver   n.\'d6\'af\'b2\'bc\'b9\'a4\'a3\'ac\'b1\'e0\'d6\'af\'d5\'df\par
+web   n.\'cd\'f8\'a3\'ac\'cb\'bf\'a3\'ac\'cd\'f8\'d7\'b4\'ce\'ef\par
+wedge   n.\'d0\'a8   vt.\'d0\'a8\'c8\'eb\'a3\'bb\'bc\'b7\'c8\'eb\par
+whale   n.\'be\'a8\'a3\'bb\'c5\'d3\'c8\'bb\'b4\'f3\'ce\'ef\par
+wharf   n.\'c2\'eb\'cd\'b7\'a3\'ac\'cd\'a3\'b2\'b4\'cb\'f9\par
+what   a.\'cb\'f9\'a1\'ad\'b5\'c4\'a3\'ac\'be\'a1\'bf\'c9\'c4\'dc\'b6\'e0\'b5\'c4\par
+whereby   ad.\'bf\'bf\'ca\'b2\'c3\'b4\'a3\'bb\'bf\'bf\'c4\'c7\'b8\'f6\par
+whilst   conj.\'cd\'ac\'a1\'ad\'cd\'ac\'ca\'b1\'a3\'bb\'c8\'bb\'b6\'f8\par
+whisker   n.\'f7\'d7\'a3\'ac\'c1\'ac\'f7\'de\'ba\'fa\'d7\'d3\par
+whisper   vt.\'b5\'cd\'c9\'f9\'b5\'d8\'bd\'b2\'a3\'ac\'cb\'bd\'cf\'c2\'cb\'b5\par
+white   a.\'b0\'d7\'d6\'d6(\'c8\'cb)\'b5\'c4\par
+whitewash   n.\'ca\'af\'bb\'d2\'cb\'ae   vt.\'b7\'db\'ca\'ce\par
+whoever   pron.\'be\'bf\'be\'b9\'ca\'c7\'cb\'ad\par
+wholesome   a.\'ca\'ca\'ba\'cf\'ce\'c0\'c9\'fa\'b5\'c4\par
+widely   ad.\'b4\'f3\'b4\'f3\'b5\'d8\par
+wield   vt.\'bb\'d3(\'bd\'a3)\'a3\'bb\'d0\'d0\'ca\'b9\par
+willow   n.\'c1\'f8\'ca\'f7\'a3\'ac\'c1\'f8\'c4\'be\par
+wind   n.\'d0\'d8\'bf\'da\'a3\'ac\'d0\'c4\'ce\'d1\par
+winding   n.\'be\'ed\'c8\'c6\'d7\'c5\'b5\'c4\'cf\'dfa.\'be\'ed\'c7\'fa\'b5\'c4\par
+windmill   n.\'b7\'e7\'b3\'b5\par
+windy   a.\'b6\'e0\'b7\'e7\'b5\'c4\'a3\'ac\'b9\'ce\'b7\'e7\'b5\'c4\par
+wink   vi.\'d5\'a3\'d1\'db\'a3\'bb\'ca\'b9\'d1\'db\'c9\'ab\par
+wisdom   n.(\'b9\'c5\'c8\'cb\'b5\'c4)\'c3\'fb\'d1\'d4\'a3\'ac\'b8\'f1\'d1\'d4\par
+wither   vi.\'bf\'dd\'ce\'ae   vt.\'ca\'b9\'cb\'a5\'c8\'f5\par
+whereas   conj.\'b6\'f8\'a3\'ac\'c8\'b4\'a3\'ac\'b7\'b4\'d6\'ae\par
+witty   a.\'bb\'fa\'d6\'c7\'b5\'c4\'a3\'bb\'b7\'e7\'c8\'a4\'b5\'c4\par
+woe   n.\'b1\'af\'b0\'a7\'a3\'ac\'b1\'af\'cd\'b4\'a3\'ac\'bf\'e0\'c4\'d5\par
+woodpecker   n.\'d7\'c4\'c4\'be\'c4\'f1\par
+workpiece   n.\'b9\'a4(\'d7\'f7)\'bc\'fe\par
+workshop   n.\'d7\'a8\'cc\'e2\'cc\'d6\'c2\'db\'bb\'e1\par
+worship   vt.\'b3\'e7\'b0\'dd   vi.\'d7\'f6\'c0\'f1\'b0\'dd\par
+wrath   n.\'b1\'a9\'c5\'ad\'a3\'ac\'bf\'f1\'c5\'ad\'a3\'ac\'b7\'df\'bf\'ae\par
+wrench   vt.\'c5\'a1\'a3\'ac\'c5\'a4\'c9\'cb   n.\'c5\'a1\par
+wrestle   n.\'cb\'a4\'bd\'bb\'a3\'bb\'b6\'b7\'d5\'f9\'a3\'ac\'b2\'ab\'b6\'b7\par
+wretched   a.\'b2\'bb\'d0\'d2\'b5\'c4\'a3\'bb\'b1\'b0\'b1\'c9\'b5\'c4\par
+wring   vt.\'c5\'a1\'a3\'ac\'bc\'b7\'a3\'ac\'c5\'a4\'a3\'ac\'d5\'a5\par
+wrinkle   n.\'d6\'e5\'ce\'c6   vt.\'ca\'b9\'c6\'f0\'d6\'e5\'ce\'c6\par
+xerox   vt.&vi.\'d3\'c3\'be\'b2\'b5\'e7\'b8\'b4\'d3\'a1\par
+yacht   n.\'d3\'ce\'cd\'a7\'a3\'ac\'bf\'ec\'cd\'a7\par
+yearn   vi.\'cf\'eb\'c4\'ee\'a3\'ac\'bb\'b3\'c4\'ee\'a3\'ac\'cf\'f2\'cd\'f9\par
+yeast   n.\'bd\'cd\'c4\'b8\par
+yoke   n.\'e9\'ee\'a3\'ac\'c5\'a3\'e9\'ee\'a3\'bb\'bc\'cf\'cb\'f8\par
+yolk   n.\'b5\'b0\'bb\'c6\'a3\'ac\'c2\'d1\'bb\'c6\par
+youngster   n.\'b6\'f9\'cd\'af\'a3\'ac\'c9\'d9\'c4\'ea\'a3\'ac\'c4\'ea\'c7\'e1\'c8\'cb\par
+zinc   n.\'d0\'bf   vt.\'d4\'da\'a1\'ad\'c9\'cf\'b6\'c6\'d0\'bf\par
+}
+ 

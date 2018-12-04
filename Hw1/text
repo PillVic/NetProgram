@@ -1,0 +1,36 @@
+GET /api/weather/city/101030100 HTTP/1.1
+Host: t.weather.sojson.com
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-CN,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: _ga=GA1.2.77648417.1538467909; _gid=GA1.2.1865341186.1538824031
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+HTTP/1.1 200 OK
+Server: marco/2.6
+Date: Sun, 07 Oct 2018 03:06:31 GMT
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Source: C/200
+Expires: Sun, 07 Oct 2018 06:41:31 GMT
+Cache-Control: max-age=14400
+Age: 1500
+X-Request-Id: e432b6b9d835569d4122ffb6f03c3d18; 75a6417d051abd69b84251a9e3dd0847
+Via: S.mix-hz-fdi-166, T.166.M, V.mix-hz-fdi-163, T.131.H, M.cmn-zj-wnz-134
+Content-Encoding: gzip
+
+{"time":"2018-10-07 10:41:31","cityInfo":{"city":".........","cityId":"101030100","parent":"......","updateTime":"10:26"},"date":"20181007","message":"Success !","status":200,"data":{"shidu":"18%","pm25":30.0,"pm10":61.0,"quality":"...","wendu":"19","ganmao":"..........................................","yesterday":{"date":"06............","sunrise":"06:10","high":"...... 20.0...","low":"...... 11.0...","sunset":"17:48","aqi":52.0,"fx":"......","fl":"4-5...","type":"......","notice":"...................................."},"forecast":[{"date":"07............","sunrise":"06:11","high":"...... 21.0...","low":"...... 10.0...","sunset":"17:46","aqi":50.0,"fx":".........","fl":"4-5...","type":"...","notice":"...................................."},{"date":"08............","sunrise":"06:12","high":"...... 21.0...","low":"...... 9.0...","sunset":"17:45","aqi":69.0,"fx":"......","fl":"<3...","type":"...","notice":"...................................."},{"date":"09............","sunrise":"06:13","high":"...... 17.0...","low":"...... 8.0...","sunset":"17:43","aqi":47.0,"fx":"......","fl":"5-6...","type":"......","notice":"...................................."},{"date":"10............","sunrise":"06:14","high":"...... 17.0...","low":"...... 9.0...","sunset":"17:42","aqi":29.0,"fx":".........","fl":"<3...","type":"...","notice":"...................................."},{"date":"11............","sunrise":"06:15","high":"...... 19.0...","low":"...... 10.0...","sunset":"17:40","aqi":28.0,"fx":"......","fl":"<3...","type":"...","notice":"...................................."}]}}GET /favicon.ico HTTP/1.1
+Host: t.weather.sojson.com
+User-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+Accept: */*
+Accept-Language: zh-CN,en-US;q=0.7,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: _ga=GA1.2.77648417.1538467909; _gid=GA1.2.1865341186.1538824031
+DNT: 1
+Connection: keep-alive
+

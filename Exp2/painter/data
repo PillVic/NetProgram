@@ -1,0 +1,550 @@
+packages:1
+
+###[ Ethernet ]### 
+  dst       = 00:00:5e:00:01:02
+  src       = 58:fb:84:4c:82:1d
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 60
+     id        = 48752
+     flags     = DF
+     frag      = 0
+     ttl       = 64
+     proto     = tcp
+     chksum    = 0xea97
+     src       = 10.66.96.186
+     dst       = 192.168.102.15
+     \options   \
+###[ TCP ]### 
+        sport     = 54468
+        dport     = http
+        seq       = 1767660115
+        ack       = 0
+        dataofs   = 10
+        reserved  = 0
+        flags     = S
+        window    = 29200
+        chksum    = 0xd78
+        urgptr    = 0
+        options   = [('MSS', 1460), ('SAckOK', b''), ('Timestamp', (3785604187, 0)), ('NOP', None), ('WScale', 7)]
+
+None
+---------------------------------------------------
+
+packages:2
+
+###[ Ethernet ]### 
+  dst       = 58:fb:84:4c:82:1d
+  src       = 74:25:8a:3a:4d:16
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 60
+     id        = 0
+     flags     = DF
+     frag      = 0
+     ttl       = 60
+     proto     = tcp
+     chksum    = 0xad08
+     src       = 192.168.102.15
+     dst       = 10.66.96.186
+     \options   \
+###[ TCP ]### 
+        sport     = http
+        dport     = 54468
+        seq       = 1561959856
+        ack       = 1767660116
+        dataofs   = 10
+        reserved  = 0
+        flags     = SA
+        window    = 14480
+        chksum    = 0x834e
+        urgptr    = 0
+        options   = [('MSS', 1460), ('SAckOK', b''), ('Timestamp', (2208777511, 3785604187)), ('NOP', None), ('WScale', 7)]
+
+None
+---------------------------------------------------
+
+packages:3
+
+###[ Ethernet ]### 
+  dst       = 00:00:5e:00:01:02
+  src       = 58:fb:84:4c:82:1d
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 52
+     id        = 48753
+     flags     = DF
+     frag      = 0
+     ttl       = 64
+     proto     = tcp
+     chksum    = 0xea9e
+     src       = 10.66.96.186
+     dst       = 192.168.102.15
+     \options   \
+###[ TCP ]### 
+        sport     = 54468
+        dport     = http
+        seq       = 1767660116
+        ack       = 1561959857
+        dataofs   = 8
+        reserved  = 0
+        flags     = A
+        window    = 229
+        chksum    = 0xe9c0
+        urgptr    = 0
+        options   = [('NOP', None), ('NOP', None), ('Timestamp', (3785604192, 2208777511))]
+
+None
+---------------------------------------------------
+
+packages:4
+
+###[ Ethernet ]### 
+  dst       = 00:00:5e:00:01:02
+  src       = 58:fb:84:4c:82:1d
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 580
+     id        = 48754
+     flags     = DF
+     frag      = 0
+     ttl       = 64
+     proto     = tcp
+     chksum    = 0xe88d
+     src       = 10.66.96.186
+     dst       = 192.168.102.15
+     \options   \
+###[ TCP ]### 
+        sport     = 54468
+        dport     = http
+        seq       = 1767660116
+        ack       = 1561959857
+        dataofs   = 8
+        reserved  = 0
+        flags     = PA
+        window    = 229
+        chksum    = 0xe308
+        urgptr    = 0
+        options   = [('NOP', None), ('NOP', None), ('Timestamp', (3785604192, 2208777511))]
+###[ Raw ]### 
+           load      = 'GET /_upload/article/images/f5/2a/c604697f45e1a01fd95461626dd0/082e8e2d-2068-4afa-b783-4cde6a7978a1.jpg HTTP/1.1\r\nHost: cbs.hdu.edu.cn\r\nUser-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: zh-CN,en-US;q=0.7,en;q=0.3\r\nAccept-Encoding: gzip, deflate\r\nDNT: 1\r\nConnection: keep-alive\r\nUpgrade-Insecure-Requests: 1\r\nIf-Modified-Since: Sat, 22 Sep 2018 02:07:11 GMT\r\nIf-None-Match: "25a3d-5766c36cb4530"\r\n\r\n'
+
+None
+---------------------------------------------------
+
+packages:5
+
+###[ Ethernet ]### 
+  dst       = 58:fb:84:4c:82:1d
+  src       = 74:25:8a:3a:4d:16
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 52
+     id        = 55455
+     flags     = DF
+     frag      = 0
+     ttl       = 60
+     proto     = tcp
+     chksum    = 0xd470
+     src       = 192.168.102.15
+     dst       = 10.66.96.186
+     \options   \
+###[ TCP ]### 
+        sport     = http
+        dport     = 54468
+        seq       = 1561959857
+        ack       = 1767660644
+        dataofs   = 8
+        reserved  = 0
+        flags     = A
+        window    = 122
+        chksum    = 0xe814
+        urgptr    = 0
+        options   = [('NOP', None), ('NOP', None), ('Timestamp', (2208777518, 3785604192))]
+
+None
+---------------------------------------------------
+
+packages:6
+
+###[ Ethernet ]### 
+  dst       = 58:fb:84:4c:82:1d
+  src       = 74:25:8a:3a:4d:16
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 247
+     id        = 55456
+     flags     = DF
+     frag      = 0
+     ttl       = 60
+     proto     = tcp
+     chksum    = 0xd3ac
+     src       = 192.168.102.15
+     dst       = 10.66.96.186
+     \options   \
+###[ TCP ]### 
+        sport     = http
+        dport     = 54468
+        seq       = 1561959857
+        ack       = 1767660644
+        dataofs   = 8
+        reserved  = 0
+        flags     = PA
+        window    = 122
+        chksum    = 0xb597
+        urgptr    = 0
+        options   = [('NOP', None), ('NOP', None), ('Timestamp', (2208777518, 3785604192))]
+###[ Raw ]### 
+           load      = 'HTTP/1.1 304 Not Modified\r\nDate: Fri, 16 Nov 2018 01:31:38 GMT\r\nServer: Apache/2.4.25 (Unix) mod_jk/1.2.37\r\nConnection: Keep-Alive\r\nKeep-Alive: timeout=5, max=100\r\nETag: "25a3d-5766c36cb4530"\r\n\r\n'
+
+None
+---------------------------------------------------
+
+packages:7
+
+###[ Ethernet ]### 
+  dst       = 00:00:5e:00:01:02
+  src       = 58:fb:84:4c:82:1d
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 52
+     id        = 48755
+     flags     = DF
+     frag      = 0
+     ttl       = 64
+     proto     = tcp
+     chksum    = 0xea9c
+     src       = 10.66.96.186
+     dst       = 192.168.102.15
+     \options   \
+###[ TCP ]### 
+        sport     = 54468
+        dport     = http
+        seq       = 1767660644
+        ack       = 1561960052
+        dataofs   = 8
+        reserved  = 0
+        flags     = A
+        window    = 237
+        chksum    = 0xe6d9
+        urgptr    = 0
+        options   = [('NOP', None), ('NOP', None), ('Timestamp', (3785604197, 2208777518))]
+
+None
+---------------------------------------------------
+
+packages:8
+
+###[ Ethernet ]### 
+  dst       = 00:00:5e:00:01:02
+  src       = 58:fb:84:4c:82:1d
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 375
+     id        = 48756
+     flags     = DF
+     frag      = 0
+     ttl       = 64
+     proto     = tcp
+     chksum    = 0xe958
+     src       = 10.66.96.186
+     dst       = 192.168.102.15
+     \options   \
+###[ TCP ]### 
+        sport     = 54468
+        dport     = http
+        seq       = 1767660644
+        ack       = 1561960052
+        dataofs   = 8
+        reserved  = 0
+        flags     = PA
+        window    = 237
+        chksum    = 0x4bc8
+        urgptr    = 0
+        options   = [('NOP', None), ('NOP', None), ('Timestamp', (3785604968, 2208777518))]
+###[ Raw ]### 
+           load      = 'GET /favicon.ico HTTP/1.1\r\nHost: cbs.hdu.edu.cn\r\nUser-Agent: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: zh-CN,en-US;q=0.7,en;q=0.3\r\nAccept-Encoding: gzip, deflate\r\nDNT: 1\r\nConnection: keep-alive\r\n\r\n'
+
+None
+---------------------------------------------------
+
+packages:9
+
+###[ Ethernet ]### 
+  dst       = 58:fb:84:4c:82:1d
+  src       = 74:25:8a:3a:4d:16
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 518
+     id        = 8162
+     flags     = DF
+     frag      = 0
+     ttl       = 60
+     proto     = tcp
+     chksum    = 0x8b5c
+     src       = 192.168.102.15
+     dst       = 10.66.96.186
+     \options   \
+###[ TCP ]### 
+        sport     = http
+        dport     = 54468
+        seq       = 1561960052
+        ack       = 1767660967
+        dataofs   = 8
+        reserved  = 0
+        flags     = PA
+        window    = 130
+        chksum    = 0x4f67
+        urgptr    = 0
+        options   = [('NOP', None), ('NOP', None), ('Timestamp', (2208778364, 3785604968))]
+###[ Raw ]### 
+           load      = 'HTTP/1.1 404 Not Found\r\nContent-Type: text/html\r\nExpires: 0\r\nCache-control: private\r\nContent-Length: 358\r\n\r\nSorry, Page Not Found\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+
+None
+---------------------------------------------------
+
+packages:10
+
+###[ Ethernet ]### 
+  dst       = 00:00:5e:00:01:02
+  src       = 58:fb:84:4c:82:1d
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 52
+     id        = 48757
+     flags     = DF
+     frag      = 0
+     ttl       = 64
+     proto     = tcp
+     chksum    = 0xea9a
+     src       = 10.66.96.186
+     dst       = 192.168.102.15
+     \options   \
+###[ TCP ]### 
+        sport     = 54468
+        dport     = http
+        seq       = 1767660967
+        ack       = 1561960518
+        dataofs   = 8
+        reserved  = 0
+        flags     = A
+        window    = 245
+        chksum    = 0xdd19
+        urgptr    = 0
+        options   = [('NOP', None), ('NOP', None), ('Timestamp', (3785605050, 2208778364))]
+
+None
+---------------------------------------------------
+
+packages:11
+
+###[ Ethernet ]### 
+  dst       = 58:fb:84:4c:82:1d
+  src       = 74:25:8a:3a:4d:16
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 518
+     id        = 55458
+     flags     = DF
+     frag      = 0
+     ttl       = 60
+     proto     = tcp
+     chksum    = 0xd29b
+     src       = 192.168.102.15
+     dst       = 10.66.96.186
+     \options   \
+###[ TCP ]### 
+        sport     = http
+        dport     = 54468
+        seq       = 1561960052
+        ack       = 1767660967
+        dataofs   = 8
+        reserved  = 0
+        flags     = PA
+        window    = 130
+        chksum    = 0xb548
+        urgptr    = 0
+        options   = [('NOP', None), ('NOP', None), ('Timestamp', (2208778570, 3785604968))]
+###[ Raw ]### 
+           load      = 'HTTP/1.1 404 Not Found\r\nDate: Fri, 16 Nov 2018 01:31:39 GMT\r\nServer: Apache/2.4.25 (Unix) mod_jk/1.2.37\r\nX-Frame-Options: SAMEORIGIN\r\nContent-Length: 209\r\nKeep-Alive: timeout=5, max=99\r\nConnection: Keep-Alive\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n<html><head>\n<title>404 Not Found</title>\n</head><body>\n<h1>Not Found</h1>\n<p>The requested URL /favicon.ico was not found on this server.</p>\n</body></html>\n'
+
+None
+---------------------------------------------------
+
+packages:12
+
+###[ Ethernet ]### 
+  dst       = 00:00:5e:00:01:02
+  src       = 58:fb:84:4c:82:1d
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 64
+     id        = 48758
+     flags     = DF
+     frag      = 0
+     ttl       = 64
+     proto     = tcp
+     chksum    = 0xea8d
+     src       = 10.66.96.186
+     dst       = 192.168.102.15
+     \options   \
+###[ TCP ]### 
+        sport     = 54468
+        dport     = http
+        seq       = 1767660967
+        ack       = 1561960518
+        dataofs   = 11
+        reserved  = 0
+        flags     = A
+        window    = 245
+        chksum    = 0xac7e
+        urgptr    = 0
+        options   = [('NOP', None), ('NOP', None), ('Timestamp', (3785605250, 2208778570)), ('NOP', None), ('NOP', None), ('SAck', (1561960052, 1561960518))]
+
+None
+---------------------------------------------------
+
+packages:13
+
+###[ Ethernet ]### 
+  dst       = 58:fb:84:4c:82:1d
+  src       = 74:25:8a:3a:4d:16
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 52
+     id        = 55459
+     flags     = DF
+     frag      = 0
+     ttl       = 60
+     proto     = tcp
+     chksum    = 0xd46c
+     src       = 192.168.102.15
+     dst       = 10.66.96.186
+     \options   \
+###[ TCP ]### 
+        sport     = http
+        dport     = 54468
+        seq       = 1561960518
+        ack       = 1767660967
+        dataofs   = 8
+        reserved  = 0
+        flags     = FA
+        window    = 130
+        chksum    = 0xc936
+        urgptr    = 0
+        options   = [('NOP', None), ('NOP', None), ('Timestamp', (2208783369, 3785605250))]
+
+None
+---------------------------------------------------
+
+packages:14
+
+###[ Ethernet ]### 
+  dst       = 00:00:5e:00:01:02
+  src       = 58:fb:84:4c:82:1d
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 52
+     id        = 48759
+     flags     = DF
+     frag      = 0
+     ttl       = 64
+     proto     = tcp
+     chksum    = 0xea98
+     src       = 10.66.96.186
+     dst       = 192.168.102.15
+     \options   \
+###[ TCP ]### 
+        sport     = 54468
+        dport     = http
+        seq       = 1767660967
+        ack       = 1561960519
+        dataofs   = 8
+        reserved  = 0
+        flags     = FA
+        window    = 245
+        chksum    = 0xb604
+        urgptr    = 0
+        options   = [('NOP', None), ('NOP', None), ('Timestamp', (3785610048, 2208783369))]
+
+None
+---------------------------------------------------
+
+packages:15
+
+###[ Ethernet ]### 
+  dst       = 58:fb:84:4c:82:1d
+  src       = 74:25:8a:3a:4d:16
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 52
+     id        = 55460
+     flags     = DF
+     frag      = 0
+     ttl       = 60
+     proto     = tcp
+     chksum    = 0xd46b
+     src       = 192.168.102.15
+     dst       = 10.66.96.186
+     \options   \
+###[ TCP ]### 
+        sport     = http
+        dport     = 54468
+        seq       = 1561960519
+        ack       = 1767660968
+        dataofs   = 8
+        reserved  = 0
+        flags     = A
+        window    = 130
+        chksum    = 0xb673
+        urgptr    = 0
+        options   = [('NOP', None), ('NOP', None), ('Timestamp', (2208783373, 3785610048))]
+
+None
+---------------------------------------------------
+
