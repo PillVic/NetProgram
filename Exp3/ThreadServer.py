@@ -62,7 +62,6 @@ s.setsockopt(socket.SOL_SOCKET,socket.SO_REUSEADDR,1)
 s.bind(('',PORT))
 s.listen(1)
 
-threads = []
 
 while True:
     sc,sockName = s.accept()
