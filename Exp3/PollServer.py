@@ -54,6 +54,65 @@ def FileServe(sc):
     print('Request Get: '+request)
     SendFile(sc,Source+request)
 
+def loopEvents(p):
+    while True:
+        for fd, event in p.poll():
+            yield fd, event
+
+def Serve(listenSock):
+    sockets = {listenSock.fileno():listenSock}
+    addresses = {}
+    recvBytes = {listenSock.fileno():[-1,b'']}
+    sendBytes = {listenSock.fileno():[-1,b'']}
+
+    p = select.poll()
+    p.register(listenSock, select.POLLIN)
+
+    for fd, event in loopEvents(p):
+        sock = sockets[fd]
+        if event & (select.POLLHUP|select.POLLERR|select.POLLNVAL):
+            # Socket closed:remove it
+            address = addresses.pop(sock)
+            rb = recvBytes.pop(sock, b'')
+            sb = sendBytes.pop(sock,b'')
+            if rb:
+                print('Client {} sent {} but then closed.'.format(address, rb))
+            elif sb:
+                print('Client {} closed before we sent {}'.format(address,sb))
+            else:
+                print('Client {} closed socket normally'.format(address))
+            p.unregister(fd)
+        elif sock is listenSock:
+            #New Socket:add it
+            sock, address = sock.accept()
+            print('Accepted connection from {}'.format(address))
+            sock.setblocking(False)
+            sockets[sock.fileno()] = sock
+            addresses[sock] = address
+            p.register(sock, select.POLLIN)
+            recvBytes[sock.fileno()]=[-1,'']
+        elif event & select.POLLIN:
+            #Incoming data: 
+            if recvBytes[sock.fileno()][0] ==-1:
+                #Receive request length
+                length = int(recvall(sock, 32).decode('UTF-8'))
+                recvBytes[sock.fileno()][0] = length
+                print('Request length get:'+str(length))
+            elif recvBytes[sock.fileno()][1] == '':
+                #Receive request 
+                recvBytes[sock.fileno()][1] = recvall(sock, recvBytes[sock.fileno()][0]).decode('UTF-8')
+                print('Request Get:'+recvBytes[sock.fileno()][1])
+                p.modify(sock, select.POLLOUT)
+        elif event & select.POLLOUT:
+            #Socket ready to send:keep sending until all bytes are delivered
+            request = recvBytes[sock.fileno()][1]
+            print(request)
+            if request != '':
+                print('Request Start:'+request)
+                SendFile(sock, 'Source/'+request)
+                p.modify(sock, select.POLLIN)
+
+            
 
 PORT = 6666
 
@@ -61,8 +120,6 @@ s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 s.setsockopt(socket.SOL_SOCKET,socket.SO_REUSEADDR,1)
 s.bind(('',PORT))
 s.listen(1)
+Serve(s)
 
-
-while True:
-    sc,sockName = s.accept()
 
