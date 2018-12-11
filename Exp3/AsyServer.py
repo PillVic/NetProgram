@@ -12,6 +12,7 @@ def SendContent(writer,f, length):
     #以二进制形式读取指定路径的文件
     content = f.read(length)
     writer.write(content)
+    yield from writer.drain()
 
 
 # 网络编程部分
@@ -50,8 +51,8 @@ def recvall(sock,length):
 def FileServe(reader, writer):
     address = writer.get_extra_info('peername')
     print('Accepted connection from {}'.format(address))
-    length = int((yield from reader.read(32)).decode('UTF-8'))
-    request = (yield from reader.read(length)).decode('UTF-8')
+    length = int((yield from reader.readexactly(32)).decode('UTF-8'))
+    request = (yield from reader.readexactly(length)).decode('UTF-8')
     SendFile(writer, Source+request)
 
 PORT = 6666
