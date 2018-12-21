@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>城市天气预报</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <!--     <script src="main.js"></script> -->
+</head>
+<body>
+    <div id="search">
+        <label for="cityLable">请输入城市名称</label>
+        <input type="cityInput" id="cityInput">
+        <button type="button" id="searchButton" onclick="search()">搜索天气</button>
+        <script type="text/javascript">
+         function tounicode(data){
+             var str =''
+             for(var i=0;i<data.length;i++){
+                 str+="\\u"+parseInt(data[i].charCodeAt(0),10).toString(16)
+             }
+             return str
+         }
+         function search(){
+             //get the data from input
+             var cityName = document.getElementById("cityInput").value
+             document.getElementById('weatherPad').innerHTML = 'Weather info:'+cityName
+             //using ajax to send and update page with the data from server
+             var xmlhttp = new XMLHttpRequest()
+             xmlhttp.onreadystatechange=function(){
+                 if(this.readyState == 4 && this.status==200){
+                     document.getElementById('weatherPad').innerHTML = this.responseText
+                 }
+             }
+             xmlhttp.open('GET', 'Weather?'+tounicode(cityName), true)
+             xmlhttp.send()
+         }
+        </script>
+        <div id ="weatherPad">Weather Info</div>
+    </div>
+</body>
+</html>
+
+
