@@ -1,4 +1,4 @@
-rom urllib.request import urlopen
+from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
 city = dict()
